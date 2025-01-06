@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage001b.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >As used in the passage, "contract" most nearly means</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>settle by agreement</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>be drawn together</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>arrange for</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>become affected by</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>reduce in compass</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">become affected by.</span></p>
+<p>The sailors would <span fontStyle="italic">become affected by</span> scurvy, acquiring or contracting the disease.</p>
+<p><span fontStyle="italic">Settle by agreement</span> is incorrect.  Although to <span fontStyle="italic">settle by agreement</span> is a meaning for the verb <span fontStyle="italic">contract</span>, it is not appropriate in this context.</p>
+<p><span fontStyle="italic">Be drawn together</span> is incorrect.  Although to <span fontStyle="italic">be</span> <span fontStyle="italic">drawn together</span> is a meaning for the verb <span fontStyle="italic">contract</span>, it is not appropriate in this context.</p>
+<p><span fontStyle="italic">Arrange for</span> is incorrect.  Although to <span fontStyle="italic">arrange for </span>is a meaning for the verb <span fontStyle="italic">contract</span>, it is not appropriate in this context.</p>
+<p><span fontStyle="italic">Reduce in compass</span> is incorrect. Although to <span fontStyle="italic">reduce in compass</span> is a meaning for the verb <span fontStyle="italic">contract</span>, it is not appropriate in this context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Written in epistolary form, and therefore strikingly unlike her earlier novels, Jane Austen’s incomplete novel <span fontStyle="italic">Lady Susan </span>nonetheless ________ several dramatic themes evident in those youthful works.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>criticizes</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>reiterates</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>invalidates</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>conceals</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>echoes </p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>terminates</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">reiterates; echoes.</span></p>
+<p>The key phrases here are <span fontStyle="italic">unlike her earlier novels</span> and <span fontStyle="italic">nonetheless</span>. Even though <span fontStyle="italic">Lady Susan</span> is <span fontStyle="italic">not</span> like Austen’s earlier novels, nevertheless it <span fontStyle="italic">echoes</span> or <span fontStyle="italic">reiterates</span> (repeats) themes that you can find in those earlier works.</p>
+
+<p><span fontStyle="italic">Criticizes</span> is incorrect. The novel does not <span fontStyle="italic">criticize</span> the themes of Austen’s earlier novels.</p>
+
+<p><span fontStyle="italic">Invalidates</span> is incorrect. The novel does not <span fontStyle="italic">invalidate</span> (discredit or weaken) the themes of Austen’s earlier novels.</p>
+
+<p><span fontStyle="italic">Conceals</span> is incorrect. The novel does not <span fontStyle="italic">conceal</span> or hide the themes of Austen’s earlier novels.</p>
+
+<p><span fontStyle="italic">Terminates</span> is incorrect. The novel does not <span fontStyle="italic">terminate</span> or put an end to the themes of Austen’s earlier novels.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

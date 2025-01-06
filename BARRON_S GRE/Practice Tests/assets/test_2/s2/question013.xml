@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>The auctioneer prided himself on his imperturbability under the most hectic of circumstances; no matter how</p>
+<p>(i)________ the bidding became or how immensely precious the items he auctioned, he allowed nothing to</p>
+<p>(ii)________ his composure.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[frenzied]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[magnanimous]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[sporadic]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[ameliorate]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[unsettle]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[denigrate]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">frenzied; unsettle.</span></p>
+<p>Someone imperturbable is calm and composed. Even if the bidding at an auction became <span fontStyle="italic">frenzied</span> (frantic; highly agitated), that would not <span fontStyle="italic">unsettle</span> (ruffle; disturb) an imperturbable auctioneer’s composure. Think of "unsettled sleep."</p>
+
+<p><span fontStyle="italic">Magnanimous</span> is incorrect. The bidding at an auction would be somewhat unlikely to be described as <span fontStyle="italic">magnanimous</span> (high-minded; noble).</p>
+
+<p><span fontStyle="italic">Sporadic</span> is incorrect. The key phrase here is <span fontStyle="italic">the most hectic of circumstances</span>. <span fontStyle="italic">Sporadic</span> (intermittent or infrequent) bidding would not be particularly hectic or frantic.</p>
+
+<p><span fontStyle="italic">Ameliorate</span> is incorrect. The auctioneer prides himself on his <span fontStyle="italic">imperturbability</span>, his ability to maintain his composure under stressful conditions. He will not allow anything to shake his composure. <span fontStyle="italic">Ameliorate</span> (improve; make better) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Denigrate</span> is incorrect. The auctioneer prides himself on his <span fontStyle="italic">imperturbability</span>, his ability to maintain his composure under stressful conditions. He will not allow anything to shake his composure. <span fontStyle="italic">Denigrate</span> (disparage; defame) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

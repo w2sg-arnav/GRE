@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Infuriated by what he considered blatantly (i) ___________ attacks in the press, the candidate delivered a lengthy (ii) __________ against biased reporting.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[surreptitious]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[warranted]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[partisan]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[harangue]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[prejudice]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[rhetoric]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">partisan, harangue.</span></p>
+<p>The key word here is <span fontStyle="italic">infuriated</span> or angry. A <span fontStyle="italic">harangue</span> is a sharp verbal attack, a bitter tirade or diatribe. The angry candidate responds to what he considers <span fontStyle="italic">partisan</span> or biased attacks by attacking those who have attacked him.</p>
+<p><span fontStyle="italic">Surreptitious </span>is incorrect. <span fontStyle="italic">Surreptitious</span> means hidden or stealthy. It makes no sense in the context of a blatant attack.</p>
+
+<p><span fontStyle="italic">Warranted</span> is incorrect. <span fontStyle="italic">Warranted</span> means justified. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Prejudice </span>is incorrect.<span fontStyle="italic"> Prejudice </span>is a preconceived opinion, usually an unfavorable one. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Rhetoric</span> is incorrect. <span fontStyle="italic">Rhetoric</span> is the art or study of the use of languages. It makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

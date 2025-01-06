@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s2/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The author approves of all of Lind’s experimental methodology EXCEPT his</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>division of the sick seamen into six separate but corresponding groups</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>criteria for the selection of possible cures to test</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>selection of subjects all suffering from the same ailment</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>choice of remedies then in favor with naval surgeons</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>provision of identical dietary conditions for each group</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choices 2 and 4.</span></p>
+<p>The author remarks that the weakness of Lind’s work was that "the six possible cures that he compared were presumably selected empirically from those currently favored by ships’ surgeons."  Thus, he disapproves both of Lind’s <span fontStyle="italic">criteria for the selection of possible cures to test </span>and of his <span fontStyle="italic">choice of remedies then in favor with naval surgeons.</span></p>
+
+<p>Choice 1 is incorrect. The author approves of Lind’s <span fontStyle="italic">division of the sick seamen into six separate but corresponding groups</span>: he writes that the experiment "had obvious commendable features," and remarks that Lind "selected six groups that were <span fontStyle="italic">as similar as possible</span> at the beginning of the experiment."</p>
+
+<p>Choice 2 by itself is incorrect. The author remarks that the weakness of Lind’s work was that "the six possible cures that he compared were presumably selected empirically from those currently favored by ships’ surgeons." Thus, he disapproves of Lind’s <span fontStyle="italic">criteria for the selection of possible</span> <span fontStyle="italic">cures to test.</span> However, there is another answer choice of which he disapproves.</p>
+
+<p>Choice 3 is incorrect. The author approves of Lind’s <span fontStyle="italic">selection of subjects all suffering from the same ailment</span>: he writes that the experiment "had obvious commendable features," and remarks that Lind "selected six groups that were <span fontStyle="italic">as similar as possible</span> at the beginning of the experiment."</p>
+
+<p>Choice 4 by itself is incorrect. The author remarks that the weakness of Lind’s work was that "the six possible cures that he compared were presumably selected empirically from those currently favored by ships’ surgeons." Thus, he disapproves of Lind’s <span fontStyle="italic">choice of remedies then in favor with naval surgeons.</span> However, there is another answer choice of which he disapproves.</p>
+
+<p>Choice 5 is incorrect. The author approves of Lind’s <span fontStyle="italic">provision of identical dietary conditions for each group</span>: he writes that the experiment "had obvious commendable features," and remarks that Lind "maintained them (the groups) throughout under <span fontStyle="italic">the same general environmental and dietary conditions.</span>"</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

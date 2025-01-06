@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s5_005a.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity B is greater.</span></p>
+<p>If you draw a diagram, it is immediately clear that the area of the large triangle is <span fontStyle="italic">more than</span> twice the area of the small one. In fact, it is 4 times as great. Quantity B is larger</p>
+<p lineHeight="120%"><img source="assets/images/tst2_s5_005b.swf"/></p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p lineHeight="44">Use the formula for the area of an equilateral triangle of sides <span fontStyle="italic">s</span>: <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_076.swf"/></p>
+<p lineHeight="44">Quantity A: 2 &#215; <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_077.swf"/></p>
+<p lineHeight="44">Quantity B: <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_078.swf"/></p>
+<p lineHeight="44">Quantity B is larger.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

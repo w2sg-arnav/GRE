@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Eager for precision in a field (i)________ ambiguity and frustration and determined at all costs to find answers to (ii)________ questions of provenance, curators of major museums have long used the methods of nuclear science&#8212;neutron activation analysis, accelerator mass spectrometry, proton-induced X-ray emissions&#8212;to analyze ancient artworks.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[indifferent to]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[notorious for]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[decimated by]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[vexing]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[redundant]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[rhetorical]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">notorious for; vexing.</span></p>
+<p>The key phrases here are <span fontStyle="italic">eager for precision </span>and <span fontStyle="italic">determined at all costs</span>. They suggest that the questions for which the curators seek answers are highly serious ones.  Indeed, they are <span fontStyle="italic">vexing</span> (troublesome; puzzling; highly annoying) questions in a field <span fontStyle="italic">notorious</span> (infamous)<span fontStyle="italic"> for</span> its frustrating puzzles.</p>
+
+<p><span fontStyle="italic">Indifferent to</span> is incorrect. The museum world is not <span fontStyle="italic">indifferent to</span> or apathetic about the ambiguity and frustration it encounters.  Instead, museum curators are highly troubled by questions about the ages and sources of the ancient artifacts in their charge.</p>
+
+<p><span fontStyle="italic">Decimated by</span> is incorrect. Although museum curators are highly troubled by questions about the ages and sources of the ancient artifacts in their charge, the field of art history has not been <span fontStyle="italic">decimated</span> or destroyed by its ambiguity and frustrations.</p>
+
+<p><span fontStyle="italic">Redundant</span> is incorrect. The key phrases here are <span fontStyle="italic">eager for precision </span>and determined <span fontStyle="italic">at all costs</span>. They suggest that the questions for which the curators seek answers are important questions, not <span fontStyle="italic">redundant</span> or unnecessary ones.</p>
+
+<p><span fontStyle="italic">Rhetorical</span> is incorrect. The key phrases here are <span fontStyle="italic">eager for precision</span> and <span fontStyle="italic">determined at all costs</span>. They suggest that the questions for which the curators seek answers are important questions, not <span fontStyle="italic">rhetorical</span> questions asked only to create an effect.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

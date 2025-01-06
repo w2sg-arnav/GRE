@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s2/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The passage focuses primarily on</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Jane Austen’s place in English literary history</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>the customary denigration faced by literary women</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>the implications of Austen’s attitude to her work</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>critical evaluations of the novels of Jane Austen</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>society’s rejection of professional women in the18th and 19th centuries</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">the implications of Austen’s attitude to</span></p>
+<p><span fontWeight="bold">her work.</span></p>
+<p>The opening paragraph describes Austen’s <span fontStyle="italic">attitude to</span> <span fontStyle="italic">her work</span>, citing the novelist’s self-deprecatory remarks and her preference for anonymity rather than fame. The second paragraph goes on to discuss the <span fontStyle="italic">implications</span> of Austen’s attitude: "Austen’s self-effacing anonymity and her modest description of her miniaturist art also imply a criticism, even a rejection, of the world at large."</p>
+
+<p><span fontStyle="italic">Jane Austen’s place in English literary history</span> is incorrect.  The passage does not discuss Austen’s place in English literary history.</p>
+
+<p><span fontStyle="italic">The customary denigration faced by literary women</span> is incorrect. While the quote from Brunton makes the point that literary women have faced denigration, that is not the focus of the passage as a whole.</p>
+
+<p><span fontStyle="italic">Critical evaluations of the novels of Jane Austen</span> is incorrect. The passage fails to provide any critical evaluations of Austen’s novels.</p>
+
+<p><span fontStyle="italic">Society’s rejection of professional women in the 18th and 19th centuries </span>is incorrect.  The passage focuses on Austen in particular, not on professional women in general.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

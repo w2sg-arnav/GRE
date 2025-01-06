@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If <span fontStyle="italic">x</span> + <span fontStyle="italic">y</span> = 123 and <span fontStyle="italic">x</span> &#8211; <span fontStyle="italic">y</span> = 89, what is the value of <span fontStyle="italic">x</span><span baselineShift="superscript">2</span> &#8211; <span fontStyle="italic">y</span><span baselineShift="superscript">2</span>?</p>
+<p></p>
+</TextFlow>]]>
+</barrons:question>
+<barrons:answer value="10947" suffix=""/> <!-- puts the text after the input field -->
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">10,947</span></p>
+<p>The simplest solution is to remember that 
+<span fontStyle="italic">x</span><span baselineShift="superscript">2</span> &#8211; <span fontStyle="italic">y</span><span baselineShift="superscript">2</span> = (<span fontStyle="italic">x</span> + <span fontStyle="italic">y</span>)(<span fontStyle="italic">x</span> &#8722; <span fontStyle="italic">y</span>) = 123 × 89 = 10,947.</p>
+<p></p>
+<p><span fontWeight="bold">Alternative solution:</span></p>
+<p>Another, slightly longer, solution is to solve for <span fontStyle="italic">x</span> and <span fontStyle="italic">y</span>. Adding the two given equations, we get that 2<span fontStyle="italic">x</span> = 212, and so <span fontStyle="italic">x </span>= 106. Then 106 + <span fontStyle="italic">y</span> = 123 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">y</span> = 17. Therefore, <span fontStyle="italic">x</span><span baselineShift="superscript">2</span> &#8211; <span fontStyle="italic">y</span><span baselineShift="superscript">2</span> = (106)<span baselineShift="superscript">2</span> &#8211; (17)<span baselineShift="superscript">2</span> = 11,236 &#8211; 289 = 10,947.</p>
+<p>Of course, all calculations in a question such as this should be done with the onscreen calculator.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

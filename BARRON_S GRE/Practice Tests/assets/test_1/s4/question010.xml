@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The passage’s statement that "you are watching a fungus eating" is best described as</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>figurative</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>ironical</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>parenthetical</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>erroneous</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>pejorative</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">figurative.</span></p>
+<p><span fontStyle="italic">Ironical</span> is incorrect. The author, in making the statement that <span fontStyle="italic">you are watching a fungus eating</span>, is not being <span fontStyle="italic">ironical</span> or mocking.</p>
+<p><span fontStyle="italic">Parenthetical</span> is incorrect. The statement that <span fontStyle="italic">you are watching a fungus eating</span> is not an aside, or comment inserted into a passage with which it is not grammatically connected, and marked off by brackets, dashes, etc.  Thus, it is not a <span fontStyle="italic">parenthetical </span>statement.</p>
+<p><span fontStyle="italic">Erroneous</span> is incorrect. Although it is not <span fontStyle="italic">literally </span>true that, when you see a dead tree moldering, you are watching a fungus eating, the statement is true in a metaphorical sense: the fungus is consuming the dead tree. Thus, you cannot describe the statement as wholly <span fontStyle="italic">erroneous</span> or mistaken.</p>
+<p><span fontStyle="italic">Pejorative</span> is incorrect.  It is not disparaging or derogatory to say that you are watching a fungus eating. Thus, you cannot describe the statement as <span fontStyle="italic">pejorative</span> (belittling; deprecatory).</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

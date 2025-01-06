@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="009">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>The area of a right triangle whose sides are 6, 8, and 10 is how many times the area of a right triangle whose sides are 3, 4, and 5?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>2</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>3</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>4</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>6</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>8</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">4</span></p>
+<p lineHeight="120%"><img source="assets/images/tst1_s3_009.swf"/></p>
+<p lineHeight="44">The area of a 6-8-10 right triangle is <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_035.swf"/>(8)(6) = 24.</p>
+<p lineHeight="44">The area of a 3-4-5 right triangle is <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_036.swf"/>(4)(3) = 6.</p>
+<p lineHeight="44">So the area of the larger triangle is 4 times the area of the smaller triangle.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

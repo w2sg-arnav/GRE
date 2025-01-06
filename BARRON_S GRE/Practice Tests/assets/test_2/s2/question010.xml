@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s2/passage002.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The function of the concluding clause of the passage’s final sentence is to</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>qualify an assertion</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>pose a rhetorical question</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>demonstrate a fallacy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>resolve a paradox </p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>reiterate an explanation</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">qualify an assertion.</span></p>
+<p>In stating "<span fontStyle="italic">we cannot rule out that some significant part of 
+these changes is also a reflection of natural variability,"</span> the NRC study <span fontStyle="italic">qualifies</span> or moderates the strength of its assertion that the climate changes under consideration most likely have resulted from human actions.</p>
+
+<p><span fontStyle="italic">Pose a rhetorical question</span> is incorrect. The concluding clause does not <span fontStyle="italic">pose</span> or ask <span fontStyle="italic">a rhetorical question</span>.</p>
+
+<p><span fontStyle="italic">Demonstrate a fallacy</span> is incorrect. The concluding clause does not <span fontStyle="italic">demonstrate</span> (show) <span fontStyle="italic">a fallacy</span> (erroneous belief).</p>
+
+<p><span fontStyle="italic">Resolve a paradox</span> is incorrect. The passage presents no <span fontStyle="italic">paradox</span> to be resolved.</p>
+
+<p><span fontStyle="italic">Reiterate an explanation</span> is incorrect. The concluding clause does not <span fontStyle="italic">reiterate</span> or repeat <span fontStyle="italic">an explanation</span>.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

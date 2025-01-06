@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s2/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The author cites Logan, Huggins, and Litwack for their</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>significant work on Jacksonian democracy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>participation in the Harlem Renaissance</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>return to the field of Afro-American history</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>research on blacks in nineteenth-century North Carolina</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>failure to respond to the changing intellectual milieu</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">return to the field of Afro-American history.</span></p>
+<p>The three men are cited as examples of scholars who were encouraged to resume their earlier researches in black history.</p>
+
+<p><span fontStyle="italic">Significant work on Jacksonian democracy </span>is incorrect. Only Litwack is identified in the passage as having lectured on Jacksonian democracy.</p>
+
+<p><span fontStyle="italic">Participation in the Harlem Renaissance</span> is incorrect. Although Huggins did write a book on the Harlem Renaissance, none of the three men were identified in the passage as having participated in the Harlem Renaissance.</p>
+
+<p><span fontStyle="italic">Research on blacks in nineteenth-century North Carolina</span> is incorrect. Only Logan is identified in the passage with research on blacks in nineteenth-century North Carolina.</p>
+
+<p><span fontStyle="italic">Failure to respond to the changing intellectual milieu </span>is incorrect. All three men responded to the changing intellectual milieu by becoming specialists in black history.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

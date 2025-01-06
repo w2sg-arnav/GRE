@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s5_001.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantities A and B are equal.</span></p>
+<p>Quantity A: The sum of the integers from &#8722;1 to &#8722;11 is the negative of the sum of the integers from 1 to 11. So the sum of all the integers is 0.</p>
+<p>Quantity B: The product of any set of numbers that includes 0 is 0.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

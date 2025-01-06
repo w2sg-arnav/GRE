@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_006a.swf"/></p>
+<p>In the stair unit in the figure above, all the angles are right angles. The left side is 5'4", and the bottom is 9'2". Each vertical riser is 8". The top step is 10 ¼", and each step below it is 1" more than the preceding step.</p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_006b.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity A is greater.</span></p>
+<p>You do not need to add the lengths of the steps. The sum of the lengths of all the horizontal steps is equal to the length of the bottom, and the sum of the lengths of all the vertical risers is equal to the length of the left side. The sum of the left side, 5 feet 4 inches, or 64 inches, and the bottom 9 feet 2 inches, or 110 inches, is half the perimeter. The perimeter is 2(64 + 110) = 2(174) = 348 inches. Quantity A is greater.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If <span fontStyle="italic">a</span>, <span fontStyle="italic">b</span>, <span fontStyle="italic">x</span>, and <span fontStyle="italic">y</span> are positive integers, and 13<span fontStyle="italic" baselineShift="superscript">a</span> &#215; 13<span fontStyle="italic" baselineShift="superscript">b</span> = (13<span fontStyle="italic" baselineShift="superscript">x</span>)<span fontStyle="italic" baselineShift="superscript">y</span> = 13<span baselineShift="superscript">13</span>, what is the average (arithmetic mean) of <span fontStyle="italic">a, b, x</span>, and <span fontStyle="italic">y</span>?</p>
+<p></p>
+</TextFlow>]]>
+</barrons:question>
+<barrons:answer value="6.75"></barrons:answer>
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">6.75</span></p>
+<p lineHeight="32">13<span fontStyle="italic" baselineShift="superscript">a</span> &#215; 13<span fontStyle="italic" baselineShift="superscript">b</span> = 13<span fontStyle="italic" baselineShift="superscript">a</span>+<span fontStyle="italic" baselineShift="superscript">b</span> = 13<span baselineShift="superscript">13</span> <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">a</span> + <span fontStyle="italic">b</span> = 13.</p>
+<p lineHeight="32">(13<span fontStyle="italic" baselineShift="superscript">x</span>)<span fontStyle="italic" baselineShift="superscript">y</span> = 13<span fontStyle="italic" baselineShift="superscript">xy</span> = 13<span baselineShift="superscript">13</span> <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">xy</span> = 13. The only positive integers whose product is 13 are 1 and 13, so <span fontStyle="italic">x</span> + <span fontStyle="italic">y</span> = 14.</p>
+<p lineHeight="32">Then <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_047.swf"/> = 6.75.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s4/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >Which of the following sentences represents a short digression from the passage’s main topic?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>A few rodent species demonstrate conditions that are neither complete hibernation nor aestivation.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>This kind of behavior is known in other animals&#8212;bats become torpid during daytime, and hummingbirds at night.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>These mice, incidentally, have a most appropriate name, for their bodies are so full of fat they resemble little furry balls.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>During the dry season, some captives spent the day in such a deep state of torpor that they could be roughly handled without waking.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>In this case the torpid state was not induced by shortage of food or abnormal temperatures.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">These mice, incidentally, have a most appropriate name, for their bodies are so full of fat they resemble little furry balls.</span></p>
+<p>The comment about the appropriateness of the fat mouse’s name is tossed in to the discussion as a light aside, a short digression from the recitation of serious scientific data.</p>
+
+<p><span fontStyle="italic">A few rodent species demonstrate conditions that are neither complete hibernation nor aestivation</span> is incorrect.  The sentence introduces the passage’s main topic, torpor in rodents.  It is not a digression or departure from that topic.</p>
+
+<p><span fontStyle="italic">This kind of behavior is known in other animals&#8212;bats become torpid during daytime, and hummingbirds at night</span> is incorrect. The sentence provides additional information about the passage’s main topic, torpor in rodents.  It is not a digression or departure from that topic.</p>
+
+<p><span fontStyle="italic">During the dry season, some captives spent the day in such a deep state of torpor that they could be roughly handled without waking</span> is incorrect. The sentence provides additional information about the passage’s main topic, torpor in rodents.  It is not a digression or departure from that topic.</p>
+
+<p><span fontStyle="italic">In this case the torpid state was not induced by shortage of food or abnormal temperatures</span> is incorrect. The sentence provides additional information about the passage’s main topic, torpor in rodents.  It is not a digression or departure from that topic.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

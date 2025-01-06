@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>The shop’s (i) ___________ prices ensured that its clientele came from only the most (ii) ________ households.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[pragmatic]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[salutary]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[exorbitant]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[affluent]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[prolific]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[destitute]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">exorbitant; affluent.</span></p>
+<p><span fontStyle="italic">Exorbitant</span> (excessive; overly expensive) prices would guarantee or make certain that the shop’s customers would have to come from <span fontStyle="italic">affluent</span> (wealthy) households.</p>
+<p><span fontStyle="italic">Pragmatic</span> is incorrect. <span fontStyle="italic">Pragmatic</span> means practical. It is an inappropriate term to describe prices.</p>
+<p><span fontStyle="italic">Salutary</span> is incorrect. <span fontStyle="italic">Salutary</span> means healthful or wholesome. It is an inappropriate term to describe prices.</p>
+<p><span fontStyle="italic">Prolific</span> is incorrect. <span fontStyle="italic">Prolific </span>means highly fruitful or productive, as in a prolific rose bush or a prolific novelist. It makes little sense in the context.</p>
+<p><span fontStyle="italic">Destitute</span> is incorrect. <span fontStyle="italic">Destitute </span>means needy or impoverished. It makes little sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

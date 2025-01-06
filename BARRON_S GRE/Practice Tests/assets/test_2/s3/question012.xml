@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If <span fontStyle="italic">A</span> is the point (&#8722;4, 1) and <span fontStyle="italic">B</span> is the point (2, 1), what is the area of the circle that has <span fontStyle="italic">AB</span> as a diameter?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices layout="bottom">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>  3π</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>  6π</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>  9π</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>12π</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>36π</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">9π</span></p>
+<p>Draw a diagram. Since the distance between (&#8722;4, 1) and (2, 1) is 6, the diameter of the circle is 6 and the radius is 3. Then the area is π(3)<span baselineShift="superscript">2</span> = 9π.</p>
+<p lineHeight="120%"><img source="assets/images/tst2_s3_012.swf"/></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

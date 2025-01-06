@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%"><img source="assets/images/tst2_s5_011a.swf"/></p>
+<p>In the figure above, what is the area of Δ<span fontStyle="italic">OAB</span>?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>12</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>16</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>20</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>24</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>40</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">20</span></p>
+<p lineHeight="120%"><img source="assets/images/tst2_s5_011b.swf"/></p>
+<p lineHeight="44">The formula for the area of a triangle is <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_082.swf"/>.</p>
+<p lineHeight="44">Here <span fontStyle="italic">b</span> = 8 and <span fontStyle="italic">h</span> = 5. So <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_083.swf"/></p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

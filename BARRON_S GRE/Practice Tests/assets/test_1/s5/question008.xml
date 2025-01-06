@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>For how many positive integers,<span fontStyle="italic"> x</span>, is it true that <span fontStyle="italic">x</span><span baselineShift="superscript">3</span>  ≤  3<span fontStyle="italic">x</span>?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>None</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>One</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Two</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Four</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>More than four</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">One</span></p>
+<p lineHeight="32">Since <span fontStyle="italic">x</span> is positive, we can divide both sides of the given inequality by <span fontStyle="italic">x</span>: <span fontStyle="italic"> x</span><span baselineShift="superscript">3</span> &#8804; 3<span fontStyle="italic">x</span> <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">x</span><span baselineShift="superscript">2</span> &#8804; 3 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">x</span> &#8804; <img source="assets/images/tst1_eqn_069.swf"/>.</p>
+<p lineHeight="32">Since the <img source="assets/images/tst1_eqn_069.swf"/> &#60; 2, <span fontStyle="italic">x</span> &#60; 2. Since the only positive integer less than 2 is 1, there is at most one positive integer, namely 1 that satisfies the given inequality. In fact, 1 does satisfy that inequality: 1<span baselineShift="superscript">3</span> &#8804; 3(1)  is true, so the answer is <span fontStyle="italic">one</span>. </p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

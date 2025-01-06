@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="015">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Based on the data presented in the bar graph, which of the following statements are true?</p>
+<p></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s5_014.swf"/></p>
+<p></p>
+<p>Indicate <span textDecoration="underline">all</span> such statements.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>From 1981&#8211;1996, inclusive, Republican receipts were more than 2 billion dollars. (Note: 1 billion = 1,000 million)</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>The ratio of Republican receipts to Democratic receipts was greater than 2:1 in more than half of the two-year periods covered in the graph.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Republican receipts in 1995&#8211;1996 exceeded the total of Democratic receipts for the 10 years from 1981&#8211;1990.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>The two-year period in which the ratio of Republican receipts to Democratic receipts was the greatest was 1981&#8211;1982.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choices 1, 2, 3, and 4</span></p>
+<p>In questions such as this, the best approach is to look at each choice independently. Here, look at each statement and determine if it is true.</p>
+<p>• Choice 1. Estimate the heights of the dark Republican bars and add them. In millions of dollars, the heights of the first four Republican bars are a bit more than 200, 300, 250, and 250; their sum is 1,000 million or 1 billion. Clearly, the sum of the heights of the last four Republican bars is much greater than the sum of the heights of the first four Republican bars, and so is greater than 1 billion. The total is more than 2 billion. Choice 1 is true.</p>
+<p>• Choice 2. Quickly, eyeballing the graph, we see that the ratio of Republican receipts to Democratic receipts was clearly greater than 2:1 in the first three periods and in the fifth period, and the ratio was clearly less than 2:1 in the last three periods. The only period requiring a closer look is 1987&#8211;1988. It appears that Democratic and Republican receipts in that period were about 125 million and 260 million, respectively; also, by measuring, it appears that the Republican bar is slightly more than twice the height of the Democratic bar. Either way, you should conclude that the ratio of Republican receipts to Democratic receipts was greater than 2:1 in five of the eight two-year periods covered in the graph. Choice 2 is true.</p>
+<p>• Choice 3. Republican receipts in 1995&#8211;1996 were about 470 million dollars. The total of Democratic receipts for the 10 years from 1981&#8211;1990 is about 420 million dollars. Choice 3 is true.</p>
+<p>• Choice 4. In 1981&#8211;1982 the ratio of Republican receipts to Democratic receipts was greater than 5:1. In no other two-year period was it even close to that. Choice 4 is true.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

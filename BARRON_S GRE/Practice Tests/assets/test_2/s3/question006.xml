@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p textAlign="center">At XYZ Corp. the ratio of the number of male employees to</p>
+<p textAlign="center">the number of female employees is 3:2. 20 percent of the male</p>
+<p textAlign="center">and 30 percent of the female employees attended the company picnic.</p>
+<p lineHeight="120%"  textAlign="center"><img source="assets/images/tst2_s3_006.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantities A and B are equal.</span></p>
+<p>Let the number of male and female employees be 3<span fontStyle="italic">x</span> and 2<span fontStyle="italic">x</span>, respectively. Then Quantity A = 20%(3<span fontStyle="italic">x</span>) = .6<span fontStyle="italic">x</span> and Quantity B = 30%(2<span fontStyle="italic">x</span>) = .6<span fontStyle="italic">x</span>. The quantities are equal.</p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p>Do the same thing, except use a number. Assume there are 300 men and 200 women and calculate.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

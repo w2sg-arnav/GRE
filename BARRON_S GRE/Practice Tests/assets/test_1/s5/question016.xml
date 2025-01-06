@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="015">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s5_014.swf"/></p>
+<p textAlign="center">All figures are in billions of dollars.</p>
+<p></p>
+<p>Assume that in 2010, the sales of Lotto were discontinued, and the dollar value of the sales of all other games increased by 10% compared to 2009. If a new circle graph were created to reflect Lottery Ticket Sales in 2010, which of the following would be the degree measure of the central angle of the sector representing Instant games?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> 100°</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> 130°</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> 150°</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> 180°</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> 200°</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold"> 200º</span></p>
+<p lineHeight="32">In 2009, the total sales for all games other than Lotto in billions of dollars was 35.5 &#8211; 10.0 = 25.5. In 2010, each of the remaining games experienced a 10% increase in sales, so the total sales in 2010 was</p>
+<p lineHeight="32">25.5 + 10%(25.5) = 25.5 + 2.55 = 28.05. In 2010, the sales of Instant games was 10% higher than in 2009: 14.2 + 1.42 = 15.62. So in 2010, the percent of total sales attributable to Instant games was</p>
+<p lineHeight="32"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_077.swf"/> = .557 = 55.7%. Finally, the measure of the central angle for the sector representing Instant games is 55.7% of 360° = 200°.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

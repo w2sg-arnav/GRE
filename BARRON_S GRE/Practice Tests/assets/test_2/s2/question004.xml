@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Perry’s critics in the scientific world ________ that many of the observations he has made during more than a decade of research in Costa Rica have been reported as anecdotes in popular magazines rather than as carefully documented case studies in technical journals.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>intimate</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>charge</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>applaud</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>theorize</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>apologize</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>carp</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">charge; carp.</span></p>
+<p>The critics <span fontStyle="italic">charge</span> (make the accusation) or <span fontStyle="italic">carp</span> (find fault; grumble) 
+that Perry has published only anecdotes of his observations and has not published any detailed analyses.  The key phrase here is <span fontStyle="italic">rather than</span>.  It signals that there is a contrast between what Perry’s critics would have wanted him to publish ("carefully documented case studies in technical journals") and what he has actually published ("anecdotes in popular magazines").</p>
+
+<p><span fontStyle="italic">Intimate</span> is incorrect.  To <span fontStyle="italic">intimate</span> is to hint or suggest.  It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Applaud</span> is incorrect.  The scientists are critical of Perry; they are not <span fontStyle="italic">applauding</span> that their colleague’s observations have been reported as anecdotes.</p>
+
+<p><span fontStyle="italic">Theorize</span> is incorrect.  Perry’s critics are not <span fontStyle="italic">theorizing</span> (speculating; conjecturing) about a possibility; they are criticizing something that has gone on for over a decade.</p>
+
+<p><span fontStyle="italic">Apologize</span> is incorrect.  The scientists are critical of Perry; they are not <span fontStyle="italic">apologizing</span> for their colleague.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage005.xml"/>>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The author of the passage does all the following EXCEPT</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>concede a point</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>draw a contrast</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>define a term</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>recount an anecdote</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>pose a question</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">recount an anecdote.</span></p>
+<p>In the course of the passage, the author never tells or <span fontStyle="italic">recounts an anecdote</span>.</p>
+<p><span fontStyle="italic">Concede a point </span>is incorrect. The author acknowledges or <span fontStyle="italic">concedes the point</span> that <span fontStyle="italic">life on the Andean plateau was harsh</span>.</p>
+<p><span fontStyle="italic">Draw a contrast </span>is incorrect. In the opening paragraph, the author <span fontStyle="italic">draws a contrast</span> between those 20th-century historians who relied on metaphor and symbol to make their points and "their contemporaries who based their conclusions on archeological findings and on new interpretations of the <span fontStyle="italic">quipu</span>."</p>
+<p><span fontStyle="italic">Define a term</span> is incorrect. The author <span fontStyle="italic">defines a term</span>, using the parentheses to set off the definition of the term <span fontStyle="italic">quipu</span>.</p>
+<p><span fontStyle="italic">Pose a question</span> is incorrect. The author directly <span fontStyle="italic">poses a question</span>, inquiring <span fontStyle="italic">What sense are we to derive from this somewhat feverish piece of description</span>?</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

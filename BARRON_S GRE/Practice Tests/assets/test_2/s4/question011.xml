@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Because the ice grains in slush are so loosely bonded, it is ________ and thus can cause an avalanche even on gentle slopes.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[compact]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[static]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[autonomous]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[intrinsic]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[unstable]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">unstable. </span></p>
+<p>The <span fontStyle="italic">unstableness</span> of slush makes it unlikely to adhere to even gentle slopes. Instead, it starts to slide; it may even cause an avalanche. Things that are tightly bonded stick together securely; things that are loosely bonded stick together less well.  Note that the loose bonding of the ice grains lessens their stability.</p>
+   
+<p><span fontStyle="italic">Compact</span> is incorrect. If the ice grains in slush are loosely bonded, it is unlikely to be <span fontStyle="italic">compact</span></p>
+<p>(compressed; dense).</p>
+   
+<p><span fontStyle="italic">Static</span> is incorrect. If slush were <span fontStyle="italic">static</span> (inert; motionless) it would be unlikely to cause an avalanche on</p>
+<p>gentle slopes.</p>
+   
+<p><span fontStyle="italic">Autonomous</span> is incorrect. <span fontStyle="italic">Autonomous</span> (self-governing; independent) makes no sense in the context.</p>
+   
+<p><span fontStyle="italic">Intrinsic</span> is incorrect. <span fontStyle="italic">Intrinsic </span>(innate; essential) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>A positive integer is a <span fontStyle="italic">palindrome</span> if it reads exactly the same from right to left as it does from left to right. For example, 5 and 66 and 373 are all palindromes. How many palindromes are there between 1 and 1,000, inclusive?</p>
+</TextFlow>]]>
+</barrons:question>
+<barrons:answer value="108"></barrons:answer>
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">108</span></p>
+<p>There are 9 one-digit palindromes: 1, 2, 3, … 8, 9. There are 9 two-digit palindromes: 11, 22, 33, … 88, 99. To write a three-digit palindrome, you can use any of the 8 integers from 1 to 9 in the hundreds digit and any of the 10 integers from 0 to 9 as the tens digit. So there are 9 × 10 = 90 ways to choose the first two digits. The ones digit must be the same as the hundreds digit, so once the hundreds digit has been chosen, there is only one choice for the units digit. So there are 90 × 1 = 90 three-digit palindromes. Finally, 9 + 9 + 90 = 108.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

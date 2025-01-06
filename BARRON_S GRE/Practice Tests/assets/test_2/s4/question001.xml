@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>It seems ironic that Elizabeth’s rejection, intended to discourage her importunate suitor, served only to ________ his ardor.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>increase</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>impede</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>diminish</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>check</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>dampen</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>reinforce</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">increase; reinforce</span>.</p>
+<p><span fontStyle="italic">Ironic</span> is an implicit contrast signal word.  It indicates that something unexpected, even unwanted, has taken place. Elizabeth has rejected her suitor. She intends that her rejection will discourage him. Instead, her rejection <span fontStyle="italic">increases</span> or <span fontStyle="italic">reinforces</span> (strengthens) his passion.</p>
+
+<p><span fontStyle="italic">Impede </span>is incorrect.<span fontStyle="italic"> Impede</span> (hinder; block) makes no sense in the context.</p>
+	
+<p><span fontStyle="italic">Diminish</span> is incorrect. <span fontStyle="italic">Diminish</span> (lessen) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Check</span> is incorrect. <span fontStyle="italic">Check</span> (curb; stop) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Dampen</span> is incorrect. <span fontStyle="italic">Dampen</span> (depress; deaden) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

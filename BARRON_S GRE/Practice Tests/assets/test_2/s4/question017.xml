@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s4/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >According to the passage, fascist dictatorships differ from monarchies of recent times in</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>setting limits to their scope of action</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>enjoying economic power and popular support</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>rivaling the state in power</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>defending itself from arbitrary rulings</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>eradicating all potential opposition</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">eradicating all potential opposition.</span></p>
+<p>The final sentence states that the fascist dictatorships "destroyed all forms of social organization that were in any way rivals to the state." In doing so, they were <span fontStyle="italic">eradicating all potential opposition.</span></p>
+
+<p><span fontStyle="italic">Setting limits to their scope of action</span> is incorrect. Social classes, such as the feudal nobility in England, and organized corporations, such as the guilds and trade unions, were able to set limits to their respective government’s scope of action. The fascist dictatorships set no such limits on their powers.</p>
+   
+<p><span fontStyle="italic">Enjoying economic power and popular support</span> is incorrect. Nothing in the passage indicates that fascist dictatorships differ from monarchies in <span fontStyle="italic">enjoying economic power and popular support.</span></p>
+   
+<p><span fontStyle="italic">Rivaling the state in power</span> is incorrect. It is unsupported by the passage.</p>
+   
+<p><span fontStyle="italic">Defending itself from arbitrary rulings</span> is incorrect. It is unsupported by the passage.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

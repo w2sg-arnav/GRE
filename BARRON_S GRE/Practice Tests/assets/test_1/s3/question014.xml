@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_014.swf"/></p>
+<p>In 2005, 80% of the Central City School Districts total expenditures came from local property taxes, and the rest came from the state government’s Aid to Schools Program. If the state had reduced its aid to the district by 50%, by what percentage would local property taxes have had to be increased in order for the district to maintain the same level of expenditures?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>10%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>12.5%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>20%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>50%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>100%</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">12.5%</span></p>
+<p lineHeight="32">Surprisingly, the answer to this question does not depend on the data in the charts. Of every $100 that the district spent in 2005, $80 came from the local taxes and $20 came from the state. Had the state reduced its aid to the district by half (50%), the state would have reduced its contribution by $10. To compensate for that, the district would have had to increase the portion paid by taxes by $10, from $80 to $90. This represents an increase of  <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_048.swf"/> &#215; 100% = 12.5%.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

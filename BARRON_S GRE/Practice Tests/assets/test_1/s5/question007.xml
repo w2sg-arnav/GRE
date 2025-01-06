@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p  textAlign="center">1 &#60; <span fontStyle="italic">x </span>&#60; 2</p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s5_007.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity A is greater.</span></p>
+<p lineHeight="32">Quantity A: <span fontStyle="italic">V</span> = <span fontStyle="italic">x</span><span baselineShift="superscript">3</span>.</p>
+<p lineHeight="32">Quantity B: <span fontStyle="italic">V</span> = (<span fontStyle="italic">x</span>&#8722;1)(<span fontStyle="italic">x</span>)(<span fontStyle="italic">x</span>+1) = <span fontStyle="italic">x</span>(<span fontStyle="italic">x</span> &#8722; 1)(<span fontStyle="italic">x</span> + 1) = <span fontStyle="italic">x</span>(<span fontStyle="italic">x</span><span baselineShift="superscript">2</span> &#8722; 1) = <span fontStyle="italic">x</span><span baselineShift="superscript">3</span> &#8722; <span fontStyle="italic">x</span></p>
+<p lineHeight="32">Since <span fontStyle="italic">x</span> is positive, <span fontStyle="italic">x</span><span baselineShift="superscript">3</span> &#8211; <span fontStyle="italic">x</span> is less than <span fontStyle="italic">x</span><span baselineShift="superscript">3</span>.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

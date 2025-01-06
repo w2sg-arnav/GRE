@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>What is the area of a circle whose radius is the diagonal of a square whose area is 4?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices layout="bottom">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>2π</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>2π<img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_022.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>4π</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>8π </p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>16π</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">8π</span></p>
+<p lineHeight="32">If the area of the square is 4, each side is 2, and the length of a diagonal is <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_079.swf"/>. The area of a circle whose radius is <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_079.swf"/> is <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_080.swf"/>.</p>
+<p lineHeight="32">A quickly drawn, reasonably accurate sketch can get you the correct answer almost immediately.</p>
+<p lineHeight="120%"><img source="assets/images/tst1_s5_017.swf"/></p>
+<p lineHeight="32">From the diagram, you can see that four squares of area 4 easily fit inside the circle, so the area of the circle is surely more than 16. So you can eliminate choices 2π, 2π<img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_081.swf"/> and 4 π. 8π is approximately 25, which is reasonable; 16π is approximately 50, which is clearly too big.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

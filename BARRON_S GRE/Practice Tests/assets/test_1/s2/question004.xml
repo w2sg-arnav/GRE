@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Seemingly solid at first, Napoleon’s 1807 alliance with Russia quickly proved __________: it disintegrated altogether in 1812.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>autocratic</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>salubrious</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>tenuous</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>shaky</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>indissoluble</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>viable</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>
+<span fontWeight="bold">tenuous, indissoluble.</span></p>
+<p>Something <span fontStyle="italic">tenuous</span> is by definition weak or flimsy. Something <span fontStyle="italic">shaky</span> is by definition insecure or unstable. A <span fontStyle="italic">tenuous</span> (flimsy) or <span fontStyle="italic">shaky</span> (unstable) alliance would be likely to disintegrate. Note also the use of the adverb <span fontStyle="italic">seemingly</span> to cast doubt on just how solid Napoleon’s 1807 alliance with Russia actually was.</p>
+
+<p><span fontStyle="italic">Autocratic</span> is incorrect. Something <span fontStyle="italic">autocratic</span> is by definition dictatorial or despotic. The adjective makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Salubrious </span>is incorrect. Something <span fontStyle="italic">salubrious</span> is by definition healthful or beneficial. The adjective makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Indissoluble</span> is incorrect. One would not describe an alliance that disintegrated within five years to be<span fontStyle="italic"> indissoluble</span> (firm; perpetually binding).</p>
+
+<p><span fontStyle="italic">Viable</span> is incorrect. Once would not describe an alliance that disintegrates within five years as <span fontStyle="italic">viable</span> (workable; capable of success). </p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

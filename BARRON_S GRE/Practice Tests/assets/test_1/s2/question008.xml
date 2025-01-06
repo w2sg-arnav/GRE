@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s2/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >It can be inferred from the passage that classicism has which of the following characteristics?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Sensitivity toward emotional promptings</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Emphasis on formal artistic criteria</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Meticulous planning of artistic works</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choices 2 and 3</span>.</p>
+<p><span fontStyle="italic">Emphasis on formal artistic criteria</span> is a likely characteristic of classicism.  The passage talks of the formal beauty that distinguishes the classical works of Dante and Virgil. Likewise, <span fontStyle="italic">meticulous planning of artistic works</span> is a likely characteristic of classicism. The passage talks of the carefully planned compositions of the classicist Dante; it also tells of the structurally flawed compositions of the romantic Goethe.</p>
+
+<p>Choice 1 is incorrect. <span fontStyle="italic">Sensitivity toward emotional promptings</span> is characteristic of romanticism; it is an unlikely characteristic of classicism.</p>
+
+<p>Choice 2 by itself is incorrect.  Although you are correct to infer that an<span fontStyle="italic"> emphasis on formal artistic criteria</span> is a likely characteristic of classicism, that inference is not the only inference you can draw from the passage.</p>
+
+<p>Choices 2 and 3 are correct. An <span fontStyle="italic">emphasis on formal artistic criteria</span> is a likely characteristic of classicism. The passage talks of the formal beauty that distinguishes the classical words of Dante and Virgil. Likewise, the <span fontStyle="italic">meticulous planning of artistic works</span> is a likely characteristic of classicism. The passage talks of the carefully planned composition of the classicist Dante; it also tells of the structurally flawed composition of the romantic Goethe.</p>
+
+<p>Choice 3 by itself is incorrect.  Although you are correct to infer that <span fontStyle="italic">meticulous planning of artistic works</span> is a likely characteristic of classicism, that inference is not the only inference you can draw from the passage.
+</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

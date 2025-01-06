@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>The negotiating team had not expected such _________ from the striking workers, who firmly resisted any hint of a compromise.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[indolence]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[acumen]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[apathy]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[exasperation]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[intransigence]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">intransigence.</span></p>
+<p>The key phrase here is <span fontStyle="italic">firmly resisted</span>. <span fontStyle="italic">Intransigence</span> means   
+    stubbornness, a refusal of any compromise.</p>
+
+<p><span fontStyle="italic">Indolence</span> is incorrect. The key phrase here is <span fontStyle="italic">firmly resisted</span>. <span fontStyle="italic">Indolence</span> means laziness or sloth. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Acumen </span>is incorrect. The key phrase here is <span fontStyle="italic">firmly resisted</span>. <span fontStyle="italic">Acumen</span> means shrewdness or keenness. It makes little sense in the context. Look for a better choice.</p>
+
+<p><span fontStyle="italic">Apathy</span> is incorrect. The key phrase here is <span fontStyle="italic">firmly resisted</span>.  <span fontStyle="italic">Apathy</span> means indifference or lack of concern. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Exasperation</span> is incorrect. The key phrase here is <span fontStyle="italic">firmly resisted</span>.  <span fontStyle="italic">Exasperation</span> means irritation or annoyance. It makes little sense in the context. Look for a better choice.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

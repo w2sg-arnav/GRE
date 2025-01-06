@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Surprisingly, to those who view the ocean floor as a uniformly (i)____________ waste, each vent in the floor, where the sea water is heated by the earth’s interior magma, has been found to be an island-like (ii) ___________ with its own distinctive fauna.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[sunken]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[hazardous]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[barren]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[oasis]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[enclave]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[grotto]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">barren, oasis.</span></p>
+<p>Rather than being <span fontStyle="italic">barren</span> or devoid of life, the vent regions are like <span fontStyle="italic">oases </span>that support life.</p>
+
+<p><span fontStyle="italic">Sunken</span> is incorrect. The sentence emphasizes the unexpected existence of fauna on the ocean floor.</p>
+
+<p><span fontStyle="italic">Enclave</span> is incorrect. The vent region would not be described as an <span fontStyle="italic">enclave</span> (tract enclosed within a foreign territory).</p>
+
+<p><span fontStyle="italic">Grotto</span> is incorrect. A <span fontStyle="italic">grotto</span> (cave) would not be described as island-like.</p>
+
+<p><span fontStyle="italic">Hazardous </span>is incorrect. Nothing in the sentence justifies the use of the term <span fontStyle="italic">hazardous.</span></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

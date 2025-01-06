@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+
+  <barrons:question><![CDATA[
+			<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>The following is a memorandum from the business manager of a listener-supported public radio station.</p>
+			<p></p>
+<p>"For the past year, as part of an effort to broaden our supporter base, our Folk on the Air program has allocated less time to traditional American folk music and more time to Latino music and world music. In recent months, many long-term supporters of our station have written to complain about what they describe as the un-American bias of the program. In addition, the local newspaper has published a recent editorial critical to our shift in programming. Therefore, in order to forestall any further adverse publicity for the station and to avoid the loss of additional listener-supporters, we should discontinue our current emphasis on Latino and world music and restore the time devoted to traditional American folk music to its former level." </p>
+<p></p>
+<p>Respond by writing an essay in which you discuss the specific evidence you would need to judge the validity of the argument and explain how this evidence would weaken or strengthen the argument.</p>
+</TextFlow>]]></barrons:question>
+  <barrons:choices>
+  </barrons:choices>
+  <barrons:explanation><![CDATA[
+			<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p></p></TextFlow>
+			]]></barrons:explanation>
+</question_content>

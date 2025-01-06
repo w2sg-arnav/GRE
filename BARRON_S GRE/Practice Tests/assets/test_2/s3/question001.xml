@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p textAlign="center"><span fontStyle="italic">n</span> is an even integer</p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s3_001.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">It is impossible to determine which quantity is greater.</span></p>
+<p lineHeight="32">If <span fontStyle="italic">n</span> = 12, then <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_037.swf"/> and both 12 and 6 have two prime factors (2 and 3). So the columns could be equal.</p>
+<p lineHeight="32">If <span fontStyle="italic">n</span> = 10, then <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_038.swf"/>. Since 10 has two prime factors (2 and 5), but 5 has only one prime factor (5), the quantities are not necessarily equal.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

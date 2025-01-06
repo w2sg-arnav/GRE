@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If the total surface area of a cube is 864, what is the volume of the cube?</p>
+</TextFlow>]]>
+</barrons:question>
+<barrons:answer value="1728" suffix=""/> <!-- puts the text after the input field -->
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">1,728</span></p>
+<p>If <span fontStyle="italic">e</span> represents the edge of the cube, then the area of each of the six faces is <span fontStyle="italic">e</span><span baselineShift="superscript">2</span>, and the total surface area is 6<span fontStyle="italic">e</span><span baselineShift="superscript">2</span>.</p>
+<p>Since 6<span fontStyle="italic">e</span><span baselineShift="superscript">2</span> = 864, then <span fontStyle="italic">e</span><span baselineShift="superscript">2</span> = 864 ÷ 6 = 144 and <span fontStyle="italic">e</span> = 12. </p>
+<p>The volume of the cube is  <span fontStyle="italic">e</span><span baselineShift="superscript">3</span> = 12<span baselineShift="superscript">3</span> = 12 &#215; 12 &#215; 12 = 1,728.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

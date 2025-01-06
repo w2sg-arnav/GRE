@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If 2<span fontStyle="italic" baselineShift="superscript">a</span> &#215; 2<span fontStyle="italic" baselineShift="superscript">b</span> = 2<span fontStyle="italic" baselineShift="superscript">c</span> and 0 &#60; <span fontStyle="italic">c</span> &#60; 1, then which of the following could be the average (arithmetic mean) of <span fontStyle="italic">a</span> and <span fontStyle="italic">b</span>?</p>
+<p></p>
+<p>Indicate <span textDecoration="underline">all</span> such averages.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices  layout="bottom">
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0.1</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0.2</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0.3</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0.4</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0.5</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0.6</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0.7</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choices 0.1, 0.2, 0.3, and 0.4</span></p>
+<p lineHeight="32">Since 2<span fontStyle="italic" baselineShift="superscript">a</span> × 2<span fontStyle="italic" baselineShift="superscript">b</span> = 2<span fontStyle="italic" baselineShift="superscript">a</span><span baselineShift="superscript">+</span><span fontStyle="italic" baselineShift="superscript">b</span> and 2<span fontStyle="italic" baselineShift="superscript">a</span> × 2<span fontStyle="italic" baselineShift="superscript">b</span> = 2<span fontStyle="italic" baselineShift="superscript">c</span>, then 2<span fontStyle="italic" baselineShift="superscript">a</span><span baselineShift="superscript">+</span><span fontStyle="italic" baselineShift="superscript">b</span> = 2<span fontStyle="italic" baselineShift="superscript">c</span>, and <span fontStyle="italic">a</span> + <span fontStyle="italic">b</span> = <span fontStyle="italic">c. </span></p>
+<p lineHeight="32">Since 0 &#60; <span fontStyle="italic">c</span> &#60; 1, then 0 &#60; (<span fontStyle="italic">a</span> + <span fontStyle="italic">b</span>) &#60; 1, and so 0 &#60; <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_082.swf"/> &#60; <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_083.swf"/> = 0.5.</p>
+<p lineHeight="32">So the average of <span fontStyle="italic">a</span> and <span fontStyle="italic">b</span> could be any positive number less than 0.5.</p>
+<p lineHeight="32">Only choices 0.1, 0.2, 0.3, and 0.4 satisfy this condition.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

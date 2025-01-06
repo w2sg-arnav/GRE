@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Bob and Jack share an apartment. If each month Bob pays <span fontStyle="italic">a</span> dollars and Jack pays <span fontStyle="italic">b</span> dollars, what percent of the total cost does Bob pay?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices layout="bottom">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_010.swf"/>%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_011.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_012.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_013.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_014.swf"/></p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="32"><img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_014.swf"/></p>
+<p lineHeight="44">The total rent is <span fontStyle="italic">a</span> + <span fontStyle="italic">b</span>, so Bob’s fractional share is <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_063.swf"/> . To convert to a percent, simply multiply by</p>
+<p lineHeight="32">100%: by <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_064.swf"/>.</p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p lineHeight="32">Pick two easy-to-use numbers. If Bob pays $1 and Jack pays $2, then Bob pays <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_065.swf"/> or 33<img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_066.swf"/>% of the rent.</p>
+<p lineHeight="32">Only <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_067.swf"/><span fontWeight="bold"> </span>is equal to 33<img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_068.swf"/> when <span fontStyle="italic">a</span> = 1 and <span fontStyle="italic">b</span> = 2.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

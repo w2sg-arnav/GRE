@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Although he was generally considered an extremely (i)___________ individual, his testimony at the trial revealed that he had been very (ii)___________ .</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[intrepid]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[forthright]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[abstemious]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[disingenuous]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[obtuse]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[valiant]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">forthright, disingenuous.</span></p>
+<p>In reputation he was <span fontStyle="italic">forthright</span> or straightforward; at the trial, however, he showed himself to have been <span fontStyle="italic">disingenuous</span> or insincere. Note the use of <span fontStyle="italic">although</span> to signal a contrast.</p>
+
+<p><span fontStyle="italic">Intrepid </span>is incorrect. Note the use of <span fontStyle="italic">although</span> to signal a contrast. <span fontStyle="italic">Intrepid</span> (fearless) and <span fontStyle="italic">valiant</span> (brave) are synonyms. You are looking for a pair of antonyms or near-antonyms.</p>
+
+<p><span fontStyle="italic">Abstemious</span> is incorrect. Note the use of <span fontStyle="italic">although</span> to signal a contrast. <span fontStyle="italic">Abstemious</span> means self-denying. Its opposite would be <span fontStyle="italic">intemperate</span>.</p>
+
+<p><span fontStyle="italic">Obtuse</span> is incorrect. Note the use of <span fontStyle="italic">although</span> to signal a contrast. You are looking for a pair of antonyms or near-antonyms. Obtuse means dull. Its opposite would be <span fontStyle="italic">acute</span> or <span fontStyle="italic">keen-witted</span>.</p>
+
+<p><span fontStyle="italic">Valiant</span> is incorrect. Note the use of <span fontStyle="italic">although</span> to signal a contrast. You are looking for a pair of antonyms or near-antonyms. <span fontStyle="italic">Valiant</span> means brave. Its opposite would be <span fontStyle="italic">timorous</span> or <span fontStyle="italic">cowardly</span>.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

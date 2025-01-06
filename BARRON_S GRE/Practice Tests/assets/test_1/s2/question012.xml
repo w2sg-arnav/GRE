@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Disappointed in love, Miss Emily became _____________: she shut herself away in her empty mansion and refused to see another living soul.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[cantankerous]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[reclusive]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[phlegmatic]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[autocratic]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[wistful]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">reclusive.</span></p>
+<p>The second clause (the part of the sentence that follows the colon) provides the clue to the correct answer choice. Someone who shuts herself away in an empty mansion and refuses to see another living soul is by definition <span fontStyle="italic">reclusive</span> (hermitlike; solitary).</p>
+
+<p><span fontStyle="italic">Cantankerous </span>is incorrect. <span fontStyle="italic">Cantankerous</span> means peevish and bad-tempered. It makes little sense in the context. The second clause (the part of the sentence that follows the colon) provides the clue to the correct answer choice.</p>
+
+<p><span fontStyle="italic">Phlegmatic</span> is incorrect. <span fontStyle="italic">Phlegmatic</span> means not easily disturbed or excited. It makes no sense in the context. The second clause (the part of the sentence that follows the colon) provides the clue to the correct answer choice.</p>
+
+<p><span fontStyle="italic">Autocratic</span> is incorrect. <span fontStyle="italic">Autocratic </span>means tyrannical or domineering. It makes no sense in the context. The second clause (the part of the sentence that follows the colon) provides the clue to the correct answer choice.</p>
+
+<p><span fontStyle="italic">Wistful</span> is incorrect. <span fontStyle="italic">Wistful</span> means pensively sad or yearning. It makes no sense in the context. The second clause (the part of the sentence that follows the colon) provides the clue to the correct answer choice.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

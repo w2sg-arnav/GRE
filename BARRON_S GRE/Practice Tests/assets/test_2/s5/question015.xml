@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="015">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s5_014.swf"/></p>
+<p>Between which two consecutive two-year periods was there the greatest percent increase in the Democratic receipts?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1981&#8211;82 and 1983&#8211;84</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1985&#8211;86 and 1987&#8211;88</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1989&#8211;90 and 1991&#8211;92</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1991&#8211;92 and 1993&#8211;94</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1993&#8211;94 and 1995&#8211;96</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">1981&#8211;82 and 1983&#8211;84</span></p>
+<p>In 1981&#8211;82 the Democratic receipts were about $40 million and in 1983&#8211;84 they had increased to about $100 million, an increase of 150%. From 1991&#8211;92 to 1993&#8211;94 (choice 4), receipts decreased. During the periods covered by choices 2, 3, and 5, receipts increased, but by less than 150%.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

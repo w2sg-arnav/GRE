@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s2/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >It can be inferred that prior to 1950 for a historian to choose to specialize in black history</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>was encouraged by the academic establishment</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>established his academic nonconformity</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>afforded him special opportunities for publication</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>was detrimental to his professional career</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>enhanced his contact with his colleagues</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choices 2 and 4.</span></p>
+<p>According to the passage, prior to the early 1960s Negro history was not an object of particularly great renown in academe. Thus, someone who chose to specialize in the field would have demonstrated <span fontStyle="italic">academic nonconformity</span> or unconventionality. In the 1950s, the advice given to Blassingame to avoid black history if he desired <span fontStyle="italic">a future in the historical profession</span> would have seemed wise&#8212;graduate students of the caliber of Huggins and Litwack felt ambivalence about entering the field because of <span fontStyle="italic">practical concerns</span>. What these concerns boiled down to was the sense that to choose black history as one's specialization would be <span fontStyle="italic">detrimental</span> or harmful to one’s career.</p>
+
+<p>Choice 1 is incorrect. The advice given to Blassingame in 1963 suggests that prior to 1950 the academic establishment would not have encouraged a historian to specialize in black history.</p>
+
+<p>Choice 3 is incorrect. Nothing in the passage suggests that prior to 1950 specialization in black history would have provided a historian with</p>
+<p><span fontStyle="italic">special opportunities for publication</span>.</p>
+
+<p>Choice 5 is incorrect. Nothing in the passage suggests that prior to 1950 specialization in black history would have improved or enhanced the historian’s <span fontStyle="italic">contact with his colleagues</span>.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

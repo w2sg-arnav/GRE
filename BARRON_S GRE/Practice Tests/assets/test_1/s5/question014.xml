@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s5_014.swf"/></p>
+<p textAlign="center">All figures are in billions of dollars.</p>
+<p></p>
+<p>The revenue from lottery ticket sales is divided between prize money and the various uses shown in the graph labeled "Proceeds." In 1997, what percent of the money spent on tickets was returned to the purchasers in the form of prize money?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>23.5%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>50%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>60%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>66%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>74%</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">66%</span></p>
+<p>The difference between the total ticket sales ($35.5 billion) and the total distribution of the proceeds ($12.0 billion) was the amount returned to the purchasers of lottery tickets in the form of prize money:</p>
+<p>$35.5 billion − $12.0 billion = $23.5 billion. Divide 23.5 by 35.5 (or approximate, by dividing 24 by 36) to see that 66% of the ticket sales was allocated to prize money.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s4/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >It can be inferred from the passage that fat storage as a method of survival "has rebounded" for fat mice for which of the following reasons?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It has enabled them to go without food and water for long periods of time.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It has made them particularly tempting to human predators.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It has made them so spherical that they cannot move readily.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It has caused them to adopt abnormal patterns of sleep.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It has made them susceptible to extremes in temperature.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">It has made them particularly tempting to human predators.</span></p>
+<p>Fat storage "has rebounded" or worked against the fat mouse’s survival because it has led to the mouse’s being considered a succulent delicacy by African hunters. In other words, <span fontStyle="italic">it has made them particularly tempting to human predators.</span></p>
+
+<p><span fontStyle="italic">It has enabled them to go without food and water for long periods of time </span>is incorrect.  "Has rebounded" here means "has boomeranged" or "has backfired." In other words, fat storage, which had helped fat mice to survive, has now become a threat to their survival. The ability to go without food and water for long periods of time would not be a threat to their survival.</p>
+
+<p><span fontStyle="italic">It has made them so spherical that they cannot move readily</span> is incorrect. Nothing in the passage suggests that fat storage has made them so spherical that they cannot move readily.</p>
+
+<p><span fontStyle="italic">It has caused them to adopt abnormal patterns of sleep</span> is incorrect. Nothing in the passage suggests that fat storage has caused them to adopt abnormal patterns of sleep.</p>
+
+<p><span fontStyle="italic">It has made them susceptible to extremes in temperature</span> is incorrect. Nothing in the passage suggests that fat storage has made them susceptible to extremes in temperature.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If <span fontStyle="italic">m</span><span baselineShift="superscript">2</span> = 17, then what is the value of (<span fontStyle="italic">m</span> + 1)(<span fontStyle="italic">m</span> &#8211; 1)?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices layout="bottom">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_006.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_007.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>16</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>18</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>288</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">16</span></p>
+<p lineHeight="44"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_045.swf"/> .</p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p lineHeight="32">Since <span fontStyle="italic">m</span><span baselineShift="superscript">2</span> = 17, <span fontStyle="italic">m</span> is slightly more than 4, and <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_046.swf"/> is the product of a number a little greater than 5 and a number a little greater than 3. The only reasonable choice is 16.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

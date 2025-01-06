@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Howard is a salesman whose pay each week consists of a base salary of $175 plus a commission of 12% of his sales. If one week Howard’s pay was $467.14, what were his sales, in dollars, that week?</p>
+</TextFlow>]]>
+</barrons:question>
+<barrons:answer value="2434.5" suffix="dollars"/><!-- puts the text after the input field -->
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="32"><span fontWeight="bold">2,434.5 or 2434.50</span></p>
+<p lineHeight="32">Of Howard’s $467.14 pay that week, $175 was his base salary and $467.14 &#8211; $175 = $292.14 was the commission he earned.</p>
+<p lineHeight="32">If <span fontStyle="italic">S</span> represents his sales, then 0.12<span fontStyle="italic">S</span> = 292.14 and so <span fontStyle="italic">S</span> = 292.14 ÷ 0.12 = 2434.5.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

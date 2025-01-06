@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Despite her autocratic father’s efforts to maintain his control over her, Elizabeth Barrett, concealing a rebellious spirit behind ___________ exterior, played obedient daughter and successfully managed to elope with her fellow poet, Robert Browning.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>an irascible</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>a dutiful</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>a complaisant</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>an aesthetic</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>a defiant</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>a despotic</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">a dutiful, a complaisant. </span></p>
+<p>The key phrase here is <span fontStyle="italic">played the obedient daughter</span>. Barrett hid her rebelliousness by putting on a <span fontStyle="italic">complaisant</span>, cheerfully obliging front, while behaving in a <span fontStyle="italic">dutiful</span> (obedient) manner.</p>
+<p><span fontStyle="italic">Irascible </span>is incorrect. The key phrase here is <span fontStyle="italic">played the obedient daughter</span>. Someone playing the part of an obedient daughter would most likely try to avoid looking <span fontStyle="italic">irascible</span> (irritable).</p>
+<p><span fontStyle="italic">Aesthetic </span>is incorrect. The key phrase here is <span fontStyle="italic">played the obedient daughter</span>. Barrett did not hide her rebelliousness by pretending to be <span fontStyle="italic">aesthetic</span> or highly sensitive to beauty; she hid her rebelliousness by pretending to be obedient.</p>
+<p><span fontStyle="italic">Defiant</span> is incorrect. The key phrase here is <span fontStyle="italic">played the obedient daughter</span>. Barrett would not have hidden her rebelliousness if she had acted <span fontStyle="italic">defiant</span> (boldly challenging); instead she hid her rebelliousness by acting obedient.</p>
+<p><span fontStyle="italic">Despotic</span> is incorrect. Elizabeth Barrett’s father is described as autocratic or <span fontStyle="italic">despotic </span>(tyrannical); she is not.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

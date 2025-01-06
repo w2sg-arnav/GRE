@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="019">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%"><img source="assets/images/tst2_s3_019a.swf"/></p>
+<p>In the figure above, the radius of circle <span fontStyle="italic">O</span> is 3, and m<img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_015.swf"/><span fontStyle="italic">AOB </span>= 60. What is the perimeter of the shaded region?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices layout="bottom">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_016.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_017.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_018.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_019.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_020.swf"/></p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">3 + π</span></p>
+<p lineHeight="32">Since each radius is 3, <span fontStyle="italic">OA</span> = <span fontStyle="italic">OB</span>, and so m<img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_069.swf"/></p>
+<p lineHeight="120%"><img source="assets/images/tst2_s3_019b.swf"/></p>
+<p lineHeight="32">Then, <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_070.swf"/> Therefore, Δ<span fontStyle="italic">AOB</span> is equilateral, and <span fontStyle="italic">AB</span> = 3. The length of arc <span fontStyle="italic">AB</span> is <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_071.swf"/> of the circumference. <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_072.swf"/>, so the length of arc <span fontStyle="italic">AB = </span>π. The perimeter of the region, then, is 3 + π.</p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p lineHeight="32">Trust the diagram. <span fontStyle="italic">AB</span> looks about the same as <span fontStyle="italic">OB</span>, so assume it is 3, and arc <span fontStyle="italic">AB</span> is clearly slightly bigger. Hence, the perimeter is a little more than 6. <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_073.swf"/> and <img source="assets/images/tst2_eqn_074.swf"/> + π are both less than 5, which is definitely too small. Guess between 3 + π and <img source="assets/images/tst2_eqn_075.swf"/> + π. 3 + π is the better guess, because <span fontStyle="italic">AB might be</span> exactly 3.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

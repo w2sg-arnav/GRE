@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s4/passage001b.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The author’s attitude toward the experiment involving the captive fat mouse can best be described as one of</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>righteous indignation</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>skeptical disbelief</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>grudging admiration</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>scientific detachment</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>marked disapprobation</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">scientific detachment.</span></p>
+<p>The author describes the experiment’s results ("A captive fat mouse was once kept without food or water for thirty-six days; at the end of that time it had lost a third of its weight but appeared quite healthy.") both clearly and unemotionally. His attitude is one of <span fontStyle="italic">scientific detachment</span> or objectivity.</p>
+
+<p><span fontStyle="italic">Righteous indignation</span> is incorrect. The author is not <span fontStyle="italic">indignant</span> or annoyed about the way the mouse has been treated.</p>
+
+<p><span fontStyle="italic">Skeptical disbelief</span> is incorrect. The author is not <span fontStyle="italic">skeptical</span> or incredulous about the way the mouse has been treated</p>
+
+<p><span fontStyle="italic">Grudging admiration</span> is incorrect. While the author may well admire the experiment he cites, nothing in the passage suggest that his admiration is <span fontStyle="italic">grudging</span> or reluctant.</p>
+
+<p><span fontStyle="italic">Marked disapprobation</span> is incorrect. Nothing in the passage suggests that the author disapproves of the experiment. His attitude is not one of <span fontStyle="italic">marked disapprobation</span>.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

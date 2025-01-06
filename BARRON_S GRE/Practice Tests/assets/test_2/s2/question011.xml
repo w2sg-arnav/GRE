@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Her (i)________ at office meetings was in surprising contrast to her (ii)________ during off hours.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[effusiveness]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[efficiency]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[reticence]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[divisiveness]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[gregariousness]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[competence]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">reticence; gregariousness.</span></p>
+<p>The key phrase here is <span fontStyle="italic">in surprising contrast</span>. This suggests that the two missing words must be antonyms or near-antonyms. <span fontStyle="italic">Reticence</span> (reserve; tendency to keep silent) is the opposite of <span fontStyle="italic">gregariousness</span> or sociability.</p>
+
+<p><span fontStyle="italic">Effusiveness</span> is incorrect. The key phrase here is <span fontStyle="italic">in surprising contrast.</span> This suggests that the two missing words must be antonyms or near-antonyms. <span fontStyle="italic">Effusiveness </span>(unrestrained emotional expression) is not an antonym for <span fontStyle="italic">divisiveness, gregariousness, </span>or <span fontStyle="italic">competence</span>.</p>
+
+<p><span fontStyle="italic">Efficiency</span> is incorrect. The key phrase here is <span fontStyle="italic">in surprising contrast.</span> This suggests that the two missing words must be antonyms or near-antonyms. <span fontStyle="italic">Efficiency</span> is not an antonym for <span fontStyle="italic">divisiveness, gregariousness,</span></p>
+<p>or <span fontStyle="italic">competence.</span></p>
+
+<p><span fontStyle="italic">Divisiveness</span> is incorrect. The key phrase here is <span fontStyle="italic">in surprising contrast.</span> This suggests that the two missing words must be antonyms or near-antonyms. <span fontStyle="italic">Divisiveness</span> (tendency to create discord) is not an antonym for <span fontStyle="italic">effusiveness, efficiency,</span> or <span fontStyle="italic">reticence.</span></p>
+
+<p><span fontStyle="italic">Competence</span> is incorrect. The key phrase here is <span fontStyle="italic">in surprising contrast.</span> This suggests that the two missing words must be antonyms or near-antonyms. <span fontStyle="italic">Competence</span> (capability; proficiency) is not an antonym for <span fontStyle="italic">effusiveness, efficiency,</span> or <span fontStyle="italic">reticence.</span></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

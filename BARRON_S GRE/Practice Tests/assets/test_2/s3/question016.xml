@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="015">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s3_014.swf"/></p>
+<p>In 2010 the total sales of ABC Mega Stores were exactly the same as in 2008. However, compared with 2008, in 2010 sales of Kitchen Appliances and TVs were each up by 5% and sales of Computers decreased by 10%. Which of the following statements must be true?</p>
+<p></p>
+<p>Indicate <span textDecoration="underline">all</span> such statements.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>In 2010, the sales of TVs were greater than the sales of computers.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>In 2010, the sales of Miscellaneous items was less than in 2008.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>In 2010, the ratio of the sales of Kitchen Appliances to the sales of TVs was the same as it had been in 2008.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>If in 2010, 2/3 of the computers sold were laptops and 1/3 of them were desktops, then the sales of laptops were twice the sales of desktops.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choice 2 and Choice 3</span></p>
+<p>The simplest way to check the truth of each statement is to make a chart comparing sales in 2008 and 2010.</p>
+<p textAlign="center"><span fontWeight="bold">For each $100 of sales in each year.</span></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s3_016.swf"/></p>
+<p>From the chart we see that for every $21 of sales of TVs, there were $22.50 of sales of Computers. The first choice is false.</p>
+<p></p>
+<p>In 2010, the total sales in the three categories other than Miscellaneous was $85.50, so the sales of Miscellaneous items was $14.50. The second choice is true.</p>
+<p>In 2008, the ratio of the sales of Kitchen Appliances to the sales of TVs was 40:20 = 2:1. In 2010, the ratio was 42:21 = 2:1. The third choice is true.</p>
+<p>We know that twice as many laptops were sold than desktops, but without knowing the prices of laptops and desktop, we cannot determine how their sales compared. The fourth choice is false.</p>	
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

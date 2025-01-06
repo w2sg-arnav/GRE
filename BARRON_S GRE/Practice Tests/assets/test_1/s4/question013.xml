@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Exasperated by the boys’ (i) __________ behavior, the teacher reprimanded them with considerable (ii) _____.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[obsequious]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[unruly]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[pertinent]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[élan]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[trepidation]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[asperity]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">unruly; asperity.</span></p>
+<p>The key word here is <span fontStyle="italic">(e)xasperated</span> or annoyed. Because the boys’ <span fontStyle="italic">unruly</span> (rowdy; disorderly) behavior has annoyed the teacher, she speaks harshly to them, addressing them with <span fontStyle="italic">asperity</span> (severity; sharpness of manner).</p>
+<p><span fontStyle="italic">Obsequious </span>is incorrect. Although a teacher might be somewhat annoyed by <span fontStyle="italic">obsequious</span> (fawning; servile) behavior, it is unlikely that a minor annoyance would cause the teacher to reprimand the boys strongly.</p>
+<p><span fontStyle="italic">Pertinent</span> is incorrect. <span fontStyle="italic">Pertinent</span> means relevant. It makes no sense in the context.</p>
+<p><span fontStyle="italic">Élan</span> is incorrect. <span fontStyle="italic">Élan</span> means vivacity or liveliness of spirit. It makes no sense in the context.</p>
+<p><span fontStyle="italic">Trepidation</span> is incorrect. It is unlikely that a teacher would feel <span fontStyle="italic">trepidation</span> (apprehension; fear) about speaking to the troublemakers.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Anyone who has ever stepped in sticky hot tar on a summer day knows that melted tar is a highly __________ substance.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>permeable</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>caustic</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>viscous</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>immutable</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>ephemeral</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>tenacious</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>
+<span fontWeight="bold">viscous, tenacious.</span></p>
+<p>The key phrase here is <span fontStyle="italic">sticky hot tar</span>. Melted by definition is sticky or <span fontStyle="italic">viscous</span>. It can also be described as <span fontStyle="italic">tenacious </span>(adhesive). Note the use of the secondary meaning of <span fontStyle="italic">tenacious</span> here.</p>
+
+<p><span fontStyle="italic">Permeable</span> is incorrect. The key phrase here is "sticky hot tar." <span fontStyle="italic">Permeable</span> means penetrable or porous. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Caustic </span>is incorrect.  The key phrase here is <span fontStyle="italic">sticky hot tar</span>. <span fontStyle="italic">Caustic</span> means stinging or corrosive. It  makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Immutable</span> is incorrect. The key phrase here is <span fontStyle="italic">sticky hot tar</span>. <span fontStyle="italic">Immutable</span>  means unchangeable or static. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Ephemeral</span> is incorrect. The key phrase here is <span fontStyle="italic">sticky hot tar</span>. <span fontStyle="italic">Ephemeral</span> means transient or fleeting. It makes no sense in the context. </p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

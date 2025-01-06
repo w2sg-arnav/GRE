@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Refusing to let the enemy see how deeply shaken he was by his capture, the prisoner kept his face ___________.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>caustic</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>immaculate</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>scrupulous</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>impassive</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>blank</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>pedantic</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>
+<span fontWeight="bold">impassive, blank.</span></p>
+<p>Because the prisoner does not want his captors to see his distress, he keeps his face expressionless, in other words <span fontStyle="italic">impassive </span>or <span fontStyle="italic"> blank.</span></p>
+
+<p><span fontStyle="italic">Caustic</span> is incorrect. It means acid or corrosive. It makes little sense in the context. </p>
+
+<p><span fontStyle="italic">Immaculate</span> is incorrect.  It means perfectly clean. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Scrupulous </span>is incorrect. It means conscientious and exact. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Pedantic</span> is incorrect. It means bookish and fussy about academic trivia. It makes no sense in the context. </p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

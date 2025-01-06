@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="010">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%"><img source="assets/images/tst2_s3_010.swf"/></p>
+<p></p>
+<p>In the triangle above, what is the value of<span fontStyle="italic"> y</span>?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>20</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>30</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>40</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>60</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>80</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p fontWeight="bold">20</p>
+<p>3<span fontStyle="italic">y</span> + 4<span fontStyle="italic">y</span> + 40 = 80 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> 7<span fontStyle="italic">y</span> + 40 = 180 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> 7<span fontStyle="italic">y</span> = 140 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">y</span> = 20.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

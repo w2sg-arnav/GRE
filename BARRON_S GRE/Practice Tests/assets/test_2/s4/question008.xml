@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s4/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >It can be inferred that in the paragraph immediately preceding this passage the author most likely discussed</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>his initial journey to Africa</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>the problems caused by sleep deprivation</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>other types of dormant states</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>the physical appearance of rodents</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>methods for measuring rodent respiration</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">other types of dormant states. </span></p>
+<p>In the opening sentence the author refers to hibernation and aestivation, two other types of dormant states. This suggests he has just been discussing these dormant states in some detail.</p>
+
+<p><span fontStyle="italic">His initial journey to Africa</span> is incorrect. Although he mentions his time in Africa in this paragraph, nothing in the passage suggests that he had been discussing it in the preceding paragraph.</p>
+
+<p><span fontStyle="italic">The problems caused by sleep deprivation</span> is incorrect.  He nowhere mentions sleep deprivation in this paragraph, nor gives any hint that he might have discussed it in the preceding paragraph.</p>
+
+<p><span fontStyle="italic">The physical appearance of rodents</span> is incorrect. Although he mentions the physical appearance of some rodents in this paragraph, nothing in the passage suggests that he had been discussing it in the preceding paragraph.</p>
+
+<p><span fontStyle="italic">Methods of measuring rodent respiration </span>is incorrect.  Although he describes rodent respiration in this paragraph, nothing in the passage 	suggests that he had been discussing methods for measuring it in the preceding paragraph.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

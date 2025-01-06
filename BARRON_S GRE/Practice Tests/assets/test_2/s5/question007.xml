@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s5_007a.swf"/></p>
+<p  textAlign="center">The sides of the large square are <span fontStyle="italic">S</span>.</p>
+<p  textAlign="center">The sides of the small square are <span fontStyle="italic">s</span>.</p>
+<p  textAlign="center">The area of the shaded region and white region are equal.</p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s5_007b.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity B is greater.</span></p>
+<p>The area of the large square is <span fontStyle="italic">S</span> <span baselineShift="superscript">2</span>, and the area of the small square is <span fontStyle="italic">s</span><span baselineShift="superscript">2</span>, so the area of the shaded region is</p>
+<p><span fontStyle="italic">S </span><span baselineShift="superscript">2</span> &#8722; <span fontStyle="italic">s</span><span baselineShift="superscript">2</span>. Since the shaded region and the unshaded region have the same area,</p>
+<p lineHeight="32"><span fontStyle="italic">S </span><span baselineShift="superscript">2</span> &#8722; <span fontStyle="italic">s</span><span baselineShift="superscript">2</span> = <span fontStyle="italic">s</span><span baselineShift="superscript">2</span> <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">S </span><span baselineShift="superscript">2</span> = 2<span fontStyle="italic">s</span><span baselineShift="superscript">2</span>. So <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_079.swf"/> = 2, and  <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_079b.swf"/> ,</p>
+<p lineHeight="32">which is less than 1.5. Quantity B is greater.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

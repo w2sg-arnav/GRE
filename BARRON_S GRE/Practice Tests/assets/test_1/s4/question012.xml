@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Neutron stars are believed to be the highly compressed remnants of exploding stars (supernovas) and thus</p>
+<p>(i) _________ of one of the most (ii) _________ processes in nature.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[causes]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[products]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[precursors]]></barrons:choice>
+		</barrons:blank>
+		<barrons:blank>
+			<barrons:choice correct="true"><![CDATA[violent]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[equivocal]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[theoretical]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">products; violent.</span></p>
+<p>If neutron stars are the remnants or remaining traces of exploding stars, they are <span fontStyle="italic">products </span>or results of <span fontStyle="italic">violent</span> natural processes.</p>
+<p><span fontStyle="italic">Causes</span> is incorrect. The neutron stars did not cause the explosions; they were <span fontStyle="italic">caused by</span> the explosions.</p>
+<p><span fontStyle="italic">Precursors </span>is incorrect. Neutron stars come into evidence <span fontStyle="italic">after </span>a supernova explodes. Thus, they are not <span fontStyle="italic">precursors</span> or forerunners of the explosion.</p>
+<p><span fontStyle="italic">Equivocal</span> is incorrect. There is nothing <span fontStyle="italic">equivocal</span> or inconclusive about the explosion of a star.</p>
+<p><span fontStyle="italic">Theoretical </span>is incorrect. The formation of a neutron star is not a <span fontStyle="italic">theoretical</span> or hypothetical process.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

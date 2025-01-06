@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If <span fontStyle="italic">c</span> and <span fontStyle="italic">d</span> are odd positive integers, which of the following could be odd?</p>
+<p></p>
+<p>Indicate <span textDecoration="underline">all</span> such expressions.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices  layout="bottom">
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">c</span><span fontStyle="italic" baselineShift="superscript">d</span></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">c</span><span fontStyle="italic" baselineShift="superscript">d</span><span baselineShift="superscript">+1</span></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>(<span fontStyle="italic">c</span> + 1)<span fontStyle="italic" baselineShift="superscript">d</span><span baselineShift="superscript">+1</span></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>(<span fontStyle="italic">c</span> + <span fontStyle="italic">d</span>)<span baselineShift="superscript">(</span><span fontStyle="italic" baselineShift="superscript">c</span><span baselineShift="superscript">+</span><span fontStyle="italic" baselineShift="superscript">d</span><span baselineShift="superscript">)</span></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_031.swf"/></p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choices</span> <span fontStyle="italic">c</span><span fontStyle="italic" baselineShift="superscript">d</span>, <span fontStyle="italic">c</span><span fontStyle="italic" baselineShift="superscript">d</span><span baselineShift="superscript">+1</span>, and <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_031.swf"/>.</p>
+<p lineHeight="44">In questions such as this, the best approach is to look at each choice independently. Here, look at each expression and determine if it could be odd.</p>
+<p lineHeight="44"><span fontStyle="italic">c</span><span fontStyle="italic" baselineShift="superscript">d</span> Since the product of any number of odd integers is odd, and since <span fontStyle="italic">c</span><span fontStyle="italic" baselineShift="superscript">d</span> is a product each of whose factors is the odd integer <span fontStyle="italic">c</span>, it must be odd.</p>
+<p lineHeight="44"><span fontStyle="italic">c</span><span fontStyle="italic" baselineShift="superscript">d</span><span baselineShift="superscript">+1</span> For exactly the same reason as in A, <span fontStyle="italic">c</span><span fontStyle="italic" baselineShift="superscript">d</span> <span baselineShift="superscript">+ 1</span> must be odd.</p>
+<p lineHeight="44">(<span fontStyle="italic">c</span> + 1)<span fontStyle="italic" baselineShift="superscript">d</span><span baselineShift="superscript">+1</span> Since <span fontStyle="italic">c</span> is odd, <span fontStyle="italic">c</span> + 1 is even. Then, (<span fontStyle="italic">c</span> + 1)<span fontStyle="italic" baselineShift="superscript">d</span> <span baselineShift="superscript">+ 1</span> is a product each of whose factors is even, and so must be even. It cannot be odd.</p>
+<p lineHeight="44">(<span fontStyle="italic">c</span> + <span fontStyle="italic">d</span>)<span baselineShift="superscript">(</span><span fontStyle="italic" baselineShift="superscript">c</span><span baselineShift="superscript">+</span><span fontStyle="italic" baselineShift="superscript">d</span><span baselineShift="superscript">)</span> Since <span fontStyle="italic">c</span> and <span fontStyle="italic">d</span> are each odd, <span fontStyle="italic">c</span> + <span fontStyle="italic">d</span> is even, and as in C, 
+(<span fontStyle="italic">c</span> + <span fontStyle="italic">d</span>)<span baselineShift="superscript">(</span><span fontStyle="italic" baselineShift="superscript">c</span> <span baselineShift="superscript">+</span> <span fontStyle="italic" baselineShift="superscript">d</span><span baselineShift="superscript">)</span> must be even. It cannot be odd.</p>
+<p lineHeight="44"><img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_031.swf"/> If <span fontStyle="italic">c</span> = 3 and <span fontStyle="italic">d</span> = 5, then <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_088.swf"/>, which isn’t an integer, let alone an odd integer. But if</p>
+<p lineHeight="44"><span fontStyle="italic">c</span> = 3 and <span fontStyle="italic">d</span> = 3, then <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_089.swf"/>,<span fontWeight="bold"> </span>which is equal to 1, an odd integer, and if <span fontStyle="italic">c</span> = 3 and <span fontStyle="italic">d</span> = 9, then <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_090.swf"/> = 27.  So <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_091.swf"/><span fontWeight="bold"> </span>definitely<span fontWeight="bold"> </span><span fontStyle="italic">could</span> be odd.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

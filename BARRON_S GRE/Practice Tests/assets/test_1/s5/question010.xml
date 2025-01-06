@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/"  numberDisplayOffset="18">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="32"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_016.swf"/></p>
+<p></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices  layout="bottom">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_017.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_018.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_019.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_020.swf"/></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_021.swf"/></p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="32"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_072.swf"/></p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p lineHeight="44">Pick two easy-to-use numbers for <span fontStyle="italic">a</span> and <span fontStyle="italic">b</span>, say <span fontStyle="italic">a</span> = 7 and <span fontStyle="italic">b</span> = 3. Then <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_074.swf"/></p>
+<p lineHeight="44">Which of the choices is equal to 1 when <span fontStyle="italic">a</span> = 7 and <span fontStyle="italic">b</span> = 3? Only <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_072.swf"/> :  <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_075.swf"/></p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="010">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If the average (arithmetic mean) of <span fontStyle="italic">x</span>, <span fontStyle="italic">y</span>, and <span fontStyle="italic">z</span> is 20, which of the following is the 
+   value of <span fontStyle="italic">z</span> in terms of <span fontStyle="italic">x</span> and <span fontStyle="italic">y</span>?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>20 &#8211; <span fontStyle="italic">x</span> &#8211; <span fontStyle="italic">y</span></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>20 + <span fontStyle="italic">x</span> + <span fontStyle="italic">y</span></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>40 &#8211; <span fontStyle="italic">x </span>&#8211; <span fontStyle="italic">y</span></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>40 + <span fontStyle="italic">x</span> + <span fontStyle="italic">y</span></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>60 &#8211; <span fontStyle="italic">x</span> &#8211; <span fontStyle="italic">y</span></p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p fontWeight="bold">60 &#8211; <span fontStyle="italic">x</span> &#8211; <span fontStyle="italic">y</span></p>
+
+<p lineHeight="44"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_037.swf"/></p>
+<p></p>
+<p><span fontWeight="bold">Alternative solution:</span></p>
+<p>Pick three numbers whose average is 20, say 20, 20, and 20. Which answer choice is equal to 20 when <span fontStyle="italic">x </span>and <span fontStyle="italic">y</span> are each 20? Only 60 &#8211; <span fontStyle="italic">x</span> &#8211; <span fontStyle="italic">y</span>: (60<span fontWeight="bold"><span fontStyle="italic"> </span></span>− 20 − 20 = 20).</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

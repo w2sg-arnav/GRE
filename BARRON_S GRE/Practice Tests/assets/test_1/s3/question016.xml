@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_014.swf"/></p>
+<p>Based on the information in the two graphs, by what percent did the number of students in the Central City School district increase from 1985 to 1990?</p>
+<p></p>
+</TextFlow>]]>
+</barrons:question>
+<barrons:answer value="25" suffix="percent"/> <!-- puts the text after the input field -->
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">25</span></p>
+<p lineHeight="32">As in the solution to Question 15, the number of students in any year can be calculated from the equation:</p>
+<p lineHeight="32">(number of students) × (expenditure per student) = total expenditure</p>
+<p lineHeight="32">1985: (number of students) × ($8,000) = $16,000,000. So, the number of students was 2,000</p>
+<p lineHeight="32">1990: (number of students) × ($10,000) = $25,000,00. So, the number of students was 2,500</p>
+<p lineHeight="32">Finally, the number of students in the school increased from 2,000 to 2,500, an increase of 500 and a percent increase of  <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_050.swf"/></p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

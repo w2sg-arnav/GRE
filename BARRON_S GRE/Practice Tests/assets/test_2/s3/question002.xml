@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p textAlign="center"><img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_002.swf"/> of <span fontStyle="italic">x</span> equals <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_003.swf"/> of <span fontStyle="italic">x</span></p>
+<p></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s3_002.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantities A and B are equal.</span></p>
+<p lineHeight="32">If <span fontStyle="italic">a</span> &#8800; <span fontStyle="italic">b</span> and <span fontStyle="italic">ax</span> = <span fontStyle="italic">bx</span>, then <span fontStyle="italic">x</span> must be 0. Since <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_041.swf"/>.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

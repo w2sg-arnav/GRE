@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Miss Post recommends that, in writing a note of apology, one should sound properly ________.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>bombastic</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>remorseful</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>apathetic</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>terse</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>aloof</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>contrite</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>
+<span fontWeight="bold">remorseful; contrite.</span></p>
+<p>The key word here is <span fontStyle="italic">apology</span>.  When one has to apologize for doing something wrong, it helps to sound apologetic, that is, <span fontStyle="italic">remorseful</span> or <span fontStyle="italic">contrite</span>.</p>
+
+<p><span fontStyle="italic">Bombastic</span> is incorrect. The key word here is <span fontStyle="italic">apology</span>.  <span fontStyle="italic">Bombastic</span> means pompous and pretentious.  It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Apathetic</span> is incorrect. The key word here is <span fontStyle="italic">apology</span>.  <span fontStyle="italic">Apathetic</span> means indifferent and unconcerned. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Terse</span> is incorrect. The key word here is <span fontStyle="italic">apology</span>.  <span fontStyle="italic">Terse</span> means abrupt and to the point. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Aloof</span> is incorrect. The key word here is <span fontStyle="italic">apology</span>.  <span fontStyle="italic">Aloof</span> means standoffish and remote. It makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

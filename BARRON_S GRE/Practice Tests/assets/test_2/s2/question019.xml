@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s2/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The passage mentions John Wesley primarily as</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>a proponent of tar-water as a cure for scurvy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>a pioneer in the field of experimental philosophy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>an author who recommended specific anti-scorbutics</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>the inheritor of Lind’s experimental method</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>a naval surgeon who consulted with Lind</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">an author who recommended specific anti-scorbutics.</span></p>
+<p>The passage cites Wesley as the author of <span fontStyle="italic">Primitive Physic</span>, a manual of remedies, in which 11 anti-scorbutics were listed.</p>
+
+<p><span fontStyle="italic">A proponent of tar-water as a cure for scurvy</span> is incorrect. It was Bishop Berkeley, not John Wesley, who proposed tar-water as a cure for scurvy.</p>
+
+<p><span fontStyle="italic">A pioneer in the field of experimental philosphy</span> is incorrect. Nothing in the passage indicates that Wesley was a pioneer in the field of experimental philosophy.</p>
+
+<p><span fontStyle="italic">The inheritor of Lind’s experimental method</span> is incorrect. Nothing in the passage indicates that Wesley inherited Lind’s experimental method.</p>
+
+<p><span fontStyle="italic">A naval surgeon who consulted with Lind</span> is incorrect. Nothing in the passage indicates that Wesley ever consulted with Lind.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

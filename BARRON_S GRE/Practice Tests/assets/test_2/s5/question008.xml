@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%"  textAlign="center"><img source="assets/images/tst2_s5_008a.swf"/></p>
+<p textAlign="center">The shaded region above is bounded by two semicircles and two sides of square <span fontStyle="italic">ABCD</span>.</p>
+<p textAlign="center">The perimeter of the shaded region is 4 + 2 π.</p>
+<p lineHeight="120%"  textAlign="center"><img source="assets/images/tst2_s5_008b.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity B is greater. </span></p>
+<p>The perimeter of the shaded region is given as 4 + 2 π. You can easily prove that the lengths of the curved parts of the region are 2π and that the straight edges have a total length of 4, but you should just assume these values by looking at the diagram. Then each side of the square is 2, and its area is 4. From that subtract π, the area of a circle (two semicircles) of radius 1.</p>
+<p lineHeight="120%"><img source="assets/images/tst2_s5_008c.swf"/></p>
+<p>Since π is greater than 3, then 4 &#8722; π is less than 1. Quantity B is greater.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s4/passage002.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >Which of the following statements, if true, would support the author’s views?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Corporate lobbies strongly influence the introduction and passage of legislation at all levels of government.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Growing numbers of the most talented college graduates are choosing to work for private corporations rather than for the government or the non-profit sector.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Few legal requirements are imposed on corporations as to the responsibilities they must fulfill to their employees and their communities.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choices 1 and 3.</span></p>
+<p>Both statements support the author’s view.</p>
+
+<p>Choice 1 by itself is incorrect. It strengthens the conclusion by giving evidence of corporate influence in an area not dealt with in the argument and thus supports the author’s views. However, choice 1 is not the <span fontStyle="italic">only</span> statement that would support the author’s views.</p>
+
+<p>Choice 2 is incorrect.  The fact that <span fontStyle="italic">Growing numbers of the most talented college graduates</span> are <span fontStyle="italic">choosing to work for private corporations rather than for the government or the non-profit sector </span>is unrelated to either the evidence or the conclusion.</p>
+
+<p>Choice 3 by itself is incorrect.  It strengthens the evidence by giving additional data suggesting corporate autonomy and thus supports the author’s views. However, Choice 3 is not the <span fontStyle="italic">only</span> statement that would support the author’s views.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

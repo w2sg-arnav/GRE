@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Credit is (i)________, and hard for even one person to hold onto, but (ii)________, sticky as honey, goes everywhere and sticks to everyone.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[bankrupt]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[marginal]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[slippery]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[blame]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[misfortune]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[sweetness]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">slippery; blame.</span></p>
+<p>The explicit contrast here is between <span fontStyle="italic">credit</span>, in the sense of praise, and <span fontStyle="italic">blame</span>, in the sense of censure or reproof. Credit is described as hard to hold onto. Thus. it is <span fontStyle="italic">slippery.</span></p>
+
+<p><span fontStyle="italic">Bankrupt</span> is incorrect. <span fontStyle="italic">Credit</span> here is being used in the sense of praise. <span fontStyle="italic">Bankrupt</span> makes no sense in this context.</p>
+
+<p><span fontStyle="italic">Marginal</span> is incorrect. <span fontStyle="italic">Credit</span> here is being used in the sense of praise. <span fontStyle="italic">Marginal</span> makes no sense in this context.</p>
+   
+<p><span fontStyle="italic">Misfortune</span> is incorrect. The missing word must be an antonym or near-antonym for <span fontStyle="italic">credit</span> (praise).</p>
+<p><span fontStyle="italic">Misfortune</span> makes no sense in this context.</p>
+   
+<p><span fontStyle="italic">Sweetness</span> is incorrect. The missing word must be an antonym or near-antonym for <span fontStyle="italic">credit</span> (praise). <span fontStyle="italic">Sweetness</span> makes no sense in this context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

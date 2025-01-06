@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p  textAlign="center">1 &#60; <span fontStyle="italic">a</span> &#60; <span fontStyle="italic">b</span> &#60; 2</p>
+<p></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s5_005.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity B is greater.</span></p>
+<p>Quantity A: Since <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_061.swf"/> </p>
+<p>Quantity B: Since <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_062.swf"/>.</p>
+<p>Quantity B is greater.</p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p lineHeight="32">Plug in the numbers that satisfy the condition. For example, let <span fontStyle="italic">a</span> = 1.1 and <span fontStyle="italic">b</span> = 1.8.</p>
+<p>Quantity A: (1.1)(1.8) = 1.98</p>
+<p>Quantity B: 1.1 + 1.8 = 2.9</p>
+<p>This time Quantity B is greater. Eliminate Quantity A is greater and Quantities A and B are equal, and try other numbers. Each time Quantity B will be greater.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

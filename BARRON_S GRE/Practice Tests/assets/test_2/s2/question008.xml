@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s2/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >Which of the following best expresses the relationship of the first sentence to the rest of the paragraph?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Specific instance followed by generalizations</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Assertion followed by analysis</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Objective statement followed by personal opinion</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quotation from an authority followed by conflicting views</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Challenge followed by debate</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Assertion followed by analysis</span>.</p>
+<p>The opening sentence asserts that Austen’s friends would not have suspected that she was an authoress.  The remainder of the passage analyzes why Austen made little of her status as a writer.  Thus, the relationship of the first sentence to the rest of the paragraph is that of an <span fontStyle="italic">assertion followed by analysis</span>.</p>
+
+<p><span fontStyle="italic">Specific instance followed by generalization</span>s is incorrect. What follows the opening sentence is an examination of the critical implications of Austen’s attitude towards her work.  One would not describe such a detailed examination as generalizations.</p>
+
+<p><span fontStyle="italic">Objective statement followed by personal opinion </span>is incorrect. The author is not simply expressing a personal opinion. She is examining the critical implications of Austen’s attitude towards her work.</p>
+
+<p><span fontStyle="italic">Quotation from an authority followed by conflicting views </span>is incorrect. While the opening sentence quotes Egerton, he is not necessarily an authority, and the remainder of the passage fails to present conflicting views.</p>
+
+<p><span fontStyle="italic">Challenge followed by debate</span> is incorrect. The opening sentence is in no way a challenge.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

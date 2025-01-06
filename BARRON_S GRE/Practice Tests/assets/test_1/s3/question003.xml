@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p  textAlign="center"><span fontStyle="italic">a</span> &#8722; <span fontStyle="italic">b </span>= 5</p>
+<p  textAlign="center"><span fontStyle="italic">b</span> &#8722; <span fontStyle="italic">c </span>= 5</p>
+<p  textAlign="center"><span fontStyle="italic">c</span> &#8722; 3<span fontStyle="italic"> </span>= 5</p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_003.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantities A and B are equal.</span></p>
+<p lineHeight="32"><span fontStyle="italic">c</span> &#8722; 3 = 5 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">c</span> = 8. So <span fontStyle="italic">b</span> &#8722; <span fontStyle="italic">c</span> = 5 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">b</span> &#8722; 8 = 5 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">b</span> = 13.  Then, <span fontStyle="italic">a</span> &#8722; <span fontStyle="italic">b</span> = 5 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">a</span> &#8722; 13 = 5 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">a</span> = 18.</p>
+
+<p  lineHeight="32"><span fontWeight="bold">Alternative solution:</span></p>
+<p  lineHeight="32">Add all three equations.</p>
+<p lineHeight="120%"><img source="assets/images/tst1_eqn_299.swf"/></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

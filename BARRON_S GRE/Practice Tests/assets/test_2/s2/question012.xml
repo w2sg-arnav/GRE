@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Although he did not consider himself (i)________, he felt that the inconsistencies in her story (ii)_______ a certain degree of incredulity on his part.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[an apostate]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[a charlatan]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[a skeptic]]></barrons:choice>
+		</barrons:blank>
+		<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[demonstrated]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[dignified]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[warranted]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">a skeptic; warranted.</span></p>
+<p>Inconsistencies in a story would <span fontStyle="italic">warrant</span> (justify) disbelief or incredulity on anyone’s part, whether or not he considered himself <span fontStyle="italic">a skeptic</span> (doubter).</p>
+
+<p><span fontStyle="italic">An apostate</span> is incorrect. <span fontStyle="italic">An apostate</span> is someone who betrays or abandons a former loyalty. The term makes no sense in the context.</p>
+
+<p><span fontStyle="italic">A charlatan</span> is incorrect. <span fontStyle="italic">Charlatans</span> are quacks, persons who pretend to have more skill than they actually possess. The term makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Demonstrated</span> is incorrect. Inconsistencies in the woman’s story would not <span fontStyle="italic">demonstrate</span> (show; prove) incredulity or disbelief on the part of the subject.</p>
+
+<p><span fontStyle="italic">Dignified</span> is incorrect. Inconsistencies in the woman’s story would not <span fontStyle="italic">dignify</span> (elevate; ennoble) incredulity or disbelief on the part of the subject.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

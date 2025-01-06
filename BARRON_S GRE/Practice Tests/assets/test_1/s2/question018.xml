@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s2/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >As used in the passage, <span fontStyle="italic">dissipated</span> most nearly means</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>squandered</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>lavished</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>banished</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>faded away</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>worn out</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">faded away.</span> </p>
+<p>When reasons for refraining from an action <span fontStyle="italic">dissipate</span>, they disappear or <span fontStyle="italic">fade away.</span>  By 1965, when Huggins determined to write about the Harlem Renaissance, the factors that would have stood in his way had faded away.</p>
+
+<span fontStyle="italic">Squandered </span>is incorrect. When reasons for refraining from an action <span fontStyle="italic">dissipate</span>, they do not squander or waste something; instead, they disappear or <span fontStyle="italic">fade away.</span>
+
+<p><span fontStyle="italic">Lavished</span> is incorrect. When reasons for refraining from an action <span fontStyle="italic">dissipate</span>, they do not lavish or give without limit; instead, they disappear or <span fontStyle="italic">fade away.</span></p>
+
+<p><span fontStyle="italic">Banished</span> is incorrect. When reasons for refraining from an action <span fontStyle="italic">dissipate</span>, they do not banish or drive something away; instead, they disappear or <span fontStyle="italic">fade away.</span></p>
+
+<p><span fontStyle="italic">Worn out</span> is incorrect. When reasons for refraining from an action <span fontStyle="italic">dissipate</span>, they do not wear out or become impaired from use; instead, they disappear or <span fontStyle="italic">fade away.</span></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

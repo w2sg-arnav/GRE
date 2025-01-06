@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage004.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >All of the following are weaknesses of the above argument EXCEPT that</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>it makes generalizations concerning the status of women in general based on the plight of a single group of women</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>it draws conclusions from statistical evidence that the data may not support</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>it disregards efforts being made by some employers to end job discrimination within their own firms</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>it fails to fully consider possible remedies other than the one proposed</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>it ignores other possible explanations for the cited difference in average salaries</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">it disregards efforts being made by some employers to end job discrimination within their own firms</span></p>
+<p>The fact that some employers do not discriminate against women does not undermine the argument as 	presented, because it does not imply that no problem of discrimination exists. Therefore, it is not a weakness of the argument.</p>
+	
+<p><span fontStyle="italic">It makes generalizations concerning the status of women in general based on the plight of a single group of women </span>is incorrect. The argument bases its generalizations about women on the status of the group of female executives. This is a weakness of the argument.</p>
+
+<p><span fontStyle="italic">It draws conclusions from statistical evidence that the data may not support</span> is incorrect. The argument draws possibly unwarranted conclusions from the women executives’ salary statistics. This is a weakness of the argument.</p>
+
+<p><span fontStyle="italic">It fails to fully consider possible remedies other than the one proposed</span> is incorrect. The argument offers only one remedy: an Equal Rights Amendment. This is a weakness of the argument.</p>
+
+<p><span fontStyle="italic">It ignores other possible explanations for the cited differences in average salaries</span> is incorrect. The argument never suggests any other possible explanation for the salary difference. This is a weakness of the argument.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

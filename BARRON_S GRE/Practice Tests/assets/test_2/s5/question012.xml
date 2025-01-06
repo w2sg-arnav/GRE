@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Water enters a vat, whose capacity is 60 liters, through a faucet at the top and leaves the vat through a drain at the bottom. If the vat is empty, the drain is open, and water starts to flow through the faucet at a constant rate of 5 liters per minute, it takes exactly 50 minutes until the vat is full. At what rate, in liters per minute, is water flowing through the drain?</p>
+</TextFlow>]]>
+</barrons:question>
+<barrons:answer value="3.8" suffix="liters per minute"/> <!-- puts the text after the input field -->
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">3.8</span></p>
+<p>In 50 minutes, 5 × 50 = 250 liters of water flows through the faucet into the vat. Since at the end of the 50 minutes the vat is full, there are 60 liters of water in the vat and the other 250 &#8211; 60 = 190 liters left the vat through the drain. So, the rate of flow through the drain is 190 liters ÷ 50 minutes = 3.8 liters per minute.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

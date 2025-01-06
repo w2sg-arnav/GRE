@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/"  numberDisplayOffset="18">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="32">If 0.6 &#60; <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_008.swf"/> &#60; 0.7, then which of the following could be the value of <span fontStyle="italic">x</span>?</p>
+<p></p>
+<p>Indicate <span textDecoration="underline">all</span> such values.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0.65</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0.85 </p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1.30</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1.40</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1.50</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1.60</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1.70</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choices 1.50 and 1.60.</span></p>
+<p lineHeight="44">If  <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_051.swf"/> = 0.6 = <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_052.swf"/>, then 6<span fontStyle="italic">x</span> = 10, and <span fontStyle="italic">x</span> = <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_053.swf"/> = 1.666.</p>
+<p lineHeight="44">If  <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_054.swf"/> = 0.7 = <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_055.swf"/>, then 7<span fontStyle="italic">x</span> = 10, and so <span fontStyle="italic">x</span> = <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_056.swf"/> = 1.429.</p>
+<p lineHeight="44">Since 0.6 &#60; <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_057.swf"/> &#60; 0.7, then 1.429 &#60; <span fontStyle="italic">x</span> &#60; 1.666.
+The only choices that satisfy this inequality are 1.50 and 1.60.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

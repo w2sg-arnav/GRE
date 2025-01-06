@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If the ratio of boys to girls in a club is 2:3, what percent of the club members are girls?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices layout="bottom">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> 33<img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_006.swf"/>%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> 40%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> 60%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> 66<img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_007.swf"/>%</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>150%</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">60%</span></p>
+<p lineHeight="32">Out of every 5 club members, 2 are boys and 3 are girls. Girls, therefore, make up <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_050.swf"/> of the</p>
+<p lineHeight="32">club’s members.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

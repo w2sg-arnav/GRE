@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s2/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >According to the passage, Austen concentrated on a limited range of subjects because</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>she had a limited degree of experience of fiction</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>her imagination was incapable of creating other worlds </p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>women in her time were prohibited from writing about significant topics </p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>she wanted to create a safe niche for the exercise of her talents</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>she did not wish to be acknowledged as an author</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">she wanted to create a safe niche for the exercise of her talents.</span></p>
+<p>As the passage explicitly states, "Austen attempted through self-imposed novelistic limitations to define a secure place."  She did so because <span fontStyle="italic">she wanted to create a safe niche for the exercise of her talents.</span></p>
+
+<p><span fontStyle="italic">She had a limited degree of experience of fiction</span> is incorrect.  Nothing in the passage indicates that Austen had a limited degree of experience of fiction.</p>
+
+<p><span fontStyle="italic">Her imagination was incapable of creating other worlds </span>is incorrect. Nothing in the passage indicates that Austen’s imagination was incapable of creating other worlds.</p>
+
+<p><span fontStyle="italic">Women in her time were prohibited from writing about significant topics </span>is incorrect.  Although women in her time certainly were not encouraged to write about significant topics, they were not actually prohibited from doing so.</p>
+
+<p><span fontStyle="italic">She did not wish to be acknowledged as an author</span> is incorrect.  Although Austen preferred anonymity to being publicly acknowledged as an author, that was not her reason for concentrating on a limited range of subjects.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s4/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The passage suggests which of the following about fascist dictatorships?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>They represent a more efficient form of the executive.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>They rose to power through an accident of history.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>They mark a regression to earlier despotic forms of government.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Despite superficial dissimilarities, they are in essence like absolute monarchies.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>They maintain their dominance by rechanneling opposing forces in new</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">They mark a regression to earlier despotic forms of government.</span></p>
+<p>If the fascist dictatorships "are the first truly tyrannical governments that Western Europe has known for centuries, "then it can be inferred that, centuries ago, tyrannical or <span fontStyle="italic">despotic</span> governments existed in Western Europe. Thus, the fascist governments represent a <span fontStyle="italic">regression</span> or reversion to an earlier form of government.</p>
+
+<p><span fontStyle="italic">They represent a more efficient form of the executive </span>is incorrect. Nothing in the passage suggests that fascist governments <span fontStyle="italic">represent a more efficient form of the executive.</span></p>
+
+<p><span fontStyle="italic">They rose to power through an accident of history</span> is incorrect. Nothing in the passage suggests that fascist governments <span fontStyle="italic">rose to power through an accident of history.
+</span></p>
+<p><span fontStyle="italic">	Despite superficial dissimilarities, they are in essence like absolute monarchies</span> is incorrect. The powers of the monarchies, though absolute in theory, in practice were checked or restrained; the powers of the fascist dictatorships were not. Thus, the two forms of government were fundamentally different.</p>
+
+<p><span fontStyle="italic">	They maintain their dominance by rechanneling opposing forces in new directions</span> is incorrect.  Nothing in the passage suggests that fascist governments <span fontStyle="italic">maintain their dominance by rechanneling opposing forces in new directions.</span></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

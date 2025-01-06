@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>With the introduction of gunpowder and the use of cannons in siege warfare, castles that in earlier years had seemed ________ were easily breached by the new weapons.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>invincible</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>venerable</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>remote</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>unique</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>impregnable</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>inconsequential</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">invincible; impregnable.</span></p>
+<p>The key phrase here is <span fontStyle="italic">easily breached</span>. The use of cannons made fortified castles that had seemed <span fontStyle="italic">impregnable</span> (invulnerable; unassailable) or <span fontStyle="italic">invincible</span> (unconquerable) easy to breach or break through.</p>
+<p><span fontStyle="italic">Venerable </span>is incorrect. The key phrase here is <span fontStyle="italic">easily breached</span>.  <span fontStyle="italic">Venerable</span> means respected or revered.  It makes little sense in the context.</p>
+<p><span fontStyle="italic">Remote</span> is incorrect. The key phrase here is <span fontStyle="italic">easily breached</span>.  <span fontStyle="italic">Remote</span> means distant.  It makes no sense in the context.</p>
+<p><span fontStyle="italic">Unique</span> is incorrect. The key phrase here is <span fontStyle="italic">easily breached</span>.  <span fontStyle="italic">Unique</span> means one of a kind.  It makes no sense in the context.</p>
+<p><span fontStyle="italic">Inconsequential</span> is incorrect. The key phrase here is <span fontStyle="italic">easily breached</span>.  <span fontStyle="italic">Inconsequential</span> means insignificant or unimportant.  It makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

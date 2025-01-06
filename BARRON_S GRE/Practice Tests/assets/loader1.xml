@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+	<section>
+    <title><![CDATA[Section 1—Writing Assessment]]></title>
+		<mode time="1800" actualtime="1800" numquestions="1" actualnumquestions="1"/>
+		<screen><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p textAlign="center" fontSize="18" fontWeight="bold">Section 1&#8212;Analytical Writing</p>
+			<p textAlign="center" fontSize="18" fontWeight="bold">2 Questions</p>
+			<p textAlign="center" fontSize="18" fontWeight="bold">60 Minutes</p>
+			<p  lineHeight="32">This section of the test consists of two timed writing tasks, analyzing an issue and analyzing an argument. <span fontWeight="bold">You will have 30 minutes to complete each task.</span></p>
+			<p></p>
+			<p>Click <span fontWeight="bold">Continue</span> to proceed.</p>
+			</TextFlow>]]></screen>
+		<questionGroup start="1" type="essay" title="Analytical Writing"> <!--  this title is used in the answer key -->
+			<directions><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p textAlign="center" fontSize="18" fontWeight="bold">Analyzing an Issue</p>
+			<p>You will be given a brief passage that states or implies an issue of general interest. Instructions will be given on how to respond to the issue. Your response will be graded by how well you:</p>
+<p></p>
+<p tabStops="s10"><tab/>•	respond to the specific task instructions.</p>
+<p tabStops="s10"><tab/>•	consider the complexities of the issue.</p>
+<p tabStops="s10"><tab/>•	organize, develop, and express your ideas.</p>
+<p tabStops="s10"><tab/>•	support your position with relevant reasoning and examples.</p>
+<p tabStops="s10"><tab/>•	control the elements of standard written English.</p>
+<p></p>
+<p>Click <span fontWeight="bold">Continue</span> to proceed.</p>
+			</TextFlow>]]></directions>
+			<questions>
+				<question src="assets/test_1/s1/question001.xml" />
+			</questions>
+		</questionGroup>
+	</section>	
+	<section>
+    <title><![CDATA[Section 1—Writing Assessment]]></title>
+		<mode time="1800" actualtime="1800" numquestions="1" actualnumquestions="1"/>
+		<questionGroup start="2" type="essay" title="Analytical Writing"> <!--  this title is used in the answer key -->
+			<directions><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p textAlign="center" fontSize="18" fontWeight="bold">Analyzing an Argument</p>
+			<p>You will be given a brief passage that presents an argument. Instructions will be given on how to respond to the argument. Your response will be graded by how well you:</p>
+<p></p>
+<p tabStops="s10"><tab/>•	respond to the specific task instructions.</p>
+<p tabStops="s10"><tab/>•	identify and analyze important features of the passage.</p>
+<p tabStops="s10"><tab/>•	organize, develop, and express your analysis.</p>
+<p tabStops="s10"><tab/>•	support your position with relevant reasoning and examples.</p>
+<p tabStops="s10"><tab/>•	control the elements of standard written English.</p>
+<p></p>
+<p>Click <span fontWeight="bold">Continue</span> to proceed.</p>
+			</TextFlow>]]></directions>
+			<questions>
+				<question src="assets/test_1/s1/question002.xml" />
+			</questions>
+		</questionGroup>
+		<end_screen>
+			<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>You have seen all questions in this section. As long as there is time remaining, you can review your work. Once you leave this section, you WILL NOT be able to return to it.</p> 
+			<p></p>
+			<p>Click <span fontWeight="bold">Review</span> to review your answers in this section.</p>
+				<p></p>
+				<p>Click <span fontWeight="bold">Continue</span> to go on to the next section of the test.</p></TextFlow>]]>
+		</end_screen>
+	</section>	
+	<section breaksection="true">
+	
+		<title><![CDATA[Break]]></title>
+		<mode time="60" actualtime="60" numquestions="0" actualnumquestions="0"></mode>
+		<screen>
+			<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p textAlign="center">There will be a 60-second pause unless you wish to continue immediately.</p>
+			<p></p>
+			<p textAlign="center">The test will continue when the 60-second pause expires.</p>
+			<p></p>
+			<p textAlign="center">If you do not want to pause, click <span fontWeight="bold">Continue.</span></p></TextFlow>]]>
+		
+		</screen>
+	
+	</section>
+	<section> 
+    <title><![CDATA[Section 2—Verbal Reasoning]]></title>
+		<mode time="1800" actualtime="1800" numquestions="20" actualnumquestions="20"/>
+		<questionGroup start="1" type="se" title="Verbal Reasoning">   
+			<directions><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p textAlign="center" fontSize="18" fontWeight="bold">Section 2&#8212;Verbal Reasoning</p>
+			<p textAlign="center" fontSize="18" fontWeight="bold">20 Questions</p>
+			<p textAlign="center" fontSize="18" fontWeight="bold">30 Minutes</p>
+			<p>For each question, choose the best answer using the directions given for each question. If you need more detailed directions, click <span fontWeight="bold">Help</span> at any time.</p>
+			<p></p>
+			<p>If a question has answer choices with <span fontWeight="bold">ovals</span>, then there is only one correct answer. If a question has answer choices with <span fontWeight="bold">square boxes</span>, then there may be more than one correct answer. Read the directions for each question carefully.</p>
+			<p></p>
+			<p>Click <span fontWeight="bold">Continue</span> to proceed.</p>
+
+			</TextFlow>]]></directions>
+			<questions>
+					<question src="assets/test_1/s2/question001.xml" />
+					<question src="assets/test_1/s2/question002.xml" />
+					<question src="assets/test_1/s2/question003.xml" />
+					<question src="assets/test_1/s2/question004.xml" />
+					<question src="assets/test_1/s2/question005.xml" />
+			</questions>
+		</questionGroup>
+		<questionGroup start="6" type="mc" title="">
+			<questions>
+					<question src="assets/test_1/s2/question006.xml" />
+					<question src="assets/test_1/s2/question007.xml" />
+			</questions>
+		</questionGroup>
+		<questionGroup start="8" type="ma" title="">
+			<questions>
+					<question src="assets/test_1/s2/question008.xml" />
+			</questions>
+		</questionGroup>
+		<questionGroup start="9" type="mc" title="">
+			<questions>
+					<question src="assets/test_1/s2/question009.xml" />
+					<question src="assets/test_1/s2/question010.xml" />
+			</questions>
+		</questionGroup>
+		<questionGroup start="11" type="sc" title=""> <!-- this will be sentence completion types sc -->
+			<questions>
+					<question src="assets/test_1/s2/question011.xml" />
+					<question src="assets/test_1/s2/question012.xml" />
+					<question src="assets/test_1/s2/question013.xml" />
+					<question src="assets/test_1/s2/question014.xml" />
+					<question src="assets/test_1/s2/question015.xml" />
+			</questions>
+		</questionGroup>
+		<questionGroup start="16" type="mc" title="">
+			<questions>
+					<question src="assets/test_1/s2/question016.xml" />
+					<question src="assets/test_1/s2/question017.xml" />
+					<question src="assets/test_1/s2/question018.xml" />
+			</questions>
+		</questionGroup>
+		<questionGroup start="19" type="ma" title="">
+			<questions>
+					<question src="assets/test_1/s2/question019.xml" />
+			</questions>
+		</questionGroup>
+		<questionGroup start="20" type="mc" title="">
+			<questions>
+					<question src="assets/test_1/s2/question020.xml" />
+			</questions>
+		</questionGroup>
+
+		<end_screen>
+			<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>You have seen all questions in this section. As long as there is time remaining, you can review your work. Once you leave this section, you WILL NOT be able to return to it.</p> 
+			<p></p>
+			<p>Click <span fontWeight="bold">Review</span> to review your answers in this section.</p>
+				<p></p>
+				<p>Click <span fontWeight="bold">Continue</span> to go on to the next section of the test.</p></TextFlow>]]>
+		</end_screen>
+	</section>
+	<section hasCalculator="true"> 
+    <title><![CDATA[Section 3—Quantitative Reasoning]]></title>
+		<mode time="2100" actualtime="2100" numquestions="20" actualnumquestions="20"/>
+		<screen><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p textAlign="center" fontSize="18" fontWeight="bold">Section 3—Quantitative Reasoning</p>
+<p textAlign="center" fontSize="18" fontWeight="bold">20 Questions</p>
+<p textAlign="center" fontSize="18" fontWeight="bold">35 Minutes</p>
+<p></p>
+		<p>For each question, choose the best answer using the directions given for each question. If you need more detailed directions, click Help at any time.</p>
+<p></p>
+<p><span fontWeight="bold">An on-screen calculator is available for each question in this section. To use the calculator, click the calculator button to the right of the screen.</span></p>
+<p></p>
+<p>If a question has answer choices with <span fontWeight="bold">ovals</span>, then there is only one correct answer. If a question has answer choices with <span fontWeight="bold">square boxes</span>, then there may be more than one correct answer. Read the directions for each question carefully.</p>
+<p></p>
+<p>Click <span fontWeight="bold">Continue</span> to proceed.</p>
+</TextFlow>]]></screen>
+
+		<questionGroup start="1" type="mc" title="Quantitative Reasoning">
+			<directions><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">Directions</span>: In each of <span fontWeight="bold">Questions 1–8</span>, there are two quantities––Quantity A and Quantity B. You are to compare those quantities, taking into consideration any additional information given. The correct answer to such a question is</p>
+<p tabStops="s10"><tab/>Quantity A is greater;</p>
+<p tabStops="s10"><tab/>Quantity B is greater;</p>
+<p tabStops="s10"><tab/>Quantities A and B are equal;</p>
+<p tabStops="s10"><tab/>It is impossible to determine which quantity is greater.</p>
+<p></p>
+<p><span fontWeight="bold">Note:</span> The given information, if any, is always centered above the two quantities. In any question, if a symbol or letter appears more than once, it represents the same thing each time.</p>
+</TextFlow>]]></directions>
+			<questions>
+				<question src="assets/test_1/s3/question001.xml"/>
+				<question src="assets/test_1/s3/question002.xml"/>
+				<question src="assets/test_1/s3/question003.xml"/>
+				<question src="assets/test_1/s3/question004.xml"/>
+				<question src="assets/test_1/s3/question005.xml"/>
+				<question src="assets/test_1/s3/question006.xml"/>
+				<question src="assets/test_1/s3/question007.xml"/>
+				<question src="assets/test_1/s3/question008.xml"/>
+			</questions>
+		</questionGroup>
+ 		
+		<questionGroup start="9" type="mc" title="">
+		
+		<directions><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">Directions</span>: <span fontWeight="bold">Questions 9–20</span> have three different formats. Unless a question has its own directions that specifically state otherwise, each question has five answer choices, exactly one of which is correct. Click on the circle in front of the answer you want to choose.</p>
+		<p></p>
+		<p>Click <span fontWeight="bold">Continue</span> to proceed.</p></TextFlow>]]></directions>
+			<questions>
+				<question src="assets/test_1/s3/question009.xml"/>
+				<question src="assets/test_1/s3/question010.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="11" type="ma" title="">
+			<questions>
+				<question src="assets/test_1/s3/question011.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="12" type="mc" title="">
+			<questions>
+				<question src="assets/test_1/s3/question012.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="13" type="numeric" title="">
+			<questions>
+				<question src="assets/test_1/s3/question013.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="14" type="mc" title="">
+			<questions>
+				<question src="assets/test_1/s3/question014.xml"/>
+				<question src="assets/test_1/s3/question015.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="16" type="numeric" title="">
+			<questions>
+			<question src="assets/test_1/s3/question016.xml"/>
+			</questions>
+		</questionGroup>
+				<questionGroup start="17" type="mc" title="">
+			<questions>
+				<question src="assets/test_1/s3/question017.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="18" type="ma" title="">
+			<questions>
+				<question src="assets/test_1/s3/question018.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="19" type="mc" title="">
+			<questions>
+				<question src="assets/test_1/s3/question019.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="20" type="numeric" title="">
+			<questions>
+				<question src="assets/test_1/s3/question020.xml"/>
+			</questions>
+		</questionGroup>
+		<end_screen>
+			<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>You have seen all questions in this section. As long as there is time remaining, you can review your work. Once you leave this section, you WILL NOT be able to return to it.</p> 
+			<p></p>
+			<p>Click <span fontWeight="bold">Review</span> to review your answers in this section.</p>
+				<p></p>
+				<p>Click <span fontWeight="bold">Continue</span> to go on to the next section of the test.</p></TextFlow>]]>
+		</end_screen>
+	</section>
+	<section> 
+    <title><![CDATA[Section 4—Verbal Reasoning]]></title>
+		<mode time="1800" actualtime="1800" numquestions="20" actualnumquestions="20"/>
+		<questionGroup start="1" type="se" title="Verbal Reasoning">   
+			<directions><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p textAlign="center" fontSize="18" fontWeight="bold">Section 4&#8212;Verbal Reasoning</p>
+			<p textAlign="center" fontSize="18" fontWeight="bold">20 Questions</p>
+			<p textAlign="center" fontSize="18" fontWeight="bold">30 Minutes</p>
+			<p>For each question, choose the best answer using the directions given for each question. If you need more detailed directions, click <span fontWeight="bold">Help</span> at any time.</p>
+			<p></p>
+			<p>If a question has answer choices with <span fontWeight="bold">ovals</span>, then there is only one correct answer. If a question has answer choices with <span fontWeight="bold">square boxes</span>, then there may be more than one correct answer. Read the directions for each question carefully.</p>
+						<p></p>
+				<p>Click <span fontWeight="bold">Continue</span> to proceed.</p>
+			</TextFlow>]]></directions>
+			<questions>
+					<question src="assets/test_1/s4/question001.xml" />
+					<question src="assets/test_1/s4/question002.xml" />
+					<question src="assets/test_1/s4/question003.xml" />
+					<question src="assets/test_1/s4/question004.xml" />
+					<question src="assets/test_1/s4/question005.xml" />
+			</questions>
+		</questionGroup>
+		<questionGroup start="6" type="mc" title="">
+			<questions>
+					<question src="assets/test_1/s4/question006.xml" />
+					<question src="assets/test_1/s4/question007.xml" />
+					<question src="assets/test_1/s4/question008.xml" />
+					<question src="assets/test_1/s4/question009.xml" />
+					<question src="assets/test_1/s4/question010.xml" />
+			</questions>
+		</questionGroup>
+		<questionGroup start="11" type="sc" title=""> <!-- this will be sentence completion types sc -->
+			<questions>
+					<question src="assets/test_1/s4/question011.xml" />
+					<question src="assets/test_1/s4/question012.xml" />
+					<question src="assets/test_1/s4/question013.xml" />
+					<question src="assets/test_1/s4/question014.xml" />
+					<question src="assets/test_1/s4/question015.xml" />
+			</questions>
+		</questionGroup>
+		<questionGroup start="16" type="mc" title="">
+			<questions>
+					<question src="assets/test_1/s4/question016.xml" />
+					<question src="assets/test_1/s4/question017.xml" />
+					<question src="assets/test_1/s4/question018.xml" />
+					<question src="assets/test_1/s4/question019.xml" />
+					<question src="assets/test_1/s4/question020.xml" />
+			</questions>
+		</questionGroup>
+		<end_screen>
+			<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>You have seen all questions in this section. As long as there is time remaining, you can review your work. Once you leave this section, you WILL NOT be able to return to it.</p> 
+			<p></p>
+			<p>Click <span fontWeight="bold">Review</span> to review your answers in this section.</p>
+				<p></p>
+				<p>Click <span fontWeight="bold">Continue</span> to go on to the next section of the test.</p></TextFlow>]]>
+		</end_screen>
+
+	</section>
+	<section hasCalculator="true"> 
+    <title><![CDATA[Section 5—Quantitative Reasoning]]></title>
+		<mode time="2100" actualtime="2100" numquestions="20" actualnumquestions="20"/>
+		<screen><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p textAlign="center" fontSize="18" fontWeight="bold">Section 5—Quantitative Reasoning</p>
+<p textAlign="center" fontSize="18" fontWeight="bold">20 Questions</p>
+<p textAlign="center" fontSize="18" fontWeight="bold">35 Minutes</p>
+<p></p>
+		<p>For each question, choose the best answer using the directions given for each question. If you need more detailed directions, click Help at any time.</p>
+<p></p>
+<p><span fontWeight="bold">An on-screen calculator is available for each question in this section. To use the calculator, click the calculator button to the right of the screen.</span></p>
+<p></p>
+<p>If a question has answer choices with <span fontWeight="bold">ovals</span>, then there is only one correct answer. If a question has answer choices with <span fontWeight="bold">square boxes</span>, then there may be more than one correct answer. Read the directions for each question carefully.</p>
+			<p></p>
+				<p>Click <span fontWeight="bold">Continue</span> to proceed.</p></TextFlow>]]></screen>
+
+		<questionGroup start="1" type="mc" title="Quantitative Reasoning">
+			<directions><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">Directions</span>: In each of <span fontWeight="bold">Questions 1–7</span>, there are two quantities––Quantity A and Quantity B. You are to compare those quantities, taking into consideration any additional information given. The correct answer to such a question is</p>
+<p tabStops="s10"><tab/>Quantity A is greater;</p>
+<p tabStops="s10"><tab/>Quantity B is greater;</p>
+<p tabStops="s10"><tab/>Quantities A and B are equal;</p>
+<p tabStops="s10"><tab/>It is impossible to determine which quantity is greater.</p>
+<p></p>
+<p><span fontWeight="bold">Note:</span> The given information, if any, is always centered above the two quantities. In any question, if a symbol or letter appears more than once, it represents the same thing each time.</p>
+</TextFlow>]]></directions>
+			<questions>
+				<question src="assets/test_1/s5/question001.xml"/>
+				<question src="assets/test_1/s5/question002.xml"/>
+				<question src="assets/test_1/s5/question003.xml"/>
+				<question src="assets/test_1/s5/question004.xml"/>
+				<question src="assets/test_1/s5/question005.xml"/>
+				<question src="assets/test_1/s5/question006.xml"/>
+				<question src="assets/test_1/s5/question007.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="8" type="mc" title="">
+				<directions><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">Directions</span>: <span fontWeight="bold">Questions 8–20</span> have three different formats. Unless a question has its own directions that specifically state otherwise, each question has five answer choices, exactly one of which is correct. Click on the circle in front of the answer you want to choose.</p>
+		<p></p>
+		<p>Click <span fontWeight="bold">Continue</span> to proceed.</p></TextFlow>]]></directions>
+			<questions>
+				<question src="assets/test_1/s5/question008.xml"/>
+				</questions>
+		</questionGroup>
+		<questionGroup start="9" type="ma" title="">
+			<questions>
+				<question src="assets/test_1/s5/question009.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="10" type="mc" title="">
+			<questions>
+				<question src="assets/test_1/s5/question010.xml"/>
+				<question src="assets/test_1/s5/question011.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="12" type="numeric" title="">
+			<questions>
+				<question src="assets/test_1/s5/question012.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="13" type="mc" title="">
+			<questions>
+				<question src="assets/test_1/s5/question013.xml"/>
+				<question src="assets/test_1/s5/question014.xml"/>
+				<question src="assets/test_1/s5/question015.xml"/>
+				<question src="assets/test_1/s5/question016.xml"/>
+				<question src="assets/test_1/s5/question017.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="18" type="ma" title="">
+			<questions>
+				<question src="assets/test_1/s5/question018.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="19" type="mc" title="">
+			<questions>
+				<question src="assets/test_1/s5/question019.xml"/>
+			</questions>
+		</questionGroup>
+		<questionGroup start="20" type="numeric" title="">
+			<questions>
+				<question src="assets/test_1/s5/question020.xml"/>
+			</questions>
+		</questionGroup>
+		<end_screen>
+			<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>You have seen all questions in this section. As long as there is time remaining, you can review your work. Once you leave this section, you WILL NOT be able to return to it.</p> 
+			<p></p>
+			<p>Click <span fontWeight="bold">Review</span> to review your answers in this section.</p>
+				<p></p>
+				<p>Click <span fontWeight="bold">Continue</span> to go on to the scoring page.</p></TextFlow>]]>
+		</end_screen>
+
+	</section>
+</test>

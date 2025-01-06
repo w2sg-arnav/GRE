@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Far from viewing consumption as a romantic, even glamorous disease, an affliction of emotionally enhanced or refined beings, Sontag, steadfastly refusing to idealize the disease, observed that the __________ attaching to consumption eventually diminished as science clarified the cause of the illness, and as treatment became first possible and then routine.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>distinction</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>cachet</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>therapy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>idiosyncrasy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>relevance</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>duties</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">distinction, cachet.</span></p>
+<p>Note the phrase <span fontStyle="italic">far from</span> that opens the sentence. This phrase sets up a contract between writers who regarded consumption (tuberculosis) romantically and the writer Susan Sontag, who refused to idealize or romanticize the disease. Sontag instead analyzed the changes in how people came to view consumption, pointing out that the original <span fontStyle="italic">cachet</span> (prestige; idealized status) or <span fontStyle="italic">distinction</span> (prestige) of the disease grew less as people learned to treat it.</p>
+
+<p><span fontStyle="italic">Therapy</span> is incorrect. The term <span fontStyle="italic">therapy</span> (healing power; treatment) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Idiosyncrasy</span> is incorrect. The term <span fontStyle="italic">idiosyncrasy </span>(individual peculiarity; quirk) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Relevance</span> is incorrect. The term <span fontStyle="italic">relevance</span> (significance) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Duties </span>is incorrect. The term <span fontStyle="italic">duties</span> (obligations) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

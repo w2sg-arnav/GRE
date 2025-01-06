@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>The two executives were a study in contrasts: where the chief financial officer was (i)________ keeping accurate records and famous within the company for her (ii)________, the chief executive officer was far more liberal in his spending habits and not particularly known for (iii)________ recordkeeping.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[overwhelmed by]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[meticulous about]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[restricted to]]></barrons:choice>
+		</barrons:blank>
+		<barrons:blank>
+			<barrons:choice correct="true"><![CDATA[economy]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[meekness]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[eccentricity]]></barrons:choice>
+		</barrons:blank>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[intuitive]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[scrupulous]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[manifest]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">meticulous about; economy; scrupulous.</span></p>
+<p>The key phrase here that unlocks the entire sentence is <span fontStyle="italic">the chief executive officer was far more liberal in his spending habits</span>. That is your clue that the second missing word is <span fontStyle="italic">economy</span> (thriftiness). The CFO is known for thriftiness and for being <span fontStyle="italic">meticulous</span> (thorough; painstaking)<span fontStyle="italic"> about</span> keeping accurate records. In contrast, the CEO is known for being a free spender and for <span fontStyle="italic">not</span> being <span fontStyle="italic">scrupulous</span> (conscientious; thorough) about keeping good records.</p>
+
+<p><span fontStyle="italic">Overwhelmed by</span> is incorrect. Nothing suggests that keeping accurate records would have</p>
+<p><span fontStyle="italic">overwhelmed </span>the CFO.</p>
+
+<p><span fontStyle="italic">Restricted to</span> is incorrect. It makes little sense to say that the CFO was <span fontStyle="italic">restricted</span> (limited) to keeping</p>
+<p>accurate records.</p>
+
+<p><span fontStyle="italic">Meekness</span> is incorrect. Nothing suggests the CFO was famous for <span fontStyle="italic">meekness</span> (humbleness; timidity).</p>
+
+<p><span fontStyle="italic">Eccentricity</span> is incorrect. Nothing suggests the CFO was famous for <span fontStyle="italic">eccentricity</span> (oddness; peculiarity).</p>
+
+<p><span fontStyle="italic">Intuitive</span> is incorrect. <span fontStyle="italic">Intuitive</span> (innately perceptive) makes no sense in the context of record-keeping.</p>
+
+<p><span fontStyle="italic">Manifest</span> is incorrect.  <span fontStyle="italic">Manifest</span> (evident; obvious) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

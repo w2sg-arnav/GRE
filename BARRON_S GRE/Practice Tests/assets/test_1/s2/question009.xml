@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s2/passage002.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >According to the passage, all of the following were true of the center of an atom EXCEPT that it</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>had not yet been seen by the naked eye</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>contained elements that were positively charged</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>was very little larger than a molecule</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>followed experimentally determinable processes</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>was smaller than 1/125 millionth of an inch</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">was very little larger than a molecule.</span></p>
+<p>The passage states that molecules are made of atoms; logically, therefore, an atom is smaller, not larger, than the molecule to which it belongs.</p>
+
+<p><span fontStyle="italic">Had not yet been seen by the naked eye</span> is incorrect. This passage states atoms <span fontStyle="italic">have never been seen or photographed</span>.</p>
+
+<p><span fontStyle="italic">Contained elements that were positively charged </span>is incorrect. This passage mentions the presence of positive electrical elements.</p>
+
+<p><span fontStyle="italic">Followed experimentally determinable processes </span>is incorrect. This passage notes the ingenious laboratory experiments that determine its operations or processes.</p>
+
+<p><span fontStyle="italic">Was smaller than 1/125 millionth of an inch</span> is incorrect. This passage mentions the average diameter of a molecule is 1/125 millionth of an inch. Atoms are smaller yet.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>There is an essential __________ in human gestures, and when someone raises the palms of his hands together, we do not know whether it is to bury himself in prayer or to throw himself into the sea.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>economy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>dignity</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>insincerity</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>reverence</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>ambiguity</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>uncertainty</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">ambiguity; uncertainty. </span></p>
+<p>The statement that <span fontStyle="italic">we do not know</span> whether a gesture indicates devotion or despair suggests that gestures are by their nature <span fontStyle="italic">ambiguous</span> (unclear) or <span fontStyle="italic">uncertain</span>.</p>
+	
+<p><span fontStyle="italic">Economy</span> is incorrect. Nothing in the context suggests that there is any particular <span fontStyle="italic">economy </span>(efficiency or restraint in use) in human gestures.</p>
+
+<p><span fontStyle="italic">Dignity</span> is incorrect. Nothing in the context suggests that there is an essential <span fontStyle="italic">dignity </span>(formal bearing; nobility of character) in human gestures.</p>
+
+<p><span fontStyle="italic">Insincerity</span> is incorrect. Even though <span fontStyle="italic">we do not know</span> whether a gesture indicates devotion or despair, the context does not suggest that there is an essential <span fontStyle="italic">insincerity </span>(intentional deceitfulness) in human gestures.</p>
+
+<p><span fontStyle="italic">Reverence</span> is incorrect. Nothing in the context suggests that there is an essential <span fontStyle="italic">reverence </span>(deep respect; awe) in human gestures.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

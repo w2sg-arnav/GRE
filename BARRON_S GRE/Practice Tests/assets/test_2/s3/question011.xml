@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" numberDisplayOffset="18">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="32">If <span fontStyle="italic">x + y = </span>12, then <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_009.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices layout="bottom">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>4</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>12</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>16</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>18</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>24</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">16</span></p>
+<p lineHeight="32"><img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_059.swf"/></p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p lineHeight="32">Pick values for <span fontStyle="italic">x</span> and <span fontStyle="italic">y</span> whose sum is 12, say  <span fontStyle="italic">x</span> = 2 and <span fontStyle="italic">y</span> = 10. Then</p> 
+<p lineHeight="32"><img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_060.swf"/></p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

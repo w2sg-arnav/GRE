@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p  textAlign="center">The figure below consists of four circles with the same center.</p>
+<p  textAlign="center">The radii of the four circles are 1, 2, 3, and 4.</p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s3_007a.swf"/></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s3_007b.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantities A and B are equal.</span></p>
+<p lineHeight="32">Since the entire region is a circle of radius 4, its area is π(4)<span baselineShift="superscript">2</span> = 16. The white region is a circle of radius 3 minus the small shaded circle of radius 1, so its area is 9π &#8722; π = 8π. Thus, the area of the white region is one-half of the total area, and the area of the shaded region is the other half. The quantities are equal.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

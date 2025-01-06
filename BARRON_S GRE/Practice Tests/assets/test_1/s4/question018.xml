@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage005.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The quotation marks around the word  <span fontStyle="italic">poetic</span> serve to</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>emphasize the triteness of the term</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>identify the use of a colloquialism</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>indicate the word is being used in an ironic sense</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>point out the inspirational quality of this school of writing</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>imply that the historians involved wrote in verse.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">indicate the word is being used in an ironic sense.</span></p>
+<p>The author of the passage has already indicated his dissatisfaction with the magic-loving, metaphor-using school of historical writing that obscures more than it illuminates. Clearly, he is using the word "poetic" <span fontStyle="italic">in an ironic sense.</span></p>
+<p><span fontStyle="italic">Emphasize the triteness of the term</span> is incorrect. Nothing in the passage suggests that the term <span fontStyle="italic">poetic</span> is hackneyed or trite as a description of this school of historical writing.</p>
+<p><span fontStyle="italic">Identify the use of a colloquialism</span> is incorrect. Nothing in the passage suggests that the term <span fontStyle="italic">poetic</span> is a <span fontStyle="italic">colloquialism</span> or informal, conversational expression.</p>
+<p><span fontStyle="italic">Point out the inspirational quality of this school of writing</span> is incorrect.  Nothing in this passage suggests that the author finds this school of writing particularly <span fontStyle="italic">inspirational </span>or moving.</p>
+<p><span fontStyle="italic">Imply that the historians involved wrote in verse</span> is incorrect. Nothing in the passage suggests that this school of historical writing ever produced anything in verse.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Appalled by the confused jumble of laws he had inherited from his predecessors, King Joseph II attempted to codify the existing (i)________ of medieval law into a modern and (ii)_______ code.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[dearth]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[intransigence]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[welter]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[consistent]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[idiosyncratic]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[draconian]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">welter; consistent.</span></p>
+<p>The key phrase here is <span fontStyle="italic">confused jumble</span>. A <span fontStyle="italic">welter</span> is a confused mass or muddle, in other words, a jumble. The king was attempting to take this jumble of miscellaneous laws and turn it into something <span fontStyle="italic">consistent</span> (coherent; not self-contradictory).</p>
+
+<p><span fontStyle="italic">Dearth</span> is incorrect. The key phrase here is <span fontStyle="italic">confused jumble</span>. A <span fontStyle="italic">dearth</span> is a lack or scarcity. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Intransigence</span> is incorrect. The key phrase here is <span fontStyle="italic">confused jumble</span>. <span fontStyle="italic">Intransigence </span>means stubbornness or extreme firmness. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Idiosyncratic</span> is incorrect. The key phrase here is <span fontStyle="italic">confused jumble</span>. The king was attempting to turn a jumble of miscellaneous laws into an orderly legal code. The adjective <span fontStyle="italic">idiosyncratic</span> means quirky or individually peculiar. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Draconian</span> is incorrect. The key phrase here is c<span fontStyle="italic">onfused jumble</span>. The king was attempting to turn a jumble of miscellaneous laws into an orderly legal code. The adjective <span fontStyle="italic">draconian</span> means harsh or unusually severe. It makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

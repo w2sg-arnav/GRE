@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p textAlign="center">At Central High School 50 girls play intramural basketball,</p>
+<p textAlign="center">40 girls play intramural volleyball, and 10 girls play both sports</p>
+<p lineHeight="120%"  textAlign="center"><img source="assets/images/tst2_s3_004a.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantities A and B are equal.</span></p>
+<p lineHeight="32">Mentally, or by using a Venn diagram,</p>
+<p lineHeight="120%"><img source="assets/images/tst2_s3_004b.swf"/></p>
+<p lineHeight="32">determine the number of girls who play one sport. Forty play only basketball and 30 play only volleyball. The ratio is 40:30 = <img dominantBaseline="ideographicCenter" source="assets/images/tst2_eqn_045.swf"/>. The quantities are equal.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

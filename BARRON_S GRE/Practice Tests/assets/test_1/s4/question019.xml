@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage005.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The author of the passage objects to historical writing like that published in <span fontStyle="italic">Américas</span> because it </p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>corroborates the findings of present-day experts in pre-Columbian archaeology</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> ignores the interplay between mysticism and realism in the Quechua belief system</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> emphasizes the importance of written records over non-literary forms of recordkeeping</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> uses figurative language instead of facts and figures as the basis for interpreting a culture</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>substitutes political for literary criteria in evaluating Quechua civilization</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">uses figurative language instead of facts and figures as the basis for interpreting a culture</span></p>
+
+<p>The author contrasts those historians who relied on metaphor and symbol (<span fontStyle="italic">figurative language</span>) to make their points with "their contemporaries who based their conclusions on archeological findings and on new interpretations of the <span fontStyle="italic">quipu</span>" (<span fontStyle="italic">facts and figures</span>). He objects to the formers’ writing because of its obscurity.</p>
+
+<p><span fontStyle="italic">Corroborates the findings of present-day experts in pre-Columbian archaeology </span>is incorrect. Nothing in the passage suggests that historical writing like the 1963 article published in <span fontStyle="italic">Américas </span>supports or <span fontStyle="italic">corroborates the findings of present-day experts in pre-Columbian archaeology.</span></p>
+
+<p><span fontStyle="italic">Ignores the interplay between mysticism and realism in the Quechua belief system</span> is incorrect. Nothing in the passage suggests that historical writing like the 1963 article published in <span fontStyle="italic">Américas </span>disregards or<span fontStyle="italic"> ignores the interplay between mysticism and realism in the Quechua belief system.</span></p>
+
+<p><span fontStyle="italic">Emphasizes the importance of written records over non-literary forms of recordkeeping </span>is incorrect. Nothing in the passage suggests that historical writing like the 1963 article published in <span fontStyle="italic">Américas</span> places any emphasis on <span fontStyle="italic">the importance of written records over non-literary forms of recordkeeping.</span></p>
+
+<p><span fontStyle="italic">Substitutes political or literary criteria in evaluating Quechua civilization</span> is incorrect. Nothing in the passage suggests that historical writing like the 1963 article published in <span fontStyle="italic">Américas </span>exchanges or <span fontStyle="italic">substitutes political or literary criteria in evaluating Quechua civilization.</span></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

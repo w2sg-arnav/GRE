@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Doubting her ability to write English correctly, the modest young Japanese student felt some __________ about replying to the first letter she received from her American pen pal.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>diffidence</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>nostalgia</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>certitude</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>misanthropy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>hesitancy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>enthusiasm</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">diffidence, hesitancy. </span></p>
+<p>The key phrase here is <span fontStyle="italic">(d)oubting her ability</span>. Because the young Japanese student doubts her ability to write English correctly, she lacks the confidence to answer her pen pal’s letter. The emotion she feels is <span fontStyle="italic">diffidence</span> (modesty; insecurity) or <span fontStyle="italic">hesitancy</span> (uncertainty; lack of confidence).</p>
+<p><span fontStyle="italic">Nostalgia</span> is incorrect. The key phrase here is <span fontStyle="italic">(d)oubting her ability</span>. What she feels is self-doubt, not <span fontStyle="italic">nostalgia</span> (sentimental longing for a former time).</p>
+<p><span fontStyle="italic">Certitude </span>is incorrect. The key phrase here is <span fontStyle="italic">(d)oubting her ability</span>. What she feels is self-doubt, not <span fontStyle="italic">certitude</span> (freedom from doubt; certainty).</p>
+<p><span fontStyle="italic">Misanthropy</span> is incorrect. The key phrase here is <span fontStyle="italic">(d)oubting her ability</span>. What she feels is self-doubt, not <span fontStyle="italic">misanthropy</span> (hatred or distrust of humankind).</p>
+<p><span fontStyle="italic">Enthusiasm</span> is incorrect. The key phrase here is <span fontStyle="italic">(d)oubting her ability</span>. What she feels is self-doubt, not <span fontStyle="italic">enthusiasm</span> (eagerness; zest).</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

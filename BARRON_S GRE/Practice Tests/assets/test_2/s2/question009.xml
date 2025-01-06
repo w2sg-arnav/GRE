@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s2/passage002b.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >As used in the passage's final sentence, the word “reflection” most nearly means</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> distortion</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> manifestation</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> mirror image</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> sudden impulse</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> careful consideration</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">manifestation.</span></p>
+<p>Here <span fontStyle="italic">reflection</span> is being used in the sense of something that clearly 
+shows or demonstrates something else: the NRC study admits the possibility that changes in Earth’s climate may merely be a <span fontStyle="italic">manifestation</span> or demonstration of the climate’s natural variability.</p>
+
+<p><span fontStyle="italic">Distortion</span> is incorrect. <span fontStyle="italic">Distortion </span>makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Mirror image</span> is incorrect. <span fontStyle="italic">Mirror image</span> makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Sudden impulse</span> is incorrect. <span fontStyle="italic">Sudden impulse</span> makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Careful consideration</span> is incorrect. <span fontStyle="italic">Careful consideration</span> (serious thought) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

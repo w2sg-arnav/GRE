@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s2/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >Select a sentence in the second paragraph whose function is to raise a possibility.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>At first sight this would appear to be an early example of the type of scientific procedure proposed by Descartes in 1637 for eliminating all but one of a number of possible relationships.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>In the ideal type of “critical” experiment, however, each “possibility” should be derived from existing data (or be a logical extrapolation of it) and the whole should be structured so that alternative possible explanations are excluded.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Failure to satisfy these requirements reduces an experiment to a level of controlled empiricism.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>This was the weakness of Lind’s work: the six “possible” cures that he compared were presumably selected empirically from those currently favored by ships’ surgeons; he gives no indication that his choice was governed by any other consideration.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>His experiment “succeeded” simply because one of the “remedies” contained vitamin C (the anti-scorbutic factor) whereas the other five did not.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">At first sight this would appear to be an early example of the type of scientific procedure proposed by Descartes in 1637 for eliminating all but one of a number of possible relationships.</span></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

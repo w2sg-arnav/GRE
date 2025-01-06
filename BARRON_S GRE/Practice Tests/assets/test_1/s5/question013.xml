@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If the average (arithmetic mean) of 10, 20, 30, 40, and <span fontStyle="italic">x</span> is 60, what is the value of <span fontStyle="italic">x</span>?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>50</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>60</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>100</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>150</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>200</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">200</span></p>
+<p>If the average of 5 numbers is 60, their sum is 5 × 60 = 300. The sum of the four given numbers is 10 + 20 + 30 + 40 = 100 so the fifth one, <span fontStyle="italic">x</span>, 300 − 100 = 200.</p>
+<p></p>
+<p><span fontWeight="bold">Alternative solution:</span></p>
+<p>Test the choices, starting with 100. The average of 10, 20, 30, 40, and 100 is 40. That’s too small. Eliminate 50, 60, and 100, and try a larger number&#8212;150 or 200: 200 works.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

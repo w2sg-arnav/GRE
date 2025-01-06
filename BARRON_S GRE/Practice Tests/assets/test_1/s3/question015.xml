@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="015">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_014.swf"/></p>
+<p>From the graphs, it can be inferred that the number of students in the Central City School district in 1990 was closest to which of the following:</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>2,000</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>2,500</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>3,000</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>3,500</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>4,000</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">2,500</span></p>
+<p lineHeight="32">The number of students in any year can be calculated from the following equation:</p>
+<p lineHeight="32">(number of students) &#215; (expenditure per student) = total expenditure</p>
+<p lineHeight="32">In 1990, the total expenditure was $25,000,000 and the expenditure per student was $10,000. So</p>
+<p lineHeight="32">(number of students) &#215; ($10,000) = $25,000,000.</p>
+<p lineHeight="32">Therefore, the number of students is <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_049.swf"/>  =  2,500.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

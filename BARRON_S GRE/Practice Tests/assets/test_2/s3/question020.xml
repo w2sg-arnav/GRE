@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="019">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Line <span fontStyle="italic">l</span> passes through points in both quadrants II and III. Which of the following statements are true?</p>
+<p></p>
+<p>Indicate <span textDecoration="underline">all</span> such statements.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>  Line <span fontStyle="italic">l</span> cannot pass through the origin.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>  Line <span fontStyle="italic">l</span> cannot pass through any point in quadrant I.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>  Line <span fontStyle="italic">l</span> cannot pass through any point in quadrant IV.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>  The slope of line <span fontStyle="italic">l</span> cannot be 0.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> The slope of line <span fontStyle="italic">l</span> cannot be positive.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>  The slope of line <span fontStyle="italic">l</span> cannot be negative.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choices 1 and 4</span></p>
+<p>The lines in the two graphs below both pass through points in quadrants II and III.</p>
+<p lineHeight="120%"><img source="assets/images/tst2_s3_020a.swf"/></p>
+<p>The line in the diagram on the left passes through points in quadrant I and has a positive slope. So statements 2 and 5 are false.</p>
+<p>The line in the diagram on the right passes through points in quadrant IV and has a negative slope. so statements 3 and 6 are false.</p>
+<p>Statement 1 is true. If a line passes through a point in quadrant II and passes through the origin, it cannot pass through any point in quadrant II.</p>
+<p lineHeight="120%"><img source="assets/images/tst2_s3_020b.swf"/></p>
+<p>Statement 4 is true. A line whose slope is 0 is horizontal (parallel to the <span fontStyle="italic">x</span>-axis). Therefore, if it passes through quadrant II it cannot pass through quadrant III.</p>
+<p lineHeight="120%"><img source="assets/images/tst2_s3_020c.swf"/></p></TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

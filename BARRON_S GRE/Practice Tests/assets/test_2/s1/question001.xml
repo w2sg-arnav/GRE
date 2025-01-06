@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+
+  <barrons:question><![CDATA[
+			<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>
+A true university education encompasses far more than the narrow, specialized study of a single discipline. Only through exploring the broad spectrum of liberal arts courses can students become truly learned.
+  </p></TextFlow>
+			]]></barrons:question>
+  <barrons:choices>
+  </barrons:choices>
+  <barrons:explanation><![CDATA[
+			<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>
+</p></TextFlow>
+			]]></barrons:explanation>
+</question_content>

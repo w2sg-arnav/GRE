@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>The shortcomings of Mr. Brooke’s analysis are (i)________ by his (ii)________ in explaining financial complexity and the sheer importance of his text.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[demonstrated]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[offset]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[warranted]]></barrons:choice>
+		</barrons:blank>
+		<barrons:blank>
+			<barrons:choice correct="true"><![CDATA[clarity]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[beneficence]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[singularity]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">offset; clarity.</span></p>
+<p><span fontStyle="italic">Clarity</span> in explaining complicated financial matters would do a great deal to <span fontStyle="italic">offset</span> or compensate for shortcomings in a text.</p>
+
+<p>Note the presence of <span fontStyle="italic">and</span> linking the positive phrase <span fontStyle="italic">sheer importance of his text</span> with the second blank. This indicates that the second missing word must be a positive term.</p>
+
+<p><span fontStyle="italic">Demonstrated</span> is incorrect. Shortcomings (defects; faults) would not be <span fontStyle="italic">demonstrated </span>(shown; proved) by the importance of a text.</p>
+
+<p><span fontStyle="italic">Warranted</span> is incorrect. Shortcomings (defects; faults) would not be <span fontStyle="italic">warranted </span>(justified) by the importance of a text.</p>
+
+<p><span fontStyle="italic">Beneficence</span> is incorrect. <span fontStyle="italic">Beneficence</span> (active kindness; charity) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Singularity</span> is incorrect. <span fontStyle="italic">Singularity</span> (uniqueness; peculiarity) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

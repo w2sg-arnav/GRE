@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/"  numberDisplayOffset="18">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="32" textAlign="center">The distance between Ali’s house and her college is exactly 135 miles.</p>
+<p  lineHeight="32" textAlign="center">She drove <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_015.swf"/> of the distance in 135 minutes.</p>
+<p></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s5_004.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity B is greater.</span></p>
+<p lineHeight="44">To find the average speed, in miles per hour, divide the distance, in miles, by the time, in hours. Ali drove 90 miles <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_058.swf"/> in 2.25 hours (135 minutes = 2 hours and 15 minutes = <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_059.swf"/> hours). <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_060.swf"/>. Quantity B is greater.<span fontWeight="bold">
+</span></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

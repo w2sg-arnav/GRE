@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Last year Leo bought two paintings. This year he sold them for $2,000 each. On one, he made a 25% profit, and on the other he had a 25% loss. What was his net loss or profit?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices layout="bottom">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>He broke even.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>He lost less than $100.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>He lost more than $100.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>He earned less than $100.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>He earned more than $100.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">He lost more than $100.</span></p>
+<p>On the first painting, Leo made a 25% profit, so if he bought it for <span fontStyle="italic">x</span>, he sold it for <span fontStyle="italic">x</span> + .25<span fontStyle="italic">x</span> = 1.25<span fontStyle="italic">x</span>. Then 1.25<span fontStyle="italic">x</span> = 2000 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">x</span> = 2000 ÷ 1.25 = 1600. His profit was $400. On the second painting, Leo lost 25%, so if he bought it for <span fontStyle="italic">y</span>, he sold it for <span fontStyle="italic">y</span> &#8722; .25<span fontStyle="italic">y</span> = .75<span fontStyle="italic">y</span>. Then .75<span fontStyle="italic">y</span> = 2000 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">y</span> = 2000 ÷ .75 &#8722; 2666.67. His loss was $666.67. In all he lost $266.67, which is <span fontStyle="italic">more than</span> $100.</p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p>In these types of problems you <span fontStyle="italic">never</span> break even. Eliminate Choice 1. When you make a profit, your purchase price is less than your selling price, and when you incur a loss, your purchase price is greater than your selling price. So the first painting cost less than $2,000 and the second cost more than $2,000. So Leo earned 25% of a small amount and lost 25% of a large amount. He surely lost money. Eliminate Choices 4 and 5. If you can’t solve as above, guess between Choices 2 and 3.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

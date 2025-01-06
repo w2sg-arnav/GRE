@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s2/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >A characteristic of romanticism NOT mentioned in this passage is its</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>elevation of nature</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>preference for spontaneity</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>modernity of ideas</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>unconcern for artistic decorum</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>simplicity of language</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">simplicity of language.</span></p>
+<p>The author never mentions <span fontStyle="italic">simplicity of language</span> as a characteristic of romanticism.</p>
+
+<p><span fontStyle="italic">Elevation of nature</span> is incorrect. The passage refers to his <span fontStyle="italic">continued faith in nature</span> as one aspect of Goethe’s romanticism.</p>
+
+<p><span fontStyle="italic">Preference for spontaneity</span> is incorrect. The passage refers to impulsiveness or <span fontStyle="italic">spontaneity</span> as savoring strongly of romantic individualism.</p>
+
+<p><span fontStyle="italic">Modernity of ideas </span>is incorrect. Since romanticism has <span fontStyle="italic">formed </span>so many modern attitudes, one finds in romanticism ideas that seem noteworthy for their modernity.</p>
+
+<p><span fontStyle="italic">Unconcern for artistic decorum</span> is incorrect. The passage refers to <span fontStyle="italic">a disregard of artistic or logical propriety</span> as characteristic of romanticism.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

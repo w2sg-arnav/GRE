@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>In Europe, where wine has been part of daily life for thousands of years, American wine-lovers are sometimes viewed as __________&#8212;zealous and somewhat narrow-minded converts to a generous and pantheistic faith.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[artisans]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[hypocrites]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[monomaniacs]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[reprobates]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[surrogates]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">monomaniacs.</span></p>
+<p><span fontStyle="italic">Monomaniacs</span> are people who concentrate excessively on a single object. In this case, the excessively zealous American wine-lovers are considered <span fontStyle="italic">monomaniacs</span> by their European counterparts, who are less obsessive in their appreciation of wine.</p>
+<p><span fontStyle="italic">Artisans</span> is incorrect. <span fontStyle="italic">Artisans</span> are skilled manual workers. The term is inappropriate in the context.</p>
+<p><span fontStyle="italic">Hypocrites </span>is incorrect. <span fontStyle="italic">Hypocrites </span>are people who pretend to possess some virtue or skill, but who are faking it. American wine-lovers, however, are not faking their love for wine; they are "zealous and somewhat narrow-minded converts" to the wine-lovers’ religion.</p>
+<p><span fontStyle="italic">Reprobates </span>is incorrect. <span fontStyle="italic">Reprobates</span> are unprincipled, wicked people. The term makes no sense in the context.</p>
+<p><span fontStyle="italic">Surrogates</span> is incorrect. <span fontStyle="italic">Surrogates</span> are people who take other’s places, substituting for them. The term makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

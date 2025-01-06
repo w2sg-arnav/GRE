@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >Which question did Lind’s experiment NOT answer?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Will lemons cure scurvy?</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Will either sulfuric acid or vinegar cure scurvy?</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Will pure citric acid cure scurvy?</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Are lemons more effective than either sulfuric acid or vinegar in the treatment of scurvy?</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Are all substances that contain acids equally effective as treatments for scurvy?</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Will pure citric acid cure scurvy?</span></p>
+<p>Lind’s experiment did not answer the question <span fontStyle="italic">Will pure citric acid cure scurvy?</span>  Lind did not use pure citric acid.  He used lemon juice, which contains other substances besides citric acid.</p>
+<p><span fontStyle="italic">Will lemons cure scurvy </span>is incorrect. Lind’s experiment answered the question <span fontStyle="italic">Will lemons cure scurvy?</span>  The sailors who ate the lemons recovered.</p>
+<p><span fontStyle="italic">Will either sulfuric acid or vinegar cure scurvy</span> is incorrect. Lind’s experiment answered the question <span fontStyle="italic">Will either sulfur acid or vinegar cure scurvy?</span>  The sailors who were given either sulfur acid or vinegar failed to recover.</p>
+<p><span fontStyle="italic">Are lemons more effective than either sulfuric acid or vinegar in the treatment of scurvy</span> is incorrect. Lind’s experiment answered the question <span fontStyle="italic">Are lemons more effective than either sulfuric acid or vinegar in the treatment of scurvy?</span> The lemons were more effective than both the sulfuric acid and the vinegar.</p>
+<p><span fontStyle="italic">Are all substances that contain acids equally effective as treatments for scurvy</span> is incorrect. Lind’s experiment answered the question <span fontStyle="italic">Are all substances that contain acids equally effective as treatments for scurvy?</span> All the substances that contained acids were not equally effective as treatments for scurvy.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

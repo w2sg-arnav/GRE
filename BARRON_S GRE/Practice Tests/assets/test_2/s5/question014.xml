@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s5_014.swf"/></p>
+<p>In which of the following pairs of years were the ratios of Republican receipts to Democratic receipts most nearly equal?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1981&#8211;82 and 1985&#8211;86</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1983&#8211;84 and 1995&#8211;96</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1987&#8211;88 and 1989&#8211;90</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1987&#8211;88 and 1995&#8211;96</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1991&#8211;92 and 1993&#8211;94</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">1987&#8211;88 and 1989&#8211;90</span></p>
+<p>For each of the pairs of years in question, use the graph to approximate the ratio of Republican to Democratic receipts. For example, in 1981&#8211;82, Republican receipts were slightly over $200 million and Democratic receipts were about $40 million, a ratio of 5:1. The only two pairs of years in which the ratio was very close were 1987&#8211;88 and 1989&#8211;90; in both of those pairs of years the ratio was very nearly 2:1.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

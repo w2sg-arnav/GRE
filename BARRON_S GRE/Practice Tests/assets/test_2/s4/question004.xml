@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>In a sense, Constable’s art and politics were shaped by one dominant emotion: an abiding, even obsessive ________ the world of his rural childhood, the only world in which he probably felt at ease.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>divergence from</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>attachment to</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>regard for</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>ignorance of</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>facility with</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>indifference to</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">attachment to; regard for.</span></p>
+<p>If the world of Constable’s rural childhood was the only world in which he felt comfortable, then one could best describe the emotion he felt for it as an abiding <span fontStyle="italic">attachment</span> (devotion) or <span fontStyle="italic">regard</span> (esteem).</p>
+
+<p><span fontStyle="italic">Divergence from</span> is incorrect. <span fontStyle="italic">Divergence</span> (branching off or deviation) is not an emotion.</p>
+
+<p><span fontStyle="italic">Ignorance of</span> is incorrect. <span fontStyle="italic">Ignorance</span> is not an emotion.</p>
+
+<p><span fontStyle="italic">Facility with</span> is incorrect. <span fontStyle="italic">Facility</span> (ease due to skill or practice) is not an emotion.</p>
+
+<p><span fontStyle="italic">Indifference to</span> is incorrect. If the world of Constable’s rural childhood indeed was the only world in which he felt comfortable, then he would have cared about it; he would not  have been <span fontStyle="italic">indifferent</span> to it.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

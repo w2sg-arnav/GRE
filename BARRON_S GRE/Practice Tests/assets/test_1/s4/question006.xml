@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The hypothesis tested by Lind was that</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>lemons contain some substance not present in vinegar</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>the citric acid in lemons is effective in treating scurvy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>lemons contain some unknown acid that cures scurvy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>the substance to cure scurvy is found only in lemons</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>some specific substance, rather than acids in general, is needed to cure scurvy</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">some specific substance, rather than acids in general, is needed to cure scurvy</span>.</p>
+<p>Hall and Harvey seemed to have established the fact that acids are effective, but Lind’s experiment was to find out whether it was acidity or some specific substance perhaps associated with acids that cured scurvy. Today we know this substance is ascorbic acid, found both in Hall’s brew and in the lemon juice suggested by Harvey.</p>
+<p><span fontStyle="italic">Lemons contain some substance not present in vinegar</span> is incorrect. Lind was testing more than the acid in lemons and vinegar.</p>
+<p><span fontStyle="italic">The citric acid in lemons is effective in treating scurvy </span>is incorrect. Lind was testing more than the acid in lemons.</p>
+<p><span fontStyle="italic">Lemons contain some unknown acid that cures scurvy</span> is incorrect. Lind was testing more than the acid in lemons.</p>
+<p><span fontStyle="italic">The substance to cure scurvy is found only in lemons</span> is incorrect. Lind was testing whether it was acidity or some specific substance perhaps associated with acids that cured scurvy.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

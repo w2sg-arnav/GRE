@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p  textAlign="center"><span fontStyle="italic">ab</span> &#8800; 0</p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_007.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">It is impossible to determine which quantity is greater.</span></p>
+<p>Since <span fontStyle="italic">ab</span> &#8800; 0, neither <span fontStyle="italic">a</span> nor <span fontStyle="italic">b</span> is 0. If <span fontStyle="italic">a </span>and <span fontStyle="italic">b</span> are each 1, then Quantity A = 4, and Quantity B = 0; if, however,</p>
+<p><span fontStyle="italic">a</span> = 1 and <span fontStyle="italic">b</span> = &#8722;1, then Quantity A = 0 and Quantity B = 4. Neither quantity is always greater, and the two quantities are not always equal.</p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p>Quantity A = <span fontStyle="italic">a</span><span baselineShift="superscript">2</span> + 2<span fontStyle="italic">ab</span> + <span fontStyle="italic">b</span><span baselineShift="superscript">2</span>. Quantity B = <span fontStyle="italic">a</span><span baselineShift="superscript">2</span> &#8211; 2<span fontStyle="italic">ab</span> + <span fontStyle="italic">b</span><span baselineShift="superscript">2</span>.</p>
+<p>After subtracting <span fontStyle="italic">a</span><span baselineShift="superscript">2</span> + <span fontStyle="italic">b</span><span baselineShift="superscript">2</span> from each quantity, we have to compare 2<span fontStyle="italic">ab </span>and &#8211; 2<span fontStyle="italic">ab</span>: either one could be positive and the other negative.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

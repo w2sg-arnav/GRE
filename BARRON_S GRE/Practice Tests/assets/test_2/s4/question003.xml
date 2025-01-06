@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Although she had to ________ that her nephew was rather slow to draw an inference, she did so with reluctance, and pointed out that, to his credit, he did not often jump to conclusions.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>acknowledge</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>relinquish</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>concede</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>approve</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>instigate</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>waive</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">acknowledge; concede. </span></p>
+<p>Read the sentence and try to come up with your own word to fill the blank.  Although she had to <span fontStyle="italic">admit</span> that her nephew was slow, she was reluctant to do so. She did not wish to <span fontStyle="italic">acknowledge</span> or <span fontStyle="italic">concede</span> that he was thick as a plank.</p>
+
+<p><span fontStyle="italic">Relinquish</span> is incorrect. <span fontStyle="italic">Relinquish</span> (surrender; release) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Approve</span> is incorrect. <span fontStyle="italic">Approve</span> makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Instigate</span> is incorrect. <span fontStyle="italic">Instigate</span> (provoke; incite) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Waive</span> is incorrect. <span fontStyle="italic">Waive</span> (refrain from claiming; put aside) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

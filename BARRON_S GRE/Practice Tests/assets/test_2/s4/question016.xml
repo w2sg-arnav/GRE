@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s4/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >According to the passage, the natural relationship between government and individual liberty is one of</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>marked indifference</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>secret collusion</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>inherent opposition</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>moderate complicity</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>fundamental interdependence</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">inherent opposition.</span></p>
+<p>The author says that the tendency for a government to encroach upon individual liberty to the extent to which it has the power to do so is "almost a natural law" of politics. Thus, government and individual liberty are <span fontStyle="italic">inherently</span> by their very natures in <span fontStyle="italic">opposition</span> to one another.</p>
+
+<p><span fontStyle="italic">Marked indifference</span> is incorrect. To describe the relationship between government and individual liberty as one of <span fontStyle="italic">marked indifference</span> (pronounced lack of interest) makes no sense.</p>
+   
+<p><span fontStyle="italic">Secret collusion</span> is incorrect. To describe the relationship between government and individual liberty as one of <span fontStyle="italic">secret collusion</span> (hidden conspiracy) makes no sense.</p>
+   
+<p><span fontStyle="italic">Moderate complicity</span> is incorrect. To describe the relationship between government and individual liberty as one of <span fontStyle="italic">moderate complicity</span> (limited involvement in wrongdoing) makes no sense.</p>
+   
+<p><span fontStyle="italic">Fundamental interdependence</span> is incorrect. The author is not describing the relationship between government and individual liberty as one of <span fontStyle="italic">fundamental interdependence</span> (an essential</p>
+<p>mutual reliance).</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

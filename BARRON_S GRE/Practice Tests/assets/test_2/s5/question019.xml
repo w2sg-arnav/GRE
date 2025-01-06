@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="019">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Let <span fontStyle="italic">P</span> and <span fontStyle="italic">Q</span> be points which are two inches apart, and let <span fontStyle="italic">A</span> be the area, in square 
+inches, of a circle which passes through <span fontStyle="italic">P</span> and <span fontStyle="italic">Q</span>. Which of the following is the set of all possible values of <span fontStyle="italic">A</span>?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0 &#60; <span fontStyle="italic">A</span></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>0 &#60; <span fontStyle="italic">A</span> &#8804; π</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">A</span> = π</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">A</span> &#62; π</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">A</span> &#8805; π</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="32"><span fontStyle="italic" fontWeight="bold">A &#8805; π</span></p>
+<p lineHeight="32">If <span fontStyle="italic">PQ</span> is a diameter of the circle, then its radius is 1 and <span fontStyle="italic">A</span>, its area, is π. This is the smallest possible value of <span fontStyle="italic">A</span>, but <span fontStyle="italic">A</span> can be any number larger than π if the radius is made sufficiently large, as show by the figures below.</p>
+<p lineHeight="120%"><img source="assets/images/tst2_s5_019.swf"/></p>
+<p lineHeight="32">The answer is <span fontStyle="italic">A</span> &#8805; π.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

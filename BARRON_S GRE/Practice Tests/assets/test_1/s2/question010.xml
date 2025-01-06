@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s2/passage002.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >By referring to the period at the end of the sentence, the author intends to point out the atom’s</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>density</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>mystery</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>velocity</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>consistency</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>minuteness</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">minuteness.</span></p>
+<p>The comparison emphasizes the smallness or <span fontStyle="italic">minuteness </span>of atoms.</p>
+
+<p><span fontStyle="italic">Density </span>is incorrect. Density refers to mass, not to size.</p>
+
+<p><span fontStyle="italic">Mystery</span> is incorrect. Punctuation marks such as periods are not necessarily mysterious; they are, however, small.</p>
+
+<p><span fontStyle="italic">Velocity</span> is incorrect. Velocity refers to speed, not to size.</p>
+
+<p><span fontStyle="italic">Consistency</span> is incorrect. Consistency refers to density or viscosity, not to size.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

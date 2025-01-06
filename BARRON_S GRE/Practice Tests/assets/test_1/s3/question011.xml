@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" numberDisplayOffset="18">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="32"><span fontStyle="italic">A</span> and <span fontStyle="italic">B</span> are independent events, and the probability that both events occur is <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_002.swf"/>. Which of the following could be the probability that event <span fontStyle="italic">A</span> occurs?</p>
+<p lineHeight="32">Indicate <span textDecoration="underline">all</span> such probabilities.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices layout="middle">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008" paddingTop="5"><p>0</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p paragraphSpaceAfter="0"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_003.swf"/></p> <p lineHeight="17"></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p paragraphSpaceAfter="0"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_004.swf"/></p><p lineHeight="17"></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p paragraphSpaceAfter="0"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_005.swf"/></p><p lineHeight="17"></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008" paddingTop="5"><p>1</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choices</span> <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_004.swf"/>, <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_005.swf"/>, <span fontWeight="bold">and 1.</span></p>
+<p lineHeight="44">Since events <span fontStyle="italic">A </span>and <span fontStyle="italic">B</span> are independent, P(<span fontStyle="italic">A</span> and <span fontStyle="italic">B</span>) = P(<span fontStyle="italic">A</span>) &#215; P(<span fontStyle="italic">B</span>) and so P(<span fontStyle="italic">A</span>) &#215; P(<span fontStyle="italic">B</span>) = <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_038.swf"/>.</p>
+<p lineHeight="44">Since their product is <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_039.swf"/>, neither P(<span fontStyle="italic">A</span>) nor P(<span fontStyle="italic">B</span>) can be 0, and, of course, no probability is negative. So each is a positive number less than or equal to 1. Then P(<span fontStyle="italic">B</span>) &#8804; 1 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_040.swf"/> = P(<span fontStyle="italic">B</span>) &#215; P(<span fontStyle="italic">A</span>) &#8804; P(<span fontStyle="italic">A</span>). So we can eliminate answer choices 1 and 2. Each of the other answer choices <span fontStyle="italic">is</span> possible.</p>
+<p lineHeight="44">P(<span fontStyle="italic">A</span>) = <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_041.swf"/> and P(<span fontStyle="italic">B</span>) = 1</p>
+<p lineHeight="44">P(<span fontStyle="italic">A</span>) = <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_042.swf"/> and P(<span fontStyle="italic">B</span>) = <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_043.swf"/></p>
+<p lineHeight="44">P(<span fontStyle="italic">A</span>) = 1 and P(<span fontStyle="italic">B</span>) = <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_044.swf"/></p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

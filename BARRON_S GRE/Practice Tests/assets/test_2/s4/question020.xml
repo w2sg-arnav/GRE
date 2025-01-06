@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s4/passage004.xml"/>>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >In the context in which it appears, "transparent" most nearly means</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>fragile</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>translucent</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>patent</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>brittle</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>relevant</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">patent.</span></p>
+<p>A <span fontStyle="italic">transparent</span> violation of the Second Amendment would be a violation that was obvious or easily detected. In other words, it would be a <span fontStyle="italic">patent</span> (readily evident) violation of the law.</p>
+
+<p><span fontStyle="italic">Fragile</span> is incorrect. <span fontStyle="italic">Fragile</span> (easily broken) is inappropriate in this context.</p>
+   
+<p><span fontStyle="italic">Translucent</span> is incorrect. <span fontStyle="italic">Translucent</span> (permitting light to pass through in a diffused fashion) is inappropriate in this context.</p>
+   
+<p><span fontStyle="italic">Brittle</span> is incorrect. <span fontStyle="italic">Brittle</span> (hard and rigid, but breakable) is inappropriate in this context.</p>
+   
+<p><span fontStyle="italic">Relevant</span> is incorrect. <span fontStyle="italic">Relevant</span> (pertinent; applicable) is inappropriate in this context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

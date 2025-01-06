@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If a line passes through the origin and the point (3, <span fontStyle="italic">d</span>), where 3 &#60; <span fontStyle="italic">d</span> &#60; 6, which of the following could be the slope of the line?</p>
+<p></p>
+<p>Indicate <span textDecoration="underline">all</span> such slopes.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices  layout="middle">
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>1</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p paragraphSpaceAfter="0"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_009.swf"/></p><p lineHeight="17"></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p paragraphSpaceAfter="0"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_011.swf"/></p><p lineHeight="17"></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p paragraphSpaceAfter="0"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_012.swf"/></p><p lineHeight="17"></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p paragraphSpaceAfter="0"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_008.swf"/></p><p lineHeight="17"></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p paragraphSpaceAfter="0"><img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_010.swf"/></p><p lineHeight="17"></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>2</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="32"><span fontWeight="bold">Choices</span> <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_009.swf"/>, <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_011.swf"/>, <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_012.swf"/>, <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_008.swf"/>, and <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_010.swf"/>.</p>
+<p lineHeight="44">Make a quick sketch</p>
+<p lineHeight="120%"><img source="assets/images/tst1_s3_018.swf"/></p>
+<p  lineHeight="44">• The slope of line <span fontStyle="italic">l</span>, which passes through (0, 0) and (3, 6) is <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_052.swf"/> = 2.</p>
+<p  lineHeight="44">• The slope of line <span fontStyle="italic">m</span>, which passes through (0, 0) and (3, 3) is <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_053.swf"/> =1.</p>
+<p  lineHeight="44">• The slope of any line that passes through (0, 0) and (3, <span fontStyle="italic">d</span>), where 3 &#60; <span fontStyle="italic">d</span> &#60; 6 must be between 1 and 2.</p>
+<p  lineHeight="44">• Only choices 2, 3, 4, 5, and 6 are greater than 1 and less than 2.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

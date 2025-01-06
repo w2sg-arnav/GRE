@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Raphael created works that were avidly sought by the most powerful and discriminating secular and ecclesiastical princes of his day.  Some favored patrons he readily (i)________; others, like the demanding Isabella d’Este, the overtaxed artist (ii)________ with polite but (iii)________ promises.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[encountered]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[distrusted]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[obliged]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[strung along]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[told off]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[came across]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[sincere]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[pointed]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[idle]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">obliged; strung along; idle.</span></p>
+<p>The key phrase is <span fontStyle="italic">the overtaxed artist</span>. <span fontStyle="italic">Overtaxed</span> here means stressed or overburdened. What demands stressed the painter Raphael? The demands of the powerful figures who <span fontStyle="italic">avidly sought to purchase his paintings</span>. How did he deal with these would-be patrons? Some he readily <span fontStyle="italic">obliged</span> (accommodated); others he <span fontStyle="italic">strung along</span> (kept waiting in a state of uncertainty) with polite but <span fontStyle="italic">idle</span> (empty) promises.</p>
+
+<p><span fontStyle="italic">Encountered </span>is incorrect. <span fontStyle="italic">Encountered</span> (met) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Distrusted</span> is incorrect. <span fontStyle="italic">Distrusted </span>(suspected; doubted) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Told off</span> is incorrect. <span fontStyle="italic">Told off</span> (rebuked severely) makes no sense in the context: Raphael would have been unlikely to scold a favored patron.</p>
+
+<p><span fontStyle="italic">Came across</span> is incorrect. <span fontStyle="italic">Came across</span> (encountered) makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Sincere</span> is incorrect.  The phrase <span fontStyle="italic">polite but ________</span> has deprecatory overtones.  <span fontStyle="italic">Sincere</span> does not work</p>
+<p>in this context.</p>
+
+<p><span fontStyle="italic">Pointed</span> is incorrect. <span fontStyle="italic">Pointed</span> (sharp or piercing; marked) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

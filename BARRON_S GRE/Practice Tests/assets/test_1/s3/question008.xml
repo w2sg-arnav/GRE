@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_008a.swf"/></p>
+<p  textAlign="center">The radius of the large circle is <span fontStyle="italic">R.</span></p>
+<p  textAlign="center">The radius of the small circle is <span fontStyle="italic">r</span>.</p>
+<p  textAlign="center">The areas of the shaded region and the white region are equal.</p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_008b.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity B is greater.</span></p>
+<p lineHeight="32">The area of the large circle is π<span fontStyle="italic">R</span><span baselineShift="superscript">2</span> and the area of the small circle is π<span fontStyle="italic">r</span><span baselineShift="superscript">2</span>, so the area of the shaded region is</p>
+<p lineHeight="32">π<span fontStyle="italic">R</span><span baselineShift="superscript">2</span> &#8211; π<span fontStyle="italic">r</span><span baselineShift="superscript">2</span> = π(<span fontStyle="italic">R</span><span baselineShift="superscript">2</span> &#8211; <span fontStyle="italic">r</span><span baselineShift="superscript">2</span>). Since the shaded region and the white region have the same area, </p>
+<p lineHeight="32">π(<span fontStyle="italic">R</span><span baselineShift="superscript">2</span> &#8211; <span fontStyle="italic">r</span><span baselineShift="superscript">2</span>) = π<span fontStyle="italic">r</span><span baselineShift="superscript">2</span> <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">R</span><span baselineShift="superscript">2</span> &#8211; <span fontStyle="italic">r</span><span baselineShift="superscript">2</span> = <span fontStyle="italic">r</span><span baselineShift="superscript">2</span> <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">R</span><span baselineShift="superscript">2</span> = 2<span fontStyle="italic">r</span><span baselineShift="superscript">2</span> <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_030.swf"/> = 2 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_032.swf"/> = <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_033.swf"/>. Since <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_034.swf"/> &#60; 1.5. Quantity B is greater.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

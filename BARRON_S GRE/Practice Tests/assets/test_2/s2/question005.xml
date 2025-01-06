@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>A ________ of errors led to a major malfunction in the operating system.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>condemnation</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>concatenation</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>paucity</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>chain</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>cancellation</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>taxonomy</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">concatenation; chain. </span></p>
+<p>A <span fontStyle="italic">concatenation</span> (series of interconnected things) or <span fontStyle="italic">chain</span> of 
+   errors could well lead to a malfunction (failure to work properly).</p>
+
+<p><span fontStyle="italic">Condemnation</span> is incorrect.  <span fontStyle="italic">Condemnation</span> means censure.  A condemnation of errors should not lead to a malfunction of the operating system.</p>
+
+<p><span fontStyle="italic">Paucity</span> is incorrect.  <span fontStyle="italic">Paucity</span> means lack or dearth.  A lack of errors should not lead to a malfunction of the operating system.</p>
+
+<p><span fontStyle="italic">Cancellation</span> is incorrect.  <span fontStyle="italic">Cancellation</span> means a decision to stop something.  A cancellation of errors should not lead to a malfunction of the operating session.</p> 
+
+<p><span fontStyle="italic">Taxonomy</span> is incorrect.  <span fontStyle="italic">Taxonomy </span>is the science or technique of classification.  The word makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>After the devastating eruption, fear of Mount Etna was great: people did not return to cultivate its rich hillside lands until the volcano had been ________ for two years.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>dormant</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>flagrant</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>pungent</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>inchoate</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>quiescent</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>dilatory</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">dormant; quiescent.</span></p>
+<p>People naturally would fear the vicinity of an actively erupting volcano and would stay away from the area until the volcano had been <span fontStyle="italic">quiescent </span>(at rest) or <span fontStyle="italic">dormant</span> (inactive) for some time.</p>
+
+<p><span fontStyle="italic">Flagrant</span> is incorrect.  <span fontStyle="italic">Flagrant</span> means blatant or outrageous.  It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Pungent</span> is incorrect.  <span fontStyle="italic">Pungent</span> means acrid-tasting or strong-smelling. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Inchoate</span> is incorrect.  <span fontStyle="italic">Inchoate</span> means undeveloped or not fully formed. It makes no sense in the context.</p>
+
+<p><span fontStyle="italic">Dilatory</span> is incorrect.  <span fontStyle="italic">Dilatory</span> means tardy or tending to delay. It makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

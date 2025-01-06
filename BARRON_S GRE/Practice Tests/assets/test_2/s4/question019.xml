@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s4/passage004b.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The sentence "Formerly…licensing of guns" has which of the following functions in the passage?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It introduces a view that the succeeding sentence will help support.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It presents an argument that the succeeding sentence will refute.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It raises a question that the succeeding sentence will undermine.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Choice 1.</span></p>
+<p>In the first sentence, the author asserts that it was risky for a politician to introduce federal gun legislation. The second sentence provides background for this assertion, giving details that amplify and support the author’s statement. Thus, the first sentence <span fontStyle="italic">introduces a view that the succeeding sentence will help support</span>.</p>
+
+<p>Choice 2 is incorrect. Nothing in the second sentence <span fontStyle="italic">refutes</span> or disproves the assertion made in the first sentence.</p>
+   
+<p>Choice 3 is incorrect. The first sentence does not raise a question.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Because the vast majority of Cambodia’s population is made up of members of a single ethnic group, the Khmer, the country possesses a (i) __________ unique in Southeast Asia that has (ii) __________ a strong sense of national identity.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[sophistication]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[heterodoxy]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[homogeneity]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[encouraged]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[abandoned]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[exacerbated]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">homogeneity; encouraged.</span></p>
+<p>The key phrases here are <span fontStyle="italic">single ethnic group </span>and<span fontStyle="italic"> strong sense of national identity</span>. How would you describe a population largely made up of members of a single ethnic group? You would call is basically <span fontStyle="italic">homogeneous</span> (all of the same kind; uniform). How would the <span fontStyle="italic">homogeneity</span> (uniformity of composition) of the nation’s population affect the country’s sense of national identity? Most likely, it would <span fontStyle="italic">encourage</span> or strengthen that sense of national identity.</p>
+<p><span fontStyle="italic">Sophistication</span> is incorrect. Nothing in the sentence suggests that Cambodia possesses a unique <span fontStyle="italic">sophistication</span> (refinement; worldly wisdom).</p>
+<p><span fontStyle="italic">Heterodoxy</span> is incorrect. Nothing in the sentence suggests that Cambodia possesses a unique <span fontStyle="italic">heterodoxy </span>(lack of orthodoxy).</p>
+<p><span fontStyle="italic">Abandoned </span>is incorrect. Nothing in the sentence suggests that Cambodia had <span fontStyle="italic">abandoned</span> or discarded its sense of national identity.</p>
+<p><span fontStyle="italic">Exacerbated</span> is incorrect. Nothing in the sentence suggests that Cambodia has <span fontStyle="italic">exacerbated</span> or aggravated its sense of national identity.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

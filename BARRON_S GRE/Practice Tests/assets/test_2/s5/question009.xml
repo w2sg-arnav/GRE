@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Scott has <span fontStyle="italic">b</span> baseball cards. Brian has one card more than Scott has. Adam has three cards fewer than Scott has. In terms of <span fontStyle="italic">b</span>, how many cards do the three boys have altogether?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">b</span> &#8722; 2</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p><span fontStyle="italic">b</span> &#8722; 1</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>3<span fontStyle="italic">b</span></p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>3<span fontStyle="italic">b</span> &#8722; 1</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>3<span fontStyle="italic">b</span> &#8722; 2</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">3</span><span fontStyle="italic" fontWeight="bold">b</span><span fontWeight="bold"> &#8722; 1</span></p>
+<p>Just add: <span fontStyle="italic">b</span> + (<span fontStyle="italic">b</span> + 1) + [(<span fontStyle="italic">b</span> + 1) &#8722; 3] = 2<span fontStyle="italic">b</span> + 1 + [<span fontStyle="italic">b</span> &#8722; 2] = 3<span fontStyle="italic">b</span> &#8722; 1.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

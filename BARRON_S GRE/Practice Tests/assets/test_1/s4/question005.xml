@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Eager to set off on their ski trip, the boys packed up their gear and climbed into the van with ____________.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>expedition</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>alacrity</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>arrogance</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>difficulty</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>prodigality</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>skepticism</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">expedition, alacrity.</span></p>
+<p>The key word here is <span fontStyle="italic">eager</span>. Because the boys are eager to set off, they get ready with <span fontStyle="italic">expedition</span> (speedy promptness) or alacrity (briskness; cheerful willingness). Note the secondary meaning of <span fontStyle="italic">expedition </span>here.</p>
+<p><span fontStyle="italic">Arrogance </span>is incorrect. <span fontStyle="italic">Arrogance</span> means haughtiness or proud contempt. The noun makes no sense in the context.</p>
+<p><span fontStyle="italic">Difficulty</span> is incorrect. Nothing in the sentence suggests that the boys have any <span fontStyle="italic">difficulty</span> climbing into the van.</p>
+<p><span fontStyle="italic">Prodigality</span> is incorrect. <span fontStyle="italic">Prodigality</span> means wasteful extravagance. The noun makes no sense in the context.</p>
+<p><span fontStyle="italic">Skepticism</span> is incorrect. <span fontStyle="italic">Skepticism </span>means doubt or disbelief. The noun makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

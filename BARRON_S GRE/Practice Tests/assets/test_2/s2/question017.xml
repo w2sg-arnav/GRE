@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_2/s2/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The author’s attitude towards Lind’s experiment can best be described as one of</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>measured indignation</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>wholehearted admiration</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>resigned forbearance </p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>qualified appreciation </p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>fulsome adulation</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">qualified appreciation.</span></p>
+<p>The author appreciates many aspects of Lind’s experiment (he enumerates its "obvious commendable features"). However, his <span fontStyle="italic">appreciation</span> is <span fontStyle="italic">qualified</span>: he limits his approbation, approving those aspects of the experiment that he finds commendable and pointing out other aspects of the experiment that do not meet with his approval.</p>
+
+<p><span fontStyle="italic">Measured indignation</span> is incorrect. While the author does have some critical comments to make about Lind’s experiment, his attitude towards it is not one of <span fontStyle="italic">measured indignation</span> (restrained righteous anger).</p>
+
+<p><span fontStyle="italic">Wholehearted admiration</span> is incorrect. The author makes critical comments about Lind’s experiment. His attitude towards it is not one of <span fontStyle="italic">wholehearted admiration</span> (earnest approval).</p>
+
+<p><span fontStyle="italic">Resigned forebearance</span> is incorrect. While the author does have some critical comments to make about Lind’s experiment, his attitude towards it is not one of <span fontStyle="italic">resigned forbearance</span> (philosophical patient endurance).</p>
+
+<p><span fontStyle="italic">Fulsome adulation</span> is incorrect. The author makes critical comments about Lind’s experiment. His attitude towards it is not one of <span fontStyle="italic">fulsome adulation</span> (excessively overdone admiration).</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

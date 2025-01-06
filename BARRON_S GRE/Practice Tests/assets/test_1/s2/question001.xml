@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Rather than allowing these dramatic exchanges between her characters to develop fully, Ms. Norman unfortunately tends to _____________ the discussions involving two women.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>exacerbate</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>curtail</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>protract</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>augment</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>truncate</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>elaborate</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">curtail, truncate.</span></p>
+<p>Instead of allowing the exchanges to develop fully, the playwright <span fontStyle="italic">curtails</span> them (cuts them short) or <span fontStyle="italic">truncates </span>them.</p>
+<p><span fontStyle="italic">Exacerbate </span>is incorrect. The playwright does not <span fontStyle="italic">exacerbate</span> the exchanges,  making them  increasingly bitter; instead, she cuts them short.</p>
+<p><span fontStyle="italic">Protract</span> is incorrect. The playwright does not <span fontStyle="italic">protract</span> (lengthen; prolong) the exchanges; instead, she cuts them short.</p>
+<p><span fontStyle="italic">Augment</span> is incorrect. The playwright does not <span fontStyle="italic">augment</span> (increase; expand) the exchanges; instead, she cuts them short.</p>
+<p><span fontStyle="italic">Elaborate</span> is incorrect. The playwright does not <span fontStyle="italic">elaborate</span> (embellish; clarify) the exchanges; instead, she cuts them short.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

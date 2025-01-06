@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>The cigar smoker went into a bitter ____________, forcefully denouncing the antismoking forces that had succeeded in banning smoking from most planes and restaurants.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>tirade</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>euphemism</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>diatribe</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>reverie</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>dichotomy</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>postulate</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">tirade, diatribe.</span></p>
+<p>The key word here is <span fontStyle="italic">denouncing</span>. A <span fontStyle="italic">tirade</span> is by definition a bitter outburst or vehement denunciation. A <span fontStyle="italic">diatribe</span> is by definition a sharply abusive denunciation or attack.</p>
+<p><span fontStyle="italic">Euphemism </span>is incorrect. The key word here is <span fontStyle="italic">denouncing</span>. A <span fontStyle="italic">euphemism</span> is a mild expression used in place of an unpleasant or offensive one. It makes no sense in the context.</p>
+<p><span fontStyle="italic">Reverie </span>is incorrect. The key word here is <span fontStyle="italic">denouncing</span>. A <span fontStyle="italic">reverie</span> is a daydream or state of dreamy meditation. It makes no sense in the context.</p>
+<p><span fontStyle="italic">Dichotomy</span> is incorrect. The key word here is <span fontStyle="italic">denouncing</span>. A <span fontStyle="italic">dichotomy</span> is a division or split into two branches. It makes no sense in the context.</p>
+<p><span fontStyle="italic">Postulate</span> is incorrect. The key word here is <span fontStyle="italic">denouncing</span>. A <span fontStyle="italic">postulate</span> is a basic principle or prerequisite. It makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

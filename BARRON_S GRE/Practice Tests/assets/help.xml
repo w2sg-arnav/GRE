@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<barrons:help xmlns:barrons="http://ns.barronseduc.com/cds/">
+<![CDATA[
+<TextFlow fontFamily="Arial" fontSize="16" paddingTop="5" paddingBottom="5" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontSize="18" fontWeight="bold">Help Topics</span></p>
+<p></p>
+<p><span fontSize="14" fontWeight="bold">General Navigation</span></p>
+<p textIndent="0"><span>This CD can be navigated using the blue buttons on the menu and question screens. To navigate, place the cursor over a button, then click and release.</span></p>
+<p><span><br/></span><span fontSize="14" fontWeight="bold">Examinations</span></p>
+<p textIndent="0"><span>This CD contains two practice tests. You have a choice of timed and untimed modes for each test, which you select by clicking the appropriate button. To select an answer to a test question, click the button of the appropriate answer choice. If you want to change your answer, click again on the answer choice button to clear it. You can see correct answers to questions when using practice mode (untimed) by clicking on the view answer button. </span></p>
+<p paragraphStartIndent="0" textIndent="10"><span></span></p>
+<p paragraphStartIndent="0" textIndent="0"><span>In the practice mode, you will have the option of marking questions that you can later return to. Once a section has been completed, you’ll be given the opportunity to go through all of the questions or just the marked ones and make adjustments.  This function is not available in the timed mode.</span></p>
+<p paragraphStartIndent="0" textIndent="10"><span></span></p>
+<p><span>The model examinations are in the format of a complete test. Once you begin taking a test, you must complete it without closing the application. If you close the application during a test, you will have to start the test over.</span></p>
+<p><span></span></p>
+<p><span>After completing the test, you will see a button on the right labeled </span><span fontWeight="bold">Continue</span><span>. When you click the button, you will be presented with an answer key on the left and a calculation of your score for the multiple-choice section near the middle of the screen. You will also be given the means of calculating your free-response score and a chart that lets you calculate your approximate GRE score. Each answer in the answer key can be clicked on to open the answer explanation window. </span></p>
+<p><span><br/></span></p></TextFlow>
+]]>
+
+</barrons:help>

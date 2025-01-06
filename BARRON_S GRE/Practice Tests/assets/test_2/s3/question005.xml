@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p  textAlign="center">The measures of the angles in ΔI are in the ratio of 1:2:3</p>
+<p  textAlign="center">The measures of the angles in ΔII are in the ratio 2:7:9</p>
+<p></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s3_005.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantities A and B are equal.</span></p>
+<p>In each triangle the largest angle is the sum of the two smaller ones (3 = 1 + 2 and 9 = 2 + 7), so each is</p>
+<p>a 90º angle. The quantities are equal.</p>
+<p></p>
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p>In ratio problems, write <span fontStyle="italic">x</span> after each number and solve.</p>
+<p>Quantity A: <img source="assets/images/tst2_eqn_046.swf"/>.</p>
+<p>Quantity B: <img source="assets/images/tst2_eqn_047.swf"/>.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

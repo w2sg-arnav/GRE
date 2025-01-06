@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>In a certain state, each license plate consists of either three digits (between 0 and 9, inclusive) followed by two letters or three letters followed by two digits.  For example, 055-XY, 123-PP, and AAA-70 are all acceptable plates. How many different license plates can the state issue?</p>
+</TextFlow>]]>
+</barrons:question>
+<barrons:answer value="2433600" suffix=""/> <!-- puts the text after the input field -->
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">2,433,600</span></p>
+<p>If you use the counting principle, this question can be answered by simple arithmetic, which you should do with the calculator.</p>
+<p>• License plates with three digits followed by two letters: there are 10 ways to choose each of the digits and 26 ways to choose each of the letters, so there are 10 × 10 × 10 × 26 × 26 = 676,000 plates in this format.</p>
+<p>• License plates with three letters followed by two digits: again, there are 26 ways to choose each letter and 10 ways to choose each digit, so there are 26 × 26 × 26 × 10 x 10 = 1,757,600 plates in this format.</p>
+<p>• Finally, there are 676,000 + 1,757,600 = 2,433,600 different plates that can be issued.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

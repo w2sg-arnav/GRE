@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/"  numberDisplayOffset="18">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>If <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_013.swf"/>, what is the value of <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_014.swf"/>?</p>
+</TextFlow>]]>
+</barrons:question>
+<barrons:answer value="98" suffix=""/> <!-- puts the text after the input field -->
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">98</span></p>
+<p lineHeight="44">100 = <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_056.swf"/>.</p>
+<p lineHeight="44">Subtracting 2 from each side of the equations above yields <img dominantBaseline="ideographicCenter" source="assets/images/tst1_eqn_057.swf"/> = 98.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

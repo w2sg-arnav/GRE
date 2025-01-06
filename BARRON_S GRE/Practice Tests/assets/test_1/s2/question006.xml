@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s2/passage001.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The author’s attitude towards Goethe’s writing is best described as</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>unqualified endorsement</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>lofty indifference</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>reluctant tolerance</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>measured admiration</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>undisguised contempt</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">measured admiration.</span></p>
+<p>The author both admires Goethe’s writings and notes their flaws; his attitude is one of <span fontStyle="italic">measured admiration</span>.</p>
+
+<p><span fontStyle="italic">Unqualified endorsement</span> is incorrect. The author <span fontStyle="italic">qualifies</span> (places limits on) his <span fontStyle="italic">endorsement</span> (approval) of Goethe’s writing by making a point of noting their flaws.</p>
+
+<p><span fontStyle="italic">Lofty indifference</span> is incorrect. The author is not <span fontStyle="italic">indifferent</span> to Goethe’s writings; he cares about his subject matter.</p>
+
+<p><span fontStyle="italic">Reluctant tolerance </span>is incorrect. The author does not merely <span fontStyle="italic">tolerate</span> (endure; accept) Goethe’s writings; in general, he admires them.</p>
+
+<p><span fontStyle="italic">Undisguised contempt</span> is incorrect. The author does not view Goethe’s writings with <span fontStyle="italic">contempt</span> (scorn); in general, he admires them.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

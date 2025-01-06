@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage002.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The passage indicates that all of the following were true of Benin between 1989 and 2006 EXCEPT:</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> It underwent a transition from a nonrepresentative form of government to a representative form.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> There were periodic allegations that the electoral system had been compromised.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> It was noteworthy for its transformation from a dictatorship to a popular democracy.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It moved from a Marxist-Leninist dictatorship to a military government.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>The country’s first president had previously served as its prime minister.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">It moved from a Marxist-Leninist dictatorship to a military government.</span></p>
+<p>According to the passage, Benin actually abandoned the military governmental structure back in 1972.</p>
+<p><span fontStyle="italic">It underwent a transition from a nonrepresentative form of government to a representative form</span> is incorrect.  Benin <span fontStyle="italic">made the first successful transfer of power in Africa from a dictatorship to a democracy</span>. Therefore, it is true that the country <span fontStyle="italic">underwent a transition from a nonrepresentative form of government to a representative form.</span></p>
+<p><span fontStyle="italic">There were periodic allegations that the electoral system had been compromised</span> is incorrect.  According to the passage, <span fontStyle="italic">some irregularities</span> were alleged in the elections of 1996 and 2001. Thus, there clearly <span fontStyle="italic">were periodic allegations that the electoral system had been compromised</span> (made vulnerable to suspicion; jeopardized).</p>
+<p><span fontStyle="italic">It was noteworthy for its transformation from a dictatorship to a popular democracy</span> is incorrect. The passage states that Benin <span fontStyle="italic">made the first successful transfer of power in Africa from a dictatorship to a democracy</span>. Clearly such a transformation <span fontStyle="italic">was noteworthy for </span>the government.</p>
+<p><span fontStyle="italic">The country’s first president had previously served as its prime minister</span> is incorrect.  In 1991, <span fontStyle="italic">free elections ushered in former Prime Minister Nicephore Soglo as president</span>. Thus, it is true that <span fontStyle="italic">the country’s first president had previously served as its prime minister.</span></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage004.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >During the years 1933&#8211;1936, American foreign policy may best be described as a policy of
+</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>overt belligerence</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>deliberate noninvolvement</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>moral indignation</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>opportunistic profiteering</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>covert collusion</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">deliberate noninvolvement.</span></p>
+<p>Despite their indignation against the Third Reich’s outrages during the years 1933&#8211;1936, Americans generally favored isolationist policies and neutrality, as witnessed by the Neutrality Acts of 1935 and 1936. Thus, American foreign policy during the period may best be described as a policy of <span fontStyle="italic">deliberate noninvolvement</span> or nonintervention.</p>
+<p><span fontStyle="italic">Overt belligerence </span> is incorrect. In the early to mid-1930s, American foreign policy favored isolationist policies and neutrality, not <span fontStyle="italic">overt belligerence</span> (openly warlike hostility).</p>
+<p><span fontStyle="italic">Moral indignation</span> is incorrect. While there was great indignation in America at the Third Reich’s actions, American foreign policy was not one of <span fontStyle="italic">moral indignation.
+</span></p>
+<p><span fontStyle="italic">Opportunistic profiteering</span> is incorrect. The Neutrality Acts of 1935 and 1936 demonstrated that America’s foreign policy was to stand by its principles and refuse to trade with the belligerent nations. Thus, American foreign policy in the period was <span fontStyle="italic">not</span> one of <span fontStyle="italic">opportunistic profiteering</span>.</p>
+<p><span fontStyle="italic">Covert collusion</span> is incorrect. It was not American foreign policy to engage in <span fontStyle="italic">covert collusion</span> (hidden conspiracy) with the forces of the Third Reich.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

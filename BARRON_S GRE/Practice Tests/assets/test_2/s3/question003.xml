@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%"  textAlign="center"><img source="assets/images/tst2_s3_003a.swf"/></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s3_003b.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity B is greater.</span></p>
+<p>Since <span fontStyle="italic">x</span> and <span fontStyle="italic">y</span> are each greater than 60, <span fontStyle="italic">x</span> + <span fontStyle="italic">y</span> &#62; 120 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">m</span>&#8736;<span fontStyle="italic">B</span> &#60; 60º. So &#8736;<span fontStyle="italic">B</span> is the smallest angle and <span fontStyle="italic">AC</span>, the side opposite &#60; <span fontStyle="italic">B</span>, is the smallest side. Since <span fontStyle="italic">AB</span> is 10, <span fontStyle="italic">AC</span> must be less than 10.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

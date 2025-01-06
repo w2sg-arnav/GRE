@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>By holding the balance of power in the sparsely settled borderlands between English and French settlements, and by their (i)________ to use their power against one or the other nation if not appropriately treated, the Iroquois played the game of European power politics with (ii)________.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[hesitancy]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[willingness]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[incapacity]]></barrons:choice>
+		</barrons:blank>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[partiality]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[diversity]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[effectiveness]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">willingness; effectiveness.</span></p>
+<p>It is easier to answer this question if you tackle the second blank first.  If the Iroquois were holding the balance of power between the English and the French in the borderlands, then they were doing well in playing the game of European power politics. In fact, they were playing it with <span fontStyle="italic">effectiveness</span>. And what made them so effective was their <span fontStyle="italic">willingness</span> to use their power if they were not treated well.</p>
+
+<p><span fontStyle="italic">Hesitancy</span> is incorrect. They would not have done well at the game of power politics if they had shown any <span fontStyle="italic">hesitancy</span> (reluctance) about using their power.</p>
+
+<p><span fontStyle="italic">Incapacity</span> is incorrect. They would not have done well at the game of power politics if they had shown any <span fontStyle="italic">incapacity</span> (inability) to use their power.</p>
+
+<p><span fontStyle="italic">Partiality</span> is incorrect. The Iroquois felt free to use their power "against one or the other nation." They showed no <span fontStyle="italic">partiality</span> (bias or favoritism) in playing one side against the other.</p>
+
+<p><span fontStyle="italic">Diversity</span> is incorrect. <span fontStyle="italic">Diversity </span>(variety) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p  textAlign="center">The first term of a sequence is 1. Starting with the second term,</p>
+<p textAlign="center">each term is 1 less than 3 times the previous term.</p>
+<p></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_005.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity A is greater.</span></p>
+<p>Write out the first few items being careful to follow the directions. The first term is 1.  The second term is 1 less than 3 times the first term: 3(1) &#8211; 1 = 2. The third term is 1 less than 3 times the second term: 3(2) &#8211; 1 = 5. Continue: 3(5) &#8211; 1 = 14; 3(14) &#8211; 1 = 41; 3(41) &#8211; 1 = 122. The smallest number greater than 100 is 122.</p>
+<p>Quantity A is greater.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

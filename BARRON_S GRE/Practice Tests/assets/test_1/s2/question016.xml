@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s2/passage003.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >Throughout the passage the author seeks to support his point primarily by the use of</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>academic publications</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>personal anecdotes</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>scholarly lectures</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>doctoral dissertations</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>professional considerations</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">personal anecdotes.</span></p>
+<p>The author tells <span fontStyle="italic">personal anecdotes</span> about events in the academic careers of Logan, Huggins, and Litwack.</p>
+
+<p><span fontStyle="italic">Academic publications </span>is incorrect. While the author refers to <span fontStyle="italic">academic publications</span>, he is not supporting his point primarily by the use of such publications.</p>
+
+<p><span fontStyle="italic">Scholarly lectures</span> is incorrect. While the author refers to a <span fontStyle="italic">scholarly lecture</span>, he is not supporting his point primarily through this lecture.</p>
+
+<p><span fontStyle="italic">Doctoral dissertations </span>is incorrect. While the author refers to a doctoral dissertation, he is not supporting his point primarily through this dissertation.</p>
+
+<p><span fontStyle="italic">Professional considerations</span> is incorrect. <span fontStyle="italic">Professional considerations</span> (practical concern about employment in the historical profession) makes no sense in the context.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

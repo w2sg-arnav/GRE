@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_002a.swf"/></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_002b.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantities A and B are equal.</span></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s3_002c.swf"/></p>
+<p>Since the measure of an exterior angle of a triangle is equal the sum of the measures of the two opposite interior angles, 140 = 70 + <span fontStyle="italic">y</span>, and so <span fontStyle="italic">y</span> = 70. Therefore, angles <span fontStyle="italic">A</span> and <span fontStyle="italic">B</span> are equal, and so are the sides opposite them: <span fontStyle="italic">AC</span> = <span fontStyle="italic">BC</span>. The quantities are equal.</p>
+
+<p><span fontWeight="bold">Alternative Solution:</span></p>
+<p>If you don’t know the theorem about the exterior angle, first find <span fontStyle="italic">x</span>:<span fontStyle="italic"> x</span> + 140 = 180 <img dominantBaseline="ideographicCenter" source="assets/images/double_arrow.swf"/> <span fontStyle="italic">x</span> = 40. Then, since the sum of the measures of the three angles of a triangle is 180, <span fontStyle="italic">y </span>= 70.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

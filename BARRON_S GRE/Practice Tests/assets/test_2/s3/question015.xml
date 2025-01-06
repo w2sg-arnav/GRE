@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/" number="015">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst2_s3_014.swf"/></p>
+<p>If the retail sales of ABC Mega Stores were 20% higher in 2009 than in 2008 and if in 2009 Kitchen Appliances accounted for 30% of the total sales, then the sales of Kitchen Appliances in 2009 were how much less than the sales of Kitchen Appliances in 2008?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>$400,000</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>$600,000</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>$800,000</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>$1,000,000</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>$1,200,000</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">$400,000</span></p>
+<p>From the chart we see that in 2008, total sales were $10,000,000. In 2009, after a 20% increase, total sales were $12,000,000. From the circle graph we see that in 2008, sales of Kitchen Appliances were $4,000,000 (49% of $10,000,000). In 2009, sales of Kitchen Appliances were $3,600,000 (30% of $12,000,000)&#8212;a decrease of $400,000.</p>
+<p></p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

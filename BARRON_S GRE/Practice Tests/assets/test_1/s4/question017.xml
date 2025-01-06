@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:passage src="assets/test_1/s4/passage005.xml"/>
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p >The author’s attitude toward the school of historical writing he discusses can best be described as one of</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> grudging approbation</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> puzzled fascination</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> relentless enmity</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> measured admiration</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p> open disdain</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">open disdain.</span></p>
+<p>The author’s highly negative analysis of the article in <span fontStyle="italic">Américas</span> suggests that his attitude toward the school of historical writing it exemplifies is one of <span fontStyle="italic">open disdain</span> or scorn.</p>
+<p><span fontStyle="italic">Grudging approbation</span> in incorrect. The author shows no <span fontStyle="italic">approbation</span> (approval) whatsoever of the school of historical writing under discussion.</p>
+<p><span fontStyle="italic">Puzzled fascination</span> is incorrect. The author is neither <span fontStyle="italic">fascinated</span> nor <span fontStyle="italic">puzzled</span> by the school of historical writing under discussion; he understands its flaws and criticizes its effectiveness.</p>
+<p><span fontStyle="italic">Relentless enmity</span> is incorrect. While the author is critical of the school of historical writing under discussion, his negative attitude toward it is not strong enough to be classified as <span fontStyle="italic">relentless enmity </span>(hatred).</p>
+<p><span fontStyle="italic">Measured admiration</span> is incorrect. The author shows no <span fontStyle="italic">admiration</span> (respect; esteem) whatsoever for the school of historical writing under discussion.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

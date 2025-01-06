@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p  textAlign="center"><span fontStyle="italic">x</span> + <span fontStyle="italic">y </span>= 1</p>
+<p></p>
+<p lineHeight="120%" textAlign="center"><img source="assets/images/tst1_s5_003.swf"/></p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity A is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantity B is greater.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>Quantities A and B are equal.</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>It is impossible to determine which quantity is greater.</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">Quantity B is greater.</span></p>
+<p>Since <span fontStyle="italic">x</span> + <span fontStyle="italic">y</span> = 1, at least one of the numbers is positive. If either <span fontStyle="italic">x</span> or <span fontStyle="italic">y</span> is 0, the product <span fontStyle="italic">xy</span> = 0; and if either one is negative, then <span fontStyle="italic">xy</span> is negative. In each case, <span fontStyle="italic">xy</span> is less than 1. If both <span fontStyle="italic">x</span> and<span fontStyle="italic"> y</span> are positive, then each is less than 1, and so is their product. Quantity B is greater.</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
+

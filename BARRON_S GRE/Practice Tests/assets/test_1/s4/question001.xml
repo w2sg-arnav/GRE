@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>In giving advice to his son, old Polonius expressed himself only in ___________; every bit of counsel he gave was a truism.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>chestnuts</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>platitudes</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>suppositions</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>encomiums</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>conundrums</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>epithets</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+<barrons:explanation>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p><span fontWeight="bold">chestnuts, platitudes.</span></p>
+<p>The key word here is <span fontStyle="italic">truism</span>. <span fontStyle="italic">Platitudes</span> are trite remarks or clichés, banal comments uttered as if they were original. <span fontStyle="italic">Chestnuts</span> are old, timeworn saying or tales. So are truisms.</p>
+<p><span fontStyle="italic">Supposition </span>is incorrect. The key word here is <span fontStyle="italic">truism</span>. <span fontStyle="italic">Suppositions</span> are assumptions or hypotheses. They are not truisms (obvious truths; clichés).</p>
+<p><span fontStyle="italic">Encomiums</span> is incorrect. The key word here is <span fontStyle="italic">truism</span>. <span fontStyle="italic">Encomiums</span> are expressions of praise. They are not truisms (obvious truths; clichés).</p>
+<p><span fontStyle="italic">Conundrums</span> is incorrect. The key word here is <span fontStyle="italic">truism</span>. <span fontStyle="italic">Conundrums</span> are puzzles. They are not truisms (obvious truths; clichés).</p>
+<p><span fontStyle="italic">Epithets</span> is incorrect. The key word here is <span fontStyle="italic">truism</span>. <span fontStyle="italic">Epithets</span> are descriptive words or phrases, often derogatory. They are not truisms (obvious truths; clichés).</p>
+</TextFlow>]]>
+</barrons:explanation>
+</question_content>
